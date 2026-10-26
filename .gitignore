@@ -1,0 +1,11 @@
+# Share Markdown, active Python scripts, and linked POP Word/PDF source files.
+# Keep images, generated indexes, backups, spreadsheets, and other files out.
+# Narrow these rules when the repository is ready to publish more assets.
+*
+!*/
+!*.md
+!*.py
+!*.doc
+!*.docx
+!*.pdf
+!.gitignore
