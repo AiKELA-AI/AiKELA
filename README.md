@@ -25,7 +25,7 @@ You do not need to be a programmer to use the knowledge files. The simplest way 
 | `packs/<pack-slug>/templates/` | A Pack's own programme template, when supplied. |
 | `packs/<pack-slug>/planners/` | Pack-specific year and term plans. |
 | `packs/<pack-slug>/programmes/` | Pack-specific meeting programmes and exports. |
-| `export_programme_pdf.py` | Turns a programme Markdown file into a print-ready landscape PDF using LibreOffice. |
+| `scripts/` | POP conversion, catalogue generation, review and PDF export tools. |
 
 The knowledge base is for South African Cub Scouting. Official SSA sources are the authority for requirements. An activity idea or an AI suggestion must not be presented as an official badge requirement.
 
@@ -160,7 +160,7 @@ Every extracted entry also carries the full advancement/badge information stated
 Install LibreOffice on your computer if it is not already installed. Then, from the repository folder, run:
 
 ```sh
-python3 export_programme_pdf.py packs/<pack-slug>/programmes/<meeting-plan>.md
+python3 scripts/export_programme_pdf.py packs/<pack-slug>/programmes/<meeting-plan>.md
 ```
 
 The PDF is saved in a `pdf/` folder beside the programme. Use `-o FOLDER` to choose a different destination. If a PDF with that name already exists, the exporter stops rather than replacing it; add `--overwrite` only when you intend to replace that copy.
@@ -171,7 +171,7 @@ To contribute through GitHub, create a branch or fork, make your changes, then o
 
 ## Optional: maintaining the conversion tools
 
-Most users do not need Python or the conversion scripts. They are for maintainers who process source documents or refresh library catalogues. After adding or renaming a library item, run its index builder from the repository root: `python3 build_game_index.py`, `python3 build_yarn_index.py`, `python3 build_craft_index.py` or `python3 build_activity_index.py`. The scripts and their dependencies can change; inspect the current script and its instructions before running it. Never use a conversion command that writes over files under `docs/pop/src/`.
+Most users do not need Python or the conversion scripts. They are for maintainers who process source documents or refresh library catalogues. After adding or renaming a library item, run its index builder from the repository root: `python3 scripts/build_game_index.py`, `python3 scripts/build_yarn_index.py`, `python3 scripts/build_craft_index.py` or `python3 scripts/build_activity_index.py`. The scripts and their dependencies can change; inspect the current script and its instructions before running it. Never use a conversion command that writes over files under `docs/pop/src/`.
 
 ## Important use notes
 

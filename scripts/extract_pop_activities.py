@@ -15,7 +15,7 @@ from pathlib import Path
 from typing import Any
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 POP = ROOT / "docs" / "pop"
 DOCS = ROOT / "docs"
 SOURCE_PAGE = "https://scoutwiki.scouts.org.za/wiki/Programmes_on_a_Plate"

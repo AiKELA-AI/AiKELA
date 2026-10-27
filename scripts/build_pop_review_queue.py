@@ -8,7 +8,7 @@ from collections import defaultdict
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 POP = ROOT / "docs" / "pop"
 PROGRAMMES = POP / "programmes"
 ELEMENT_FOLDERS = [ROOT / "docs" / folder for folder in ("games", "yarns", "crafts", "activities")]
