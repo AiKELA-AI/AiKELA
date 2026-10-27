@@ -9,3 +9,4 @@
 !*.docx
 !*.pdf
 !.gitignore
+/.idea/

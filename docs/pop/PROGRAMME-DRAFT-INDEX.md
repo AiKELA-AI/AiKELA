@@ -1,0 +1,100 @@
+# POP Programme Draft Index
+
+First-pass reconstructions pair programme documents with matching attachments. Source wording and visuals are retained; uncertain mappings, advancement links and incomplete source instructions need Scouter review.
+
+- [20000 Leagues Under the Sea](programmes/20000-leagues-under-the-sea.md) — 9 standalone elements; name match.
+- [Aborigine](programmes/aborigine.md) — 8 standalone elements; name match.
+- [African Footprint](programmes/african-footprint.md) — 6 standalone elements; name match.
+- [African Safari](programmes/african-safari.md) — 5 standalone elements; name match.
+- [B P's Early Life](programmes/b-p-s-early-life.md) — 6 standalone elements; name match.
+- [B P at School](programmes/b-p-at-school.md) — 8 standalone elements; name match.
+- [Be Prepared for Anything](programmes/be-prepared-for-anything.md) — 5 standalone elements; name match.
+- [Blast from the Past 9](programmes/blast-from-the-past-9.md) — 5 standalone elements; name match.
+- [Blast Off](programmes/blast-off.md) — 5 standalone elements; name match.
+- [Bright Eyes](programmes/bright-eyes.md) — 7 standalone elements; name match.
+- [Buddy Bounce](programmes/buddy-bounce.md) — 5 standalone elements; name match.
+- [Capsize](programmes/capsize.md) — 6 standalone elements; name match.
+- [Code 10](programmes/code-10.md) — 7 standalone elements; name match.
+- [Colossus of Rhodes 3](programmes/colossus-of-rhodes-3.md) — 9 standalone elements; name match.
+- [Concrete Jungle](programmes/concrete-jungle.md) — 6 standalone elements; name match.
+- [Crossfire](programmes/crossfire.md) — 6 standalone elements; name match.
+- [Detectives](programmes/detectives.md) — 7 standalone elements; name match.
+- [Egg Citing](programmes/egg-citing.md) — 8 standalone elements; name match.
+- [Explorers](programmes/explorers.md) — 6 standalone elements; name match.
+- [Exploring is Fun 1](programmes/exploring-is-fun-1.md) — 7 standalone elements; name match.
+- [Florence Nightingale](programmes/florence-nightingale.md) — 6 standalone elements; name match.
+- [Fly Away](programmes/fly-away.md) — 9 standalone elements; name match.
+- [Games of Ten](programmes/games-of-ten.md) — 7 standalone elements; name match.
+- [Get up and Go](programmes/get-up-and-go.md) — 7 standalone elements; name match.
+- [Ging Gang Gooli](programmes/ging-gang-gooli.md) — 7 standalone elements; name match.
+- [Grow your Friends](programmes/grow-your-friends.md) — 7 standalone elements; name match.
+- [Grow your World](programmes/grow-your-world.md) — 6 standalone elements; name match.
+- [Gullivers Travels](programmes/gullivers-travels.md) — 4 standalone elements; name match.
+- [Hanging Gardens of Babylon 2](programmes/hanging-gardens-of-babylon-2.md) — 6 standalone elements; probable name match (76%); verify the pairing.
+- [Happiness is being a Cub](programmes/happiness-is-being-a-cub.md) — 8 standalone elements; name match.
+- [Herd Boy](programmes/herd-boy.md) — 7 standalone elements; name match.
+- [Hot and Humid](programmes/hot-and-humid.md) — 3 standalone elements; name match.
+- [In the middle of No Where](programmes/in-the-middle-of-no-where.md) — 8 standalone elements; name match.
+- [Inuit](programmes/inuit.md) — 12 standalone elements; name match.
+- [It's all within your reach](programmes/it-s-all-within-your-reach.md) — 3 standalone elements; name match.
+- [Joining Hands](programmes/joining-hands.md) — 10 standalone elements; name match.
+- [Just what does BP mean](programmes/just-what-does-bp-mean.md) — 7 standalone elements; name match.
+- [Let me Entertain You](programmes/let-me-entertain-you.md) — 5 standalone elements; name match.
+- [Lighthouse of Alexandria 5](programmes/lighthouse-of-alexandria-5.md) — 5 standalone elements; name match.
+- [Lost in the Jungle](programmes/lost-in-the-jungle.md) — 6 standalone elements; name match.
+- [Magnificent Men](programmes/magnificent-men.md) — 8 standalone elements; name match.
+- [Making a Difference](programmes/making-a-difference.md) — 7 standalone elements; name match.
+- [Masks](programmes/masks.md) — 8 standalone elements; name match.
+- [Mausoleum of Halicarnassus 6](programmes/mausoleum-of-halicarnassus-6.md) — 6 standalone elements; name match.
+- [Meet my new Friend](programmes/meet-my-new-friend.md) — 6 standalone elements; name match.
+- [Music to my ears](programmes/music-to-my-ears.md) — 6 standalone elements; name match.
+- [Nelson Mandela](programmes/nelson-mandela.md) — 5 standalone elements; name match.
+- [Our Heritage](programmes/our-heritage.md) — 7 standalone elements; name match.
+- [Pharoah](programmes/pharoah.md) — 7 standalone elements; name match.
+- [Pirates (Special Pack Meeting)](programmes/pirates-special-pack-meeting.md) — 9 standalone elements; name match.
+- [Pyramids 7](programmes/pyramids-7.md) — 8 standalone elements; name match.
+- [Rumble in the Jungle](programmes/rumble-in-the-jungle.md) — 5 standalone elements; name match.
+- [Sailing the Ocean Blue](programmes/sailing-the-ocean-blue.md) — 6 standalone elements; name match.
+- [Special People](programmes/special-people.md) — 6 standalone elements; name match.
+- [Splash](programmes/splash.md) — 7 standalone elements; name match.
+- [Spring Fun](programmes/spring-fun.md) — 6 standalone elements; name match.
+- [Statue of Zeus 8](programmes/statue-of-zeus-8.md) — 9 standalone elements; name match.
+- [Stick a Stamp](programmes/stick-a-stamp.md) — 5 standalone elements; name match.
+- [Super Heroes](programmes/super-heroes.md) — 3 standalone elements; name match.
+- [Tarzan in the Jungle](programmes/tarzan-in-the-jungle.md) — 7 standalone elements; name match.
+- [Temple at Artimis 4](programmes/temple-at-artimis-4.md) — 6 standalone elements; name match.
+- [Ten Minutes after Midnight](programmes/ten-minutes-after-midnight.md) — 8 standalone elements; name match.
+- [Thunderbolt and Lightning](programmes/thunderbolt-and-lightning.md) — 7 standalone elements; name match.
+- [Toothpick](programmes/toothpick.md) — 7 standalone elements; name match.
+- [Transportation](programmes/transportation.md) — 8 standalone elements; name match.
+- [Tree Tops](programmes/tree-tops.md) — 7 standalone elements; name match.
+- [Turnaround](programmes/turnaround.md) — 8 standalone elements; name match.
+- [Underwater](programmes/underwater.md) — 6 standalone elements; name match.
+- [Up](programmes/up.md) — 6 standalone elements; name match.
+- [Water is Life](programmes/water-is-life.md) — 7 standalone elements; name match.
+- [Whats that smell](programmes/whats-that-smell.md) — 7 standalone elements; name match.
+- [Whistle Stop Tour](programmes/whistle-stop-tour.md) — 7 standalone elements; name match.
+- [Winter Olympics](programmes/winter-olympics.md) — 6 standalone elements; name match.
+- [Winter Warm Up](programmes/winter-warm-up.md) — 6 standalone elements; name match.
+- [Winter Wonderland](programmes/winter-wonderland.md) — 6 standalone elements; name match.
+- [Yummy Tummy](programmes/yummy-tummy.md) — 5 standalone elements; name match.
+- [Back In Time Overview](programmes/back-in-time-overview.md) — no confident attachment match.
+- [Circular 12 Programmes on a Plate](programmes/circular-12-programmes-on-a-plate.md) — no confident attachment match.
+- [Cuboree Overview](programmes/cuboree-overview.md) — no confident attachment match.
+- [Evaluation form](programmes/evaluation-form.md) — no confident attachment match.
+- [Master Spy Overview](programmes/master-spy-overview.md) — no confident attachment match.
+- [Oh The Places you Will Go Overview](programmes/oh-the-places-you-will-go-overview.md) — no confident attachment match.
+- [On Tour with BP Overview](programmes/on-tour-with-bp-overview.md) — no confident attachment match.
+- [Our Mother Nature Backyard Overview](programmes/our-mother-nature-backyard-overview.md) — no confident attachment match.
+- [Out of this World Overview](programmes/out-of-this-world-overview.md) — no confident attachment match.
+- [Out on a Safari Overview](programmes/out-on-a-safari-overview.md) — no confident attachment match.
+- [Overview Its All About the Cubs](programmes/overview-its-all-about-the-cubs.md) — no confident attachment match.
+- [Overview Its All About the Deed 1](programmes/overview-its-all-about-the-deed-1.md) — no confident attachment match.
+- [Overview Its All About the Fun](programmes/overview-its-all-about-the-fun.md) — no confident attachment match.
+- [Overview Its All About the Skill](programmes/overview-its-all-about-the-skill.md) — no confident attachment match.
+- [POP July Notes Read First](programmes/pop-july-notes-read-first.md) — no confident attachment match.
+- [PoP instructions](programmes/pop-instructions.md) — no confident attachment match.
+- [Programmes on a Plate 2015](programmes/programmes-on-a-plate-2015.md) — no confident attachment match.
+- [WORK SESSION INDEX](programmes/work-session-index.md) — no confident attachment match.
+
+Generated 94 programme drafts and 502 unique labelled standalone elements.
