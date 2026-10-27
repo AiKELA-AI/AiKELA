@@ -13,7 +13,8 @@ sources.
 * A programme is normally one Pack meeting on a Friday evening, scheduled for 17:15–18:45 (90 minutes) using the current Word template.
 * Some programmes have Part 1 and Part 2 and are intentionally run over two
   weeks.
-* Each programme has a story that links its elements together. The Word plan must be self-contained: include the full yarn and all instructions and equipment needed to run it; do not refer leaders to other documents.
+* A yarn is optional. When used, the Word plan must be self-contained: include the full yarn and all instructions and equipment needed to run it; do not rely on leaders opening other documents.
+* Short read-aloud story snippets may link programme sections. Each should add a new beat to the yarn and lead into the next activity; do not repeat the yarn or reveal an activity's outcome in advance. Put each snippet in an available blank spacer row between the activities it connects, in italics. If more transitions need space, add matching spacer rows to the programme table. Do not leave these passages only in a separate activity guide section.
 * Games are important for reinforcing the lesson: “play as we learn” is a
   priority. Some games are included simply for fun and do not need to teach a
   lesson.
@@ -77,8 +78,13 @@ When adapting a POP source for this Pack, replace references to “bones” when
 they mean reward counters with beans. Do not change a source reference to
 actual bones used as an activity object.
 
-## Term 1 2027 Knots
+## Knots
 
+### Term 4 2026
+* Round turn and 2 half hitches.
+* Hank a long rope
+
+### Term 1 2027
 * Silver Wolf: reef knot.
 * Gold Wolf: sheet bend.
 
