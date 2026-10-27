@@ -20,6 +20,8 @@ You do not need to be a programmer to use the knowledge files. The simplest way 
 | `docs/pop/` | Programme on a Plate Markdown references. |
 | `docs/pop/src/` | Local original POP files used during conversion. Binary source files are excluded from the Markdown-only GitHub upload; Markdown entries keep the source filename and link to the ScoutWiki resource page. |
 | `docs/games/`, `docs/yarns/`, `docs/crafts/`, `docs/activities/` | Growing libraries extracted from programmes, with source references where available. |
+| `docs/games/GAMES-INDEX.md`, `docs/yarns/YARNS-INDEX.md` | Source-neutral catalogues for finding reusable games and yarns. |
+| `docs/crafts/CRAFTS-INDEX.md`, `docs/activities/ACTIVITIES-INDEX.md` | Source-neutral catalogues for finding reusable crafts and activities. |
 | `packs/<pack-slug>/templates/` | A Pack's own programme template, when supplied. |
 | `packs/<pack-slug>/planners/` | Pack-specific year and term plans. |
 | `packs/<pack-slug>/programmes/` | Pack-specific meeting programmes and exports. |
@@ -143,6 +145,7 @@ To add or improve resources:
 * Keep original source files in `docs/pop/src/` and do not overwrite them.
 * Add readable, source-linked references in the appropriate `docs/` library.
 * Record the source title or filename, source URL when known, and date/version when available.
+* Search the existing library before creating a new game, yarn, craft or activity. Label an item as reused, adapted or newly created. Add new reusable elements as standalone files in the relevant shared library and update its source-neutral index; name AI-created material honestly rather than inventing a source.
 * Keep official requirements distinct from interpretations, activity connections and new suggestions.
 * Flag outdated, conflicting, ambiguous or incomplete information for review.
 * For a new meeting plan, use the template in the selected Pack's folder. Keep the programme and its instructions with that Pack.
@@ -168,7 +171,7 @@ To contribute through GitHub, create a branch or fork, make your changes, then o
 
 ## Optional: maintaining the conversion tools
 
-Most users do not need Python or the conversion scripts. They are for maintainers who process source documents. The scripts and their dependencies can change; inspect the current script and its instructions before running it. Never use a conversion command that writes over files under `docs/pop/src/`.
+Most users do not need Python or the conversion scripts. They are for maintainers who process source documents or refresh library catalogues. After adding or renaming a library item, run its index builder from the repository root: `python3 build_game_index.py`, `python3 build_yarn_index.py`, `python3 build_craft_index.py` or `python3 build_activity_index.py`. The scripts and their dependencies can change; inspect the current script and its instructions before running it. Never use a conversion command that writes over files under `docs/pop/src/`.
 
 ## Important use notes
 

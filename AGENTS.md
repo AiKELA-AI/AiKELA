@@ -50,17 +50,23 @@ Flag outdated, conflicting, ambiguous or incomplete material. Preserve dates and
 * `docs/pop/src/` contains original downloaded POP files. Preserve these; do not edit or overwrite them during conversion.
 * `docs/games/`, `docs/yarns/`, `docs/crafts/` and `docs/activities/` are shared, multi-source libraries seeded with POP material. They may also contain official SSA, Pack-supplied and external entries. Preserve each item's actual provenance; do not attach a POP source to material from elsewhere. Treat historical POP entries as candidates and check source and safety before reuse.
 * `docs/games/GAMES-INDEX.md` is the source-neutral games catalogue. `docs/games/POP-EXTRACTED-INDEX.md` is the POP-only seed catalogue.
+* `docs/yarns/YARNS-INDEX.md` is the source-neutral yarn catalogue. `docs/yarns/POP-EXTRACTED-INDEX.md` lists only POP-extracted yarns.
+* `docs/crafts/CRAFTS-INDEX.md` and `docs/activities/ACTIVITIES-INDEX.md` are source-neutral catalogues; the corresponding `POP-EXTRACTED-INDEX.md` files remain POP-only.
 * `docs/advancements/` contains one task page per supplied Silver Wolf and Gold Wolf requirement. Each task page preserves the requirement wording and links to the source sheet; practice links are suggestions, not claims that an element completes a badge task.
 * `docs/The-Cub-Trail-Nov-19.pdf` is the latest Scouts South Africa Cub Trail reference available in this repository (November 2019, as confirmed by the Pack leader). The Silver and Gold Wolf Challenge Badge Requirement PDFs dated August 2014 are historical; use the Cub Trail where they differ, while preserving the older sources for comparison.
 * `packs/<pack-slug>/` contains Pack-specific profiles, templates, planners and programmes. Read only the profile for the Pack being supported.
 * `convert_pop_to_structured_markdown.py` converts files from `docs/pop/src/` to Markdown in `docs/pop/`.
 * `extract_pop_activities.py` regenerates activity catalogues from structured POP files.
 * `build_game_index.py` regenerates the source-neutral games catalogue.
+* `build_yarn_index.py` regenerates the source-neutral yarn catalogue.
+* `build_craft_index.py` and `build_activity_index.py` regenerate their source-neutral catalogues.
 * `archive/pop-legacy-markdown/` contains earlier text-only conversions; structured files in `docs/pop/` supersede them.
 
 Every library entry must show an explicit **Advancement / badge link** field and a **Visual aid / image reference** field. Do not reproduce obsolete POP progression labels or present those as current advancement. Where a historical task matches a current Silver Wolf or Gold Wolf requirement, cite that requirement and note any difference or condition. If no match is verified, retain the task wording only as an unverified historical task, without the obsolete label. Keep unrelated programme-wide tasks out of individual elements. Preserve original source files and source conversions as archival records. For other sources, record only the advancement connection the source supports; do not infer badge credit. Link the actual source or identify user-supplied material when no external source was provided. Note any named image, diagram, template or attachment. Never imply that an activity satisfies an SSA requirement without verification from an authoritative SSA source.
 
 Preserve original source documents. Do not silently produce empty or misleading conversions.
+
+Before creating a game, yarn, craft, activity or other reusable programme element, search the relevant library and source material for a suitable existing item. Reuse it when it fits; if adapting it, keep its source and identify the adaptation. If creating a new reusable item, add a standalone file to the appropriate shared `docs/` library and update its source-neutral index. Record whether it was reused, adapted or newly created, and accurately identify its provenance (for example, “AI-created for [programme]”); never invent an external source. Keep the programme itself in the selected Pack's folder and self-contained when that Pack's profile requires it. New reusable elements should be available to other Packs, not only embedded in one meeting plan.
 
 ## Pack-specific profiles
 
@@ -88,7 +94,7 @@ Do not claim an activity satisfies an SSA requirement unless that connection is 
 
 ### Writing programme plans
 
-Use the current programme template from the selected Pack folder and follow its fields. If no template is provided, make a practical run sheet that keeps time, activity instructions, equipment, leader assignment and verified advancement target together. Consult that Pack’s profile for its meeting order, timing, inspection, assignment and bean-counting practices. Keep all instructions needed to run the programme with the programme document; do not rely on Pack-specific details from another folder. Label games, sense training, crafts, singing, playacting and work sessions where applicable. Include a linking story or yarn when the Pack profile requests one. Do not present programme participation as automatic advancement sign-off.
+Use the current programme template from the selected Pack folder and follow its fields. If no template is provided, make a practical run sheet that keeps time, activity instructions, equipment, leader assignment and verified advancement target together. Consult that Pack’s profile for its meeting order, timing, inspection, assignment and bean-counting practices. Keep all instructions needed to run the programme with the programme document; do not rely on Pack-specific details from another folder. Label games, sense training, crafts, singing, playacting and work sessions where applicable. A yarn is optional. When a yarn or story snippets are used, let each read-aloud passage advance the story and connect to the next activity; do not repeat the yarn or reveal an activity's outcome before Cubs try it. Put spoken snippets where they are read in the programme, following the Pack template and profile. Do not present programme participation as automatic advancement sign-off.
 
 ### Term planner method
 

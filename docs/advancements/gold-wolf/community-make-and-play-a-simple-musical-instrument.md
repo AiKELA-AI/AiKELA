@@ -17,3 +17,4 @@ These games, activities and crafts offer relevant practice. Read each note to se
 
 
 - [Traditional Dance / Musical Instruments](../../activities/traditional-dance-musical-instruments.md) — Cubs make simple instruments and use them to make music, directly practising both parts of the task.
+- [Box-String Instrument](../../crafts/box-string-instrument.md) — Cubs make a simple elastic-band instrument and play it; each Cub must personally make and play one for this task.

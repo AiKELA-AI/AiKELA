@@ -1,6 +1,6 @@
 # Games Index
 
-205 games from POP, Pack resources and other sources.
+206 games from POP, Pack resources and other sources.
 Use tags to find games that fit a programme; check each entry's source and safety notes before use.
 
 - [(Circle): Pass the Slap](circle-pass-the-slap.md) — #game #history
@@ -173,6 +173,7 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Snake Sting The Pack](snake-sting-the-pack.md) — #game
 - [Snatch the Toothpicks](snatch-the-toothpicks.md) — #game
 - [Something Good to Eat](something-good-to-eat.md) — #game
+- [Sound Signal Shuffle](sound-signal-shuffle.md) — #game #music #rhythm #movement #listening #high-energy
 - [Space Bug](space-bug.md) — #game #wildlife #space
 - [Spillikins](spillikins.md) — #game
 - [Spinning Blades](spinning-blades.md) — #game
