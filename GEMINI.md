@@ -1,6 +1,5 @@
 # Gemini CLI compatibility note
 
-The canonical AiKELA project instructions are in `AGENTS.md`. Read that file before answering questions or changing this repository. It contains the shared role, Scouts South Africa source hierarchy, accuracy requirements, Pack-profile rules and programme guidance.
+The canonical shared AiKELA instructions are in `AGENTS.md`. Read that file before answering questions or changing this repository.
 
-For Pack-specific work, also read the relevant profile at the repository root (for example, `1stPinelands.md`). Do not assume another Pack's arrangements apply.
-
+Pack-specific profiles, templates, planners and programmes live under `packs/<pack-slug>/`. For Pack-specific work, read `packs/<pack-slug>/PACK-PROFILE.md` and use only that Pack's local arrangements. The `packs/1st-pinelands/` folder is one Pack's example, not a default for other Packs.

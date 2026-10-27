@@ -1,0 +1,208 @@
+# POP Extracted Activities Index
+
+204 first-pass elements extracted from historical POP sources. Check each source and safety before reuse.
+
+- [Activity Bases item 5](activity-bases-item-5.md) — #activity
+- [Activity Challenge](activity-challenge.md) — #activity
+- [Activity item 10](activity-item-10.md) — #activity #jungle #water
+- [Activity item 4](activity-item-4.md) — #activity
+- [Activity item 5](activity-item-5.md) — #activity
+- [Activity item 6](activity-item-6.md) — #activity
+- [Activity item 7](activity-item-7.md) — #activity #food
+- [Spinning Blades](activity-item-7-variant-2.md) — #activity
+- [Spinning Blades](activity-item-7-variant-3.md) — #activity
+- [Spinning Blades](activity-item-7-variant-4.md) — #activity
+- [Spinning Blades](activity-item-7-variant-5.md) — #activity #jungle #nature
+- [Spinning Blades](activity-item-7-variant-6.md) — #activity #maps-and-compass
+- [Activity item 8](activity-item-8.md) — #activity #water #history #health
+- [Water the Horses](activity-item-8-variant-2.md) — #activity
+- [Activity item 9](activity-item-9.md) — #activity #health
+- [Alice the Camel](alice-the-camel.md) — #activity
+- [Aqua Scope](aqua-scope.md) — #activity #water
+- [Aqua Scope](aqua-scope-variant-2.md) — #activity #water
+- [As per progress chart](as-per-progress-chart.md) — #activity
+- [as per progress chart](as-per-progress-chart-variant-2.md) — #activity
+- [As per progress chart](as-per-progress-chart-variant-3.md) — #activity
+- [As per progress chart](as-per-progress-chart-variant-4.md) — #activity
+- [As per progress chart](as-per-progress-chart-variant-5.md) — #activity
+- [B-P Spirit](b-p-spirit.md) — #activity
+- [Bananas, Coconuts and Grapes](bananas-coconuts-and-grapes.md) — #activity
+- [Be Creative](be-creative.md) — #activity
+- [Be Creative](be-creative-variant-2.md) — #activity
+- [Big Birdie Song](big-birdie-song.md) — #activity #birds
+- [Bird Feeder/Fire-lighter/Cooking](bird-feeder-fire-lighter-cooking.md) — #activity #birds #water #nature #food #health
+- [Blind Person](blind-person.md) — #activity #maps-and-compass
+- [BP Ideas In Sixes](bp-ideas-in-sixes.md) — #activity
+- [Braai Allow the](braai-allow-the.md) — #activity #south-africa
+- [Camel Footprints](camel-footprints.md) — #activity
+- [Campfire’s Burning](campfire-s-burning.md) — #activity
+- [Campfire’s Burning](campfire-s-burning-variant-2.md) — #activity
+- [Campfire Song item 10](campfire-song-item-10.md) — #activity
+- [Ceremonial Masks](ceremonial-masks.md) — #activity
+- [Charades](charades.md) — #activity
+- [Charades (ideas)](charades-ideas.md) — #activity #birds
+- [Come a-hunting](come-a-hunting.md) — #activity #jungle
+- [Communication](communication.md) — #activity
+- [Communications](communications.md) — #activity
+- [Compass](compass.md) — #activity #maps-and-compass
+- [Compass](compass-variant-2.md) — #activity #jungle #maps-and-compass
+- [Compass Patience](compass-patience.md) — #activity #maps-and-compass
+- [Conservation](conservation.md) — #activity #water #nature #south-africa
+- [Conservation](conservation-variant-2.md) — #activity #water #nature
+- [Creative Smells](creative-smells.md) — #activity
+- [Cubs to tie any two knots.](cubs-to-tie-any-two-knots.md) — #activity
+- [Edible Fire](edible-fire.md) — #activity
+- [Entertaining](entertaining.md) — #activity #health
+- [Entertaining (Sensations)](entertaining-sensations.md) — #activity #health
+- [Explorers Express](explorers-express.md) — #activity #wildlife #water #nature #transport #maps-and-compass
+- [Faith](faith.md) — #activity
+- [Feats of Skill](feats-of-skill.md) — #activity #water #nature
+- [Feats of Skill](feats-of-skill-variant-2.md) — #activity #water #nature
+- [Feats of Skill](feats-of-skill-variant-3.md) — #activity #water #nature
+- [Feats of Skill](feats-of-skill-variant-4.md) — #activity #water #nature
+- [Find the Gold bar](find-the-gold-bar.md) — #activity
+- [Fingerprints](fingerprints.md) — #activity #water
+- [Fire Safety and layout](fire-safety-and-layout.md) — #activity #health
+- [Fire Safety and layout of fire](fire-safety-and-layout-of-fire.md) — #activity #food #health
+- [Fires and Cooking](fires-and-cooking.md) — #activity #water #food
+- [First Aid](first-aid.md) — #activity #wildlife #health
+- [First Aid](first-aid-variant-2.md) — #activity #wildlife #health
+- [First Aid](first-aid-variant-3.md) — #activity #wildlife #health
+- [Five in the Bed](five-in-the-bed.md) — #activity
+- [Flags and Countries](flags-and-countries.md) — #activity #south-africa
+- [Flags and Countries](flags-and-countries-variant-2.md) — #activity #south-africa
+- [Floor Collage](floor-collage.md) — #activity
+- [Foot Trail](foot-trail.md) — #activity #wildlife #jungle #water
+- [Ging Gang Gooli](ging-gang-gooli.md) — #activity
+- [Glub, Glub your boat](glub-glub-your-boat.md) — #activity #water
+- [Good and Kind Deeds](good-and-kind-deeds.md) — #activity
+- [Grass Heads](grass-heads.md) — #activity #water #health
+- [Grow a Grassapillar!](grow-a-grassapillar.md) — #activity #water
+- [Growing Things](growing-things.md) — #activity #jungle #water #nature #food
+- [Healthy Eating](healthy-eating.md) — #activity #water #food #health
+- [Healthy Living](healthy-living.md) — #activity #water #food #health
+- [Helping Ourselves and Others](helping-ourselves-and-others.md) — #activity #health
+- [Hieroglyphic Code (alternate to ‘Mummy’ game)](hieroglyphic-code-alternate-to-mummy-game.md) — #activity
+- [Hokey-Pokey](hokey-pokey.md) — #activity
+- [I like bananas](i-like-bananas.md) — #activity #south-africa
+- [I like bananas……](i-like-bananas-variant-2.md) — #activity #jungle
+- [If it’s Raining](if-it-s-raining.md) — #activity
+- [If you’re happy…](if-you-re-happy.md) — #activity
+- [If you’re happy….](if-you-re-happy-variant-2.md) — #activity
+- [If you’re happy……](if-you-re-happy-variant-3.md) — #activity #water
+- [Incy Wincy Spider](incy-wincy-spider.md) — #activity #food #health
+- [Inside-Out](inside-out.md) — #activity
+- [Jewellery Box](jewellery-box.md) — #activity #history
+- [Klunk](klunk.md) — #activity
+- [Knotting](knotting.md) — #activity #water
+- [Knotting](knotting-variant-2.md) — #activity
+- [Knotting](knotting-variant-3.md) — #activity
+- [Knotting](knotting-variant-4.md) — #activity
+- [Knotting](knotting-variant-5.md) — #activity
+- [Knotting](knotting-variant-6.md) — #activity
+- [Know the correct way to strike a match and light a candle](know-the-correct-way-to-strike-a-match-and-light-a-candle.md) — #activity
+- [Living Things](living-things.md) — #activity #birds #nature #south-africa
+- [Living with Nature](living-with-nature.md) — #activity #water #nature #south-africa
+- [Living with Nature; Compass & Mapping; Conservation](living-with-nature-compass-mapping-conservation.md) — #activity #nature #maps-and-compass
+- [Make a birdfeeder OR make a fire](make-a-birdfeeder-or-make-a-fire.md) — #activity
+- [Make New Friends](make-new-friends.md) — #activity
+- [Map Drawing](map-drawing.md) — #activity #water #maps-and-compass
+- [Map Drawing](map-drawing-variant-2.md) — #activity #water #nature #maps-and-compass
+- [Mapping](mapping.md) — #activity #maps-and-compass
+- [mask](mask.md) — #activity
+- [Masks interest badge](masks-interest-badge.md) — #activity #wildlife #south-africa
+- [Moon Landing In their Sixes, the](moon-landing-in-their-sixes-the.md) — #activity #space
+- [Mozzie Yell](mozzie-yell.md) — #activity
+- [My Bonnie lies over the ocean](my-bonnie-lies-over-the-ocean.md) — #activity #water
+- [My Bonnie lies over the ocean](my-bonnie-lies-over-the-ocean-variant-2.md) — #activity #water
+- [National Anthem](national-anthem.md) — #activity
+- [National Anthem](national-anthem-variant-2.md) — #activity
+- [Nkosi Sikelel’ iAfrika](nkosi-sikelel-iafrika.md) — #activity #south-africa
+- [NOTICES and CLOSE](notices-and-close.md) — #activity
+- [Ocean Drum](ocean-drum.md) — #activity #water #health
+- [OPENING PARADE](opening-parade.md) — #activity #water
+- [Out on a lion hunt](out-on-a-lion-hunt.md) — #activity #water #nature
+- [Paper Compass](paper-compass.md) — #activity #jungle #maps-and-compass
+- [Paper Elephant Chain](paper-elephant-chain.md) — #activity
+- [People and Places](people-and-places.md) — #activity
+- [Photograph the Animals](photograph-the-animals.md) — #activity
+- [Picking fruit Tie the fruit onto the rope](picking-fruit-tie-the-fruit-onto-the-rope.md) — #activity #jungle #food
+- [PIRATE PARADE](pirate-parade.md) — #activity #water #transport
+- [Play Acting item 5](play-acting-item-5.md) — #activity
+- [Playacting item 5](playacting-item-5.md) — #activity
+- [Playacting item 6](playacting-item-6.md) — #activity
+- [Pooter](pooter.md) — #activity #wildlife #nature #history
+- [Popcorn](popcorn.md) — #activity #water
+- [Popsicle Plane](popsicle-plane.md) — #activity #health #transport
+- [Rain Gauge](rain-gauge.md) — #activity #water
+- [Rain Making](rain-making.md) — #activity
+- [Recycling](recycling.md) — #activity
+- [Recycling](recycling-variant-2.md) — #activity
+- [Recycling](recycling-variant-3.md) — #activity
+- [Recycling](recycling-variant-4.md) — #activity #water
+- [Register, parade](register-parade.md) — #activity
+- [Rocket Launch](rocket-launch.md) — #activity #space
+- [Russell’s Photo Album](russell-s-photo-album.md) — #activity
+- [Russell went Up in a Balloon House](russell-went-up-in-a-balloon-house.md) — #activity #jungle-book
+- [Safety](safety.md) — #activity #water #health
+- [Safety](safety-variant-2.md) — #activity #water #health
+- [Safety](safety-variant-3.md) — #activity #jungle #water #health
+- [Sensations](sensations.md) — #activity
+- [Sensations](sensations-variant-2.md) — #activity
+- [Sensations](sensations-variant-3.md) — #activity
+- [Sensations](sensations-variant-4.md) — #activity
+- [Sense Training item 4](sense-training-item-4.md) — #activity #birds #nature
+- [Sense Training item 4](sense-training-item-4-variant-2.md) — #activity
+- [Sense Training item 5](sense-training-item-5.md) — #activity #food
+- [Sense Training item 5](sense-training-item-5-variant-2.md) — #activity
+- [Sense Training item 5](sense-training-item-5-variant-3.md) — #activity
+- [Sense Training item 6](sense-training-item-6.md) — #activity #water #south-africa
+- [Sense Training item 6](sense-training-item-6-variant-2.md) — #activity #wildlife #nature
+- [Sense Training item 6](sense-training-item-6-variant-3.md) — #activity #jungle
+- [Sense Training item 7](sense-training-item-7.md) — #activity #transport
+- [Sense Training item 7](sense-training-item-7-variant-2.md) — #activity #water
+- [Sense Training item 7](sense-training-item-7-variant-3.md) — #activity #water
+- [Sense Training item 8](sense-training-item-8.md) — #activity #jungle
+- [Sense Training item 9](sense-training-item-9.md) — #activity
+- [Ship Shape](ship-shape.md) — #activity #jungle-book #water #health #transport
+- [Show how to treat a simple cut or graze; OR Show how to treat insect bites and stings, and how to remove splinters.](show-how-to-treat-a-simple-cut-or-graze-or-show-how-to-treat-insect-bites-and-stings-and-how-to-remove-splinters.md) — #activity #wildlife
+- [Singing in the Rain](singing-in-the-rain.md) — #activity #history
+- [Singing item 6](singing-item-6.md) — #activity #jungle
+- [Snakes Alive-O!](snakes-alive-o.md) — #activity
+- [Strange Shapes](strange-shapes.md) — #activity
+- [Stranger Danger](stranger-danger.md) — #activity #jungle
+- [Sunburst Hanging](sunburst-hanging-variant-2.md) — #activity
+- [Tarzan](tarzan.md) — #activity #jungle #nature
+- [Technology in Action](technology-in-action.md) — #activity
+- [Telecommunications](telecommunications.md) — #activity
+- [Terrarium](terrarium.md) — #activity #water #nature
+- [The](the.md) — #activity
+- [The Ant’s Marching Song](the-ant-s-marching-song.md) — #activity
+- [The Grand old Duke of York](the-grand-old-duke-of-york.md) — #activity
+- [The Jungle](the-jungle.md) — #activity #jungle
+- [The Jungle Book](the-jungle-book.md) — #activity #jungle #jungle-book
+- [The More We Get Together](the-more-we-get-together.md) — #activity
+- [The Mosquito Yell](the-mosquito-yell.md) — #activity
+- [The Wheels of the Bus](the-wheels-of-the-bus.md) — #activity
+- [Three Chocolate Éclairs](three-chocolate-clairs.md) — #activity
+- [Thumb/Finger Print Pictures](thumb-finger-print-pictures.md) — #activity #history
+- [Tidy up!](tidy-up.md) — #activity
+- [To the Rescue Do this in Sixes. The](to-the-rescue-do-this-in-sixes-the.md) — #activity
+- [Toothpick Construction](toothpick-construction.md) — #activity
+- [Traditional Dance In Sixes](traditional-dance-in-sixes.md) — #activity
+- [Traditional Dance / Musical Instruments](traditional-dance-musical-instruments.md) — #activity #water
+- [Traditional Dancing](traditional-dancing.md) — #activity
+- [Trails](trails.md) — #activity
+- [Trails](trails-variant-2.md) — #activity
+- [TREASURE HUNT](treasure-hunt.md) — #activity
+- [Tree Collage](tree-collage.md) — #activity #jungle #nature
+- [Two Little Fleas](two-little-fleas.md) — #activity
+- [We’re glad to see you here](we-re-glad-to-see-you-here.md) — #activity
+- [What is my Job? The](what-is-my-job-the.md) — #activity
+- [What is playing?](what-is-playing.md) — #activity
+- [What is the Brand?](what-is-the-brand.md) — #activity #history
+- [Whistle and Find Four or more](whistle-and-find-four-or-more.md) — #activity #south-africa
+- [Who is missing?](who-is-missing-variant-2.md) — #activity
+- [Work Session item 3](work-session-item-3.md) — #activity #health
+- [Work Session item 7](work-session-item-7.md) — #activity
+- [Work Session item 8](work-session-item-8.md) — #activity #water

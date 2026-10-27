@@ -2,6 +2,8 @@
 
 This file records local arrangements for **[Pack Name]**. Shared resources in `docs/` may be reused, but do not assume another Pack's arrangements apply here.
 
+Copy this starter to `packs/<pack-slug>/PACK-PROFILE.md`; keep that Pack’s templates, planners and programmes in the same Pack folder.
+
 This profile describes Pack-approved practice. It does not replace or override current official Scouts South Africa (SSA) requirements. Confirm badge and programme requirements against authoritative SSA sources.
 
 ## Pack details

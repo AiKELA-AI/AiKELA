@@ -1,0 +1,52 @@
+# Wright Flight
+
+## Type
+
+Yarn
+
+## Equipment
+
+Not stated in this attachment.
+
+## Instructions
+
+O![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_defa3b5d.jpg>) ne day, when Orville and Wilbur Wright were boys, their father returned from a trip with a gift that would help change their lives--and history--forever. The toy was a helicopter, made of cork, bamboo, and paper. It was powered by a rubber band. At that time, in the year 1878, flight was still a dream. Helicopters and airplanes that could lift a man into the air had not yet been invented. But the toy helicopter thrilled Orville, age 7, and Wilbur, age 11. They began to build and fly copies of it. And although their attempts to build much larger models failed, their interest in flight had begun. Years later, in 1899, Orville and Wilbur Wright began the work that would lead to the first airplane. Now adults, the brothers owned a bicycle shop in their hometown of Dayton, Ohio. In their spare time, they researched the subject of flight and began testing different types of wings that could lift a craft into the a![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_d3f6606f.jpg>) ir. The Wright brothers divided flight into three problems: The aircraft needed wings that could lift it into the air. It needed an engine that could propel it. And finally, it needed a means of controlling it in flight. Otto Lilienthal and others had already proven that wings could lift a man so that he could glide in the air. And Samuel Langley, an American, had designed a craft that could be propelled into the air with a steam engine. But until then, the problem of taking off, turning, and descending in an aircraft had eluded them all. The problem of control was a tough one. The solution came from pigeons. While watching pigeons flying, Wilbur and Orville Wright noticed that the birds kept adjusting the positions of their wings. When a bird wanted to turn, it lifted the front edge of one wing while tilting the edge of the other wing down. By reversing the process, the bird could turn the opposite way. The brothers began working to make an aircraft wing that could twist and turn like a bird's. One day, after Wilbur took a bicycle inner tube out of a long cardboard box, he noticed that by twisting the ends of the box in opposite directions he could make the edges of the box twist like the pigeons' wings. If only the brothers could make a flexible wing that could operate like this, they just might solve the problem. Wilbur and Orville immediately began designing a glider to test the idea. It had two parallel wings and would be flown like a kite. But to fly their glider, the brothers needed to find an open place with strong, steady winds. They wrote to the U.S. Weather Bureau and were sent a list of possible sites. One of these was Kitty Hawk, North Carolina--a v![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_48a057fc.jpg>) irtually uninhabited beach on Carolina's Outer Banks. The Wrights traveled first to Kitty Hawk in the fall of 1900, where they tested their glider. They first tried to fly the glider with a pilot, but when they realized how dangerous this was, they abandoned this idea. Instead, they flew the glider like a kite, controlling it using long cords attached to t![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_7408cd6e.jpg>) he wings. They carefully measured the performance of the glider and used this information to design another one. In the summer of 1901, Wilbur and Orville returned to Kitty Hawk. There they assembled and tested a new glider. The first day they flew the glider, Wilbur, the pilot, made seventeen glides. His best glides lasted between 15 and 20 seconds and covered 300 to 400 feet. Even though the glides were brief, the control system worked. Still, the Wrights' gliders failed to fly as well as the brothers had calculated they would. In the winter of 1901, the Wrights used a wind tunnel to study the problem. The tunnel was a wooden box equipped with a fan. When the fan was in operation, it blew air through the tunnel at a steady 27 miles per hour. The Wrights put models of airplane wings in the tunnel. By carefully measuring the performance of these models, they were able to build better wings for their glider. T![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_780fcf2.jpg>) he 1902 Wright glider performed better than earlier ones, producing glides of over 500 feet. Now the brothers were ready for the next s![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_dae848f8.jpg>) tep. Back in Dayton, the Wrights worked to build propellers and a lightweight engine that could propel their aircraft skyward. In the fall of 1903, they returned to Kitty Hawk, where they practiced flying on the latest model of their glider as they assembled their new engine-powered craft. Progress was slow, and cold weather came early, but soon the Wrights were ready. Several local men helped them roll the 700 pound Wright Flyer to its starting place. They started the engine and Wilbur and Orville tossed a coin to choose the pilot. Wilbur won. He lay down on the lower wing and took the controls. Orville held one of the wing tips to help balance the airplane as it roared down the starting track. After about thirty-five feet the Flyer lifted off the ground. But after just 3 1/2 seconds, it smashed back to earth. It took two days to repair the damages. But on December 17, 1903, the Wrights were ready to try again. Now it was Orville's turn to be the pilot. He set up a camera, focusing it at the point where the Flyer would lift off. Then he took the controls. With Wilbur running alongside it, the Flyer picked up speed, then rose into the air. At that moment, one of the local men snapped the camera shutter, taking the photograph that would preserve the moment forever. The first flight lasted only twelve seconds, and covered only 120 feet. But the brothers flew the plane three more times that day. The last flight, with Wilbur piloting, covered 852 feet in 59 seconds, proving conclusively that sustained, controlled flight was possible. The Wright brothers had changed the world. The Age of Flight had begun.
+
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_158c90a7.jpg>)
+
+![DrawObject1](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_af76f822.gif>)
+
+Please don’t forget to evaluate this programme:
+
+## Advancement covered / badge link
+
+No activity-specific advancement task was identified in this attachment. Check the programme-level notes; no badge completion is implied.
+
+**Programme advancement context only — not linked to this element:**
+- **Historical task; current badge link unverified:** Name four things that can be recycled.
+- **Historical task; current badge link unverified:** Reuse three different items that you would normally throw away.
+- **Historical task; current badge link unverified:** With your family plan ways of reducing the waste in your home.
+- **Historical task; current badge link unverified:** Start a recycling project in your home, pack or school. Explain what the pack can do to make others aware of the importance of recycling.
+
+## Visual aid / image reference
+
+Embedded source visuals are retained below:
+
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_defa3b5d.jpg>)
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_d3f6606f.jpg>)
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_48a057fc.jpg>)
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_7408cd6e.jpg>)
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_780fcf2.jpg>)
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_dae848f8.jpg>)
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_158c90a7.jpg>)
+![Source image](<../pop/source-conversions/assets/Magnificent_Men_attachment.doc/Magnificent_Men_attachment_html_af76f822.gif>)
+
+## Tags
+
+#yarn #birds #history #transport #maps-and-compass
+
+## Source
+
+- [Converted source document](<../pop/source-conversions/Magnificent_Men_attachment.doc.md>)
+- Original file: [`Magnificent_Men_attachment.doc`](<../pop/src/Magnificent_Men_attachment.doc>)
+- Related programme schedule: [`Magnificent_Men.doc`](<../pop/source-conversions/Magnificent_Men.doc.md>)

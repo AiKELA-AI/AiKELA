@@ -1,0 +1,210 @@
+# Games Index
+
+205 games from POP, Pack resources and other sources.
+Use tags to find games that fit a programme; check each entry's source and safety notes before use.
+
+- [(Circle): Pass the Slap](circle-pass-the-slap.md) — #game #history
+- [Apes and Leopards](apes-and-leopards.md) — #game #jungle
+- [Ball Pass](ball-pass.md) — #game
+- [Balloon Race The](balloon-race-the.md) — #game
+- [Bean Planting](bean-planting.md) — #game #nature
+- [Bean Relay](bean-relay.md) — #game
+- [Beans](beans.md) — #game
+- [Bear Attack](bear-attack.md) — #game
+- [Beetle Drive](beetle-drive.md) — #game #jungle #nature #health
+- [Big Shoes](big-shoes.md) — #game
+- [Blanket Ball](blanket-ball.md) — #game #water
+- [Blindfold Obstacle Course](blindfold-obstacle-course.md) — #game
+- [Blunderfoot](blunderfoot.md) — #game #jungle
+- [Bright Colours](Bright-Colours.md) — colours, Sixes, running
+- [Brothers](brothers.md) — #game
+- [Brothers The](brothers-the.md) — #game
+- [Build a Tower](build-a-tower.md) — #game
+- [Building a Boeing](building-a-boeing.md) — #game
+- [Bus Ride](bus-ride.md) — #game
+- [Bush Ball](bush-ball.md) — #game
+- [Buzz](buzz.md) — #game
+- [Candle & Straw Relay](candle-straw-relay.md) — #game
+- [Candle Lighting In relay formation](candle-lighting-in-relay-formation.md) — #game #south-africa
+- [Candle Lighting relay In relay formation, the](candle-lighting-relay-in-relay-formation-the.md) — #game
+- [Cannon Balls](cannon-balls.md) — #game #water #transport
+- [Captain on Deck](captain-on-deck.md) — #game #water #transport
+- [Catch the Gift](catch-the-gift.md) — #game
+- [Chain Tag](chain-tag.md) — #game
+- [Chair pass ball The](chair-pass-ball-the.md) — #game #jungle
+- [Changing the Winds](changing-the-winds.md) — #game #maps-and-compass
+- [Chase the frogs!](chase-the-frogs.md) — #game #history
+- [Check your Cards](check-your-cards.md) — #game
+- [Chinese Crab](chinese-crab.md) — #game
+- [Chinese Ladders](chinese-ladders.md) — #game
+- [Circular Tug of War](circular-tug-of-war.md) — #game
+- [Compass Capers Give](compass-capers-give.md) — #game #maps-and-compass
+- [Compass Change](compass-change.md) — #game #maps-and-compass
+- [Compass Everyone stands spread out around](compass-everyone-stands-spread-out-around.md) — #game #maps-and-compass
+- [Compass Points](compass-points.md) — #game #maps-and-compass
+- [Crash The](crash-the.md) — #game
+- [Cross the Ocean](cross-the-ocean.md) — #game #water
+- [Crossed Wires](crossed-wires.md) — #game
+- [Cub’s Shoes](cub-s-shoes.md) — #game
+- [Dodge mosquitoes](dodge-mosquitoes.md) — #game
+- [Dog Sled](dog-sled.md) — #game
+- [Draw two chalk lines](draw-two-chalk-lines.md) — #game #water
+- [Drawing Sixes](drawing-sixes.md) — #game #transport
+- [Dress for the beach](dress-for-the-beach.md) — #game
+- [Egg and Spoon Race](egg-and-spoon-race.md) — #game
+- [Eggy Eggy](eggy-eggy.md) — #game
+- [Elephant Race](elephant-race.md) — #game #nature
+- [Exercises and Partner Challenges](exercises-and-partner-challenges.md) — #game #health
+- [Eye Ball](Eye-Ball.md) — #game #ball #circle-game #coordination
+- [Farmers and Carrots](farmers-and-carrots.md)
+- [Figure Skating](figure-skating.md) — #game
+- [Fill the Cup](fill-the-cup.md) — #game #water
+- [Find a Friend](find-a-friend.md) — #game
+- [Find the Footprint](find-the-footprint.md) — #game #south-africa
+- [Find the Map](find-the-map.md) — #game #south-africa #maps-and-compass
+- [Finding Kevin’s Chicks The](finding-kevin-s-chicks-the.md) — #game #maps-and-compass
+- [Finding our Way](finding-our-way.md) — #game #nature #maps-and-compass
+- [Fire Lighting](fire-lighting.md) — #game #nature #health
+- [Fire Making](fire-making.md) — #game #nature #history
+- [Firemen-in-a-hurry](firemen-in-a-hurry.md) — #game
+- [Fitness Training](fitness-training.md) — #game
+- [Flipping the Fish](flipping-the-fish.md) — #game #jungle
+- [Floating Feather (Kite) The object of](floating-feather-kite-the-object-of.md) — #game #birds
+- [Follow the Compass Trail](follow-the-compass-trail.md) — #game #jungle #transport #maps-and-compass
+- [Footprint Obstacle In Sixes](footprint-obstacle-in-sixes.md) — #game #south-africa
+- [Friendly Fiasco](friendly-fiasco.md) — #game
+- [Friends](friends.md) — #game
+- [Friendship Puzzle](friendship-puzzle.md) — #game
+- [Fruit and Vegetables](Fruit-and-Vegetables.md) — #game #fruit #vegetables #chasing #teamwork #food
+- [Good Morning](good-morning.md) — #game #maps-and-compass
+- [Guarding the Chocolates (alternate circle game)](guarding-the-chocolates.md) — #game
+- [Hammer Throw](hammer-throw.md) — #game #history
+- [Happy Hopping](happy-hopping.md) — #game
+- [Harbour Master](harbour-master.md) — #game #water #transport
+- [Hat Exchange](hat-exchange.md) — #game #history
+- [Here comes the Audience! Sixes](here-comes-the-audience-sixes.md) — #game
+- [Hopscotch What you need](hopscotch-what-you-need.md) — #game
+- [Horse drawn cart](horse-drawn-cart.md) — #game #water #food
+- [How Do You Like Your Neighbours?](how-do-you-like-your-neighbours.md) — #game #jungle
+- [How to strike a Match](how-to-strike-a-match.md) — #game
+- [How’s your handshake?](how-s-your-handshake.md) — #game #maps-and-compass
+- [Hula Hoop Obstacle](hula-hoop-obstacle.md) — #game
+- [Human String Relay](human-string-relay.md) — #game
+- [Hungry Birds](Hungry-Birds.md) — #game #birds #Australia #teamwork
+- [Husky Race One rope per Cub](husky-race-one-rope-per-cub.md) — #game
+- [I wrote a letter …](i-wrote-a-letter.md) — #game
+- [In the …, Out of the …](in-and-out-game.md) — #game #maps-and-compass #water #traffic-safety #water-safety #fun #maps #woodcraft
+- [Jacks](jacks.md) — #game
+- [Jet Race](jet-race.md) — #game #transport
+- [Jump Rope](jump-rope.md) — #game
+- [Jump the Nile](jump-the-nile.md) — #game #water
+- [Kangaroo Hunt](Kangaroo-Hunt.md) — kangaroos, wild-animals, Australia
+- [Kangaroos in Pouches](Kangaroos-in-Pouches.md) — kangaroos, wild-animals, Australia
+- [Kangaroos in Pouches Get half the](kangaroos-in-pouches-get-half-the.md) — #game #maps-and-compass
+- [Klompies](klompies.md) — #game #grouping #whistle
+- [Knotting](knotting-game.md) — #game #knots #teamwork
+- [Knotting Market On ‘go’ the](knotting-market-on-go-the.md) — #game
+- [Knotting Revision of the knots the](knotting-revision-of-the-knots-the.md) — #game #nature #history
+- [Leapfrog Divide](leapfrog-divide.md) — #game
+- [Life Boat](life-boat.md) — #game #water #transport
+- [Life Boat (ladders)](life-boat-ladders.md) — #game #water #transport
+- [Life Raft Tell the](life-raft-tell-the.md) — #game #water #food #transport
+- [Lifeboats](lifeboats.md) — #game #water #transport
+- [Light up your life](light-up-your-life.md) — #game
+- [Longest Line](longest-line.md) — #game
+- [Lost in the Jungle](lost-in-the-jungle.md) — #game #wildlife #jungle
+- [Man Overboard](man-overboard.md) — #game #water #transport
+- [Match the Pattern](match-the-pattern.md) — #game
+- [Men in the Sea](men-in-the-sea.md) — #game #water
+- [Mend the Calculator](mend-the-calculator.md) — #game
+- [Missing Chocolate](missing-chocolate.md) — #game
+- [Monster Mad](monster-mad.md) — #game #water #health
+- [Moon Walk](moon-walk.md) — #game #space
+- [Move like a crab The](move-like-a-crab-the.md) — #game
+- [Mummies](mummies.md) — #game
+- [Musical Islands Place sheets of newspaper around](musical-islands-place-sheets-of-newspaper-around.md) — #game
+- [Musical Monkeys](musical-monkeys.md) — #game #jungle #nature
+- [Musical Shoes](musical-shoes.md) — #game #health
+- [Musical Statues Gather the](musical-statues-gather-the.md) — #game #history
+- [Nets Choose two](nets-choose-two.md) — #game
+- [Obey Orders](obey-orders.md) — #game
+- [Opposites Arrange the](opposites-arrange-the.md) — #game
+- [Outdoor Code](outdoor-code.md) — #game #nature
+- [Over, under](over-under.md) — #game
+- [Ox Wagons Pair](ox-wagons-pair.md) — #game
+- [Pack the Suitcase](pack-the-suitcase.md) — #game
+- [Pass the slap](pass-the-slap.md) — #game
+- [Paths and Bushes](paths-and-bushes.md) — #game
+- [Pharoah and Servant](pharoah-and-servant.md) — #game
+- [Pick up Coins](pick-up-coins.md) — #game #history
+- [Picking up Sea Shells The](picking-up-sea-shells-the.md) — #game #water
+- [Plant the Seeds In Sixes, the](plant-the-seeds-in-sixes-the.md) — #game #nature #history
+- [Porters](porters.md) — #game
+- [Promise and Law Hunt](promise-and-law-hunt.md) — #game
+- [Puddle Jump](puddle-jump.md) — #game
+- [Put a Healthy Meal Together](put-a-healthy-meal-together.md) — #game #food
+- [Put the Fire Out](put-the-fire-out.md) — #game #water #nature
+- [Rattlesnake tag Object of](rattlesnake-tag-object-of.md) — #game
+- [Recreate a Rainstorm](recreate-a-rainstorm.md) — #game #history
+- [Repeat the Message](repeat-the-message.md) — #game
+- [Rescue](rescue.md) — #game #south-africa #health
+- [Ride into battle](ride-into-battle.md) — #game #history #health
+- [Ridiculous Rounders](ridiculous-rounders.md) — #game
+- [Rikki-Tikki and Nagaina’s Egg](rikki-tikki-and-nagaina-s-egg.md) — #game #jungle
+- [Running the Rapids](running-the-rapids.md) — #game #water
+- [SA Flag](sa-flag.md) — #game #south-africa
+- [Sardines](sardines.md) — #game #hiding #search
+- [Save Water](save-water.md) — #game #water
+- [Scavenger Hunt](scavenger-hunt.md) — #game #birds #wildlife #nature #history
+- [Secret Message The leader whispers a message to](secret-message-the-leader-whispers-a-message-to.md) — #game
+- [Sentries (alternate game)](sentries.md) — #game #water #maps-and-compass
+- [Shelter Building](shelter-building.md) — #game
+- [Ship's Captain](ship-s-captain.md) — #game #water #ships #commands #history #transport
+- [Ship’s Messengers Spread the](ship-s-messengers-spread-the.md) — #game #water #transport
+- [Shoe Throw](shoe-throw.md) — #game #history
+- [Sight](sight.md) — #game
+- [Slalom (means to zigzag)](slalom-means-to-zigzag.md) — #game
+- [Sled Race](sled-race.md) — #game
+- [Sled Races In relay formation](sled-races-in-relay-formation.md) — #game
+- [Sling Relay](sling-relay.md) — #game
+- [Slings](slings.md) — #game
+- [Smell Trail](smell-trail.md) — #game #maps-and-compass
+- [Smelly Memory](smelly-memory.md) — #game
+- [Snake Sting The Pack](snake-sting-the-pack.md) — #game
+- [Snatch the Toothpicks](snatch-the-toothpicks.md) — #game
+- [Something Good to Eat](something-good-to-eat.md) — #game
+- [Space Bug](space-bug.md) — #game #wildlife #space
+- [Spillikins](spillikins.md) — #game
+- [Spinning Blades](spinning-blades.md) — #game
+- [Stalking](stalking.md) — #game #jungle
+- [Standing Together](standing-together.md) — #game
+- [Steal the keys All the](steal-the-keys-all-the.md) — #game
+- [Sticks](sticks.md) — #game #birds
+- [Stir the soup](stir-the-soup.md) — #game
+- [Stone the castle](stone-the-castle.md) — #game
+- [Stop, drop and roll](stop-drop-and-roll.md) — #game
+- [Submarines](submarines.md) — #game #water
+- [Surf Rescue](surf-rescue.md) — #game #water #health
+- [Tackie Test](tackie-test.md) — #game
+- [Tails](tails.md) — #game
+- [The](the.md) — #game
+- [The Mummy Wrap](the-mummy-wrap.md) — #game #health
+- [The Mystery Number](the-mystery-number.md) — #game
+- [The Postman and the Robbers](the-postman-and-the-robbers.md) — #game
+- [Thunderbolt and Lightning](thunderbolt-and-lightning.md) — #game #water
+- [Tic Tac Toe](tic-tac-toe.md) — #game #water #health
+- [Tissue sprint. On a signal](tissue-sprint-on-a-signal.md) — #game #history #health
+- [Touch in Sand](touch-in-sand.md) — #game #history
+- [Underwater Puzzle The](underwater-puzzle-the.md) — #game
+- [Up River The](up-river-the.md) — #game #jungle #water #maps-and-compass
+- [Water Flowing](water-flowing.md) — #game #water
+- [Water Relay](Water-Relay.md) — #game #water #relay #teamwork
+- [Water the Horses](water-the-horses.md) — #game #water
+- [Whackem](whackem.md) — #game
+- [What Am I Doing?](what-am-i-doing.md) — #game
+- [What is our Mission?](what-is-our-mission.md) — #game
+- [What’s that smell](what-s-that-smell.md) — #game
+- [Wheelbarrow Race](wheelbarrow-race.md) — #game #history
+- [Whizz, Bang, Flash!](whizz-bang-flash.md) — #game
+- [Who Is Missing?](who-is-missing-the.md) — #game #jungle #observation #quiet
+- [Wrote a Letter First](wrote-a-letter-first.md) — #game #maps-and-compass

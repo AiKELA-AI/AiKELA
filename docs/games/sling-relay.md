@@ -1,0 +1,36 @@
+# Sling Relay
+
+## Type
+
+REVISION GAME
+
+## Equipment
+
+Scarves or a triangular bandage
+
+## Instructions
+
+REVISION GAME: Sling Relay Cubs in relay formation with Sixer standing opposite the Six, a little distance away. The first Cub in the Six runs up to the Sixer and puts a sling on his/her “broken part” (arm), using the correct knot. If done correctly, he/she undoes the knot and become the patient. The Sixer takes the scarf/bandage back to his/her Six and the next Cub runs and puts the sling on the ‘patient’, and so on until everyone has had a turn.
+
+## Advancement covered / badge link
+
+No activity-specific advancement task was identified in this attachment. Check the programme-level notes; no badge completion is implied.
+
+**Programme advancement context only — not linked to this element:**
+- **Historical task; current badge link unverified:** Throw a ball to somebody else, and catch it again 8 times out of 10. Be able to hop around a figure of eight, each loop with a diameter of about 4 metres, changing feet at the start of the second loop. Sit, stand and walk correctly.
+- **Historical task; current badge link unverified:** Climb a tree or rope to a height of three metres. Do TWO of the following: headstand, handstand, cartwheel, star jumps, leap frog over a Cub your own size.
+- **Historical task; current badge link unverified:** Using a rope skip 15 forwards and 15 backwards. Throw a ball 15 metres OR dribble a soccer ball around a course drawn on the ground in the shape of a figure-of-eight measuring 12 metres long.
+- **Historical task; current badge link unverified:** Run Scout’s Pace over a 1 km course in eight minutes. Swim 25 m and then tread water for 60 seconds if in fresh water or 120 seconds if in sea water. OR Do 35 sit-ups and 3 pull-ups.
+
+## Visual aid / image reference
+
+No embedded visual was found in this extracted section. Review the original source if the activity refers to a layout or template.
+
+## Tags
+
+#game
+
+## Source
+
+- [Converted source document](<../pop/source-conversions/Just_what_does_BP_mean.doc.md>)
+- Original file: [`Just_what_does_BP_mean.doc`](<../pop/src/Just_what_does_BP_mean.doc>)
