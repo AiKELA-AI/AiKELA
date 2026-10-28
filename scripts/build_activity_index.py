@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build the source-neutral catalogue for craft entries."""
+"""Build the source-neutral catalogue for activity entries."""
 
 from __future__ import annotations
 
@@ -7,9 +7,9 @@ import re
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parent
-LIBRARY = ROOT / "docs" / "crafts"
-INDEX = LIBRARY / "CRAFTS-INDEX.md"
+ROOT = Path(__file__).resolve().parents[1]
+LIBRARY = ROOT / "docs" / "activities"
+INDEX = LIBRARY / "ACTIVITIES-INDEX.md"
 
 
 def main() -> None:
@@ -27,10 +27,10 @@ def main() -> None:
 
     entries.sort(key=lambda item: (item[0].casefold(), item[1].casefold()))
     lines = [
-        "# Crafts Index",
+        "# Activities Index",
         "",
-        f"{len(entries)} crafts from POP, Pack resources and other sources.",
-        "Use tags to find a suitable craft; check each entry's source and safety notes before reuse.",
+        f"{len(entries)} activities from POP, Pack resources and other sources.",
+        "Use tags to find a suitable activity; check each entry's source and safety notes before reuse.",
         "",
     ]
     for title, filename, tags in entries:
@@ -39,7 +39,7 @@ def main() -> None:
             line += f" — {tags}"
         lines.append(line)
     INDEX.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Wrote {INDEX.relative_to(ROOT)} ({len(entries)} crafts).")
+    print(f"Wrote {INDEX.relative_to(ROOT)} ({len(entries)} activities).")
 
 
 if __name__ == "__main__":

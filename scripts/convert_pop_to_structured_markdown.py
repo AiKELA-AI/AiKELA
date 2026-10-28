@@ -24,7 +24,7 @@ from openpyxl import load_workbook
 from pypdf import PdfReader
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 POP_ROOT = ROOT / "docs" / "pop"
 SOURCE = POP_ROOT / "src"
 DESTINATION = POP_ROOT

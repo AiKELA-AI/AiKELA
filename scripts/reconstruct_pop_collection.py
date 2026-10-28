@@ -18,7 +18,7 @@ from extract_pop_activities import (activity_advancement_claims, advancement_cla
                                     extract_fixed_width_activities, extract_table_activities)
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parents[1]
 ARCHIVE = ROOT / "docs" / "pop" / "source-conversions"
 PROGRAMMES = ROOT / "docs" / "pop" / "programmes"
 FOLDERS = {"game": ROOT / "docs" / "games", "yarn": ROOT / "docs" / "yarns",
