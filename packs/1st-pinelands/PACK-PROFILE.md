@@ -10,7 +10,7 @@ sources.
 
 ## Meetings and Programmes
 
-* A programme is normally one Pack meeting on a Friday evening, scheduled for 17:15–18:45 (90 minutes) using the current Word template.
+* A programme is normally one Pack meeting on a Friday evening, scheduled for 17:30–19:00 (90 minutes) using the current Word template.
 * Some programmes have Part 1 and Part 2 and are intentionally run over two
   weeks.
 * A yarn is optional. When used, the Word plan must be self-contained: include the full yarn and all instructions and equipment needed to run it; do not rely on leaders opening other documents.

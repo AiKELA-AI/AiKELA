@@ -1,6 +1,6 @@
 # Games Index
 
-206 games from POP, Pack resources and other sources.
+207 games from POP, Pack resources and other sources.
 Use tags to find games that fit a programme; check each entry's source and safety notes before use.
 
 - [(Circle): Pass the Slap](circle-pass-the-slap.md) — #game #history
@@ -93,6 +93,7 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Hungry Birds](Hungry-Birds.md) — #game #birds #Australia #teamwork
 - [Husky Race One rope per Cub](husky-race-one-rope-per-cub.md) — #game
 - [I wrote a letter …](i-wrote-a-letter.md) — #game
+- [ID an Object Domino Relay](id-an-object-domino-relay.md) — #game #relay #observation
 - [In the …, Out of the …](in-and-out-game.md) — #game #maps-and-compass #water #traffic-safety #water-safety #fun #maps #woodcraft
 - [Jacks](jacks.md) — #game
 - [Jet Race](jet-race.md) — #game #transport

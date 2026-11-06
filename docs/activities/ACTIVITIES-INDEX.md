@@ -1,6 +1,6 @@
 # Activities Index
 
-210 activities from POP, Pack resources and other sources.
+213 activities from POP, Pack resources and other sources.
 Use tags to find a suitable activity; check each entry's source and safety notes before reuse.
 
 - [Activity Bases item 5](activity-bases-item-5.md) — #activity
@@ -114,6 +114,7 @@ Use tags to find a suitable activity; check each entry's source and safety notes
 - [Mapping](mapping.md) — #activity #maps-and-compass
 - [mask](mask.md) — #activity
 - [Masks interest badge](masks-interest-badge.md) — #activity #wildlife #south-africa
+- [Meeting Place Map](meeting-place-map.md) — #activity #maps-and-compass
 - [Moon Landing In their Sixes, the](moon-landing-in-their-sixes-the.md) — #activity #space
 - [Mozzie Yell](mozzie-yell.md) — #activity
 - [My Bonnie lies over the ocean](my-bonnie-lies-over-the-ocean-variant-2.md) — #activity #water
@@ -175,6 +176,7 @@ Use tags to find a suitable activity; check each entry's source and safety notes
 - [Snakes Alive-O!](snakes-alive-o.md) — #activity
 - [Strange Shapes](strange-shapes.md) — #activity
 - [Stranger Danger](stranger-danger.md) — #activity #jungle
+- [Street Map Routes and Symbols](street-map-routes-and-symbols.md) — #activity #maps-and-compass
 - [Sunburst Hanging](sunburst-hanging-variant-2.md) — #activity
 - [Tarzan](tarzan.md) — #activity #jungle #nature
 - [Technology in Action](technology-in-action.md) — #activity
@@ -193,6 +195,7 @@ Use tags to find a suitable activity; check each entry's source and safety notes
 - [Tidy up!](tidy-up.md) — #activity
 - [To the Rescue Do this in Sixes. The](to-the-rescue-do-this-in-sixes-the.md) — #activity
 - [Toothpick Construction](toothpick-construction.md) — #activity
+- [Top and Side Views](top-and-side-views.md) — #activity #observation
 - [Traditional Dance / Musical Instruments](traditional-dance-musical-instruments.md) — #activity #water
 - [Traditional Dance In Sixes](traditional-dance-in-sixes.md) — #activity
 - [Traditional Dancing](traditional-dancing.md) — #activity
