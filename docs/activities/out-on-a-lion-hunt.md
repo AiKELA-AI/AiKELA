@@ -42,7 +42,7 @@ River (make swimming gestures)
 
 Cave (go in it and find lion. Reverse all motions quickly to get home)
 
-![DrawObject1](<../pop/source-conversions/assets/Super_Heroes_attachment.doc/Super_Heroes_attachment_html_af76f822.gif>)
+[Original visual unavailable in this checkout; consult the linked original source.]
 
 Please don’t forget to evaluate this programme:
 
@@ -54,16 +54,40 @@ No activity-specific advancement task was identified in this attachment. Check t
 
 ## Visual aid / image reference
 
-Embedded source visuals are retained below:
+Visual references follow. Any unavailable historical image is explicitly identified; consult the original source before running steps that depend on its diagrams.
 
-![Source image](<../pop/source-conversions/assets/Super_Heroes_attachment.doc/Super_Heroes_attachment_html_af76f822.gif>)
+[Original visual unavailable in this checkout; consult the linked original source.]
 
 ## Tags
 
-#activity #water #nature
+#activity #nature #source-extracted #source-pop #source-scouts-digital #water
 
 ## Source
 
 - [Converted source document](<../pop/source-conversions/Super_Heroes_attachment.doc.md>)
 - Original file: [`Super_Heroes_attachment.doc`](<../pop/src/Super_Heroes_attachment.doc>)
 - Related programme schedule: [`Super_Heroes.doc`](<../pop/source-conversions/Super_Heroes.doc.md>)
+
+<!-- Scouts Digital bulk provenance: start -->
+## Additional Scouts Digital source uses
+
+The existing canonical element is reused for the matching source-based variants below. Source text is separately attributed; these are not new AI-created games or official SSA rules. Compare differences before adapting. Source-only rewards/leader assignments do not replace the selected Pack profile. Short references and safety-critical teaching still need their source detail checked.
+
+### Program_Doc_ID_1_30_2026-06-19.pdf — SINGING: Out on a lion hunt
+
+**Reuse status:** Reused source text, extracted from PDF p. 2, table 1, row 4. Timing: 6-30
+5mins; duration: not separately stated. These are source timings, not defaults for another Pack.
+
+**Extraction:** Source text extracted from timetable cells; compare layout with original.
+
+**Variant preparation flags:** needs-source-detail, reference-only
+
+**Source equipment:** Words
+
+```text
+SINGING: Out on a lion hunt
+```
+
+[Original](<../scouts-digital/src/Program_Doc_ID_1_30_2026-06-19.pdf#page=2>) · [Archival conversion](<../scouts-digital/source-conversions/Program_Doc_ID_1_30_2026-06-19.pdf.md#page-2>)
+
+<!-- Scouts Digital bulk provenance: end -->

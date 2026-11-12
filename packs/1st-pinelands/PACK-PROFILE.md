@@ -74,9 +74,12 @@ Six is presented with the Golden Rock, a floating trophy. Add weekly bean
 totals to determine the term winner and year-end winner.
 
 For 1st Pinelands, use beans as the reward counters throughout the meeting.
-When adapting a POP source for this Pack, replace references to “bones” when
-they mean reward counters with beans. Do not change a source reference to
-actual bones used as an activity object.
+When adapting any source programme for this Pack, including POP and Scouts
+Digital, replace references to “bones” or “marbles” with beans when they mean
+reward counters for the evening's activities. These are other Packs' names
+for their reward counters. Keep original source files and archival conversions
+unchanged. Do not replace references to actual bones or marbles used as
+activity equipment.
 
 ## Knots
 

@@ -21,6 +21,8 @@ This profile describes Pack-approved practice. It does not replace or override c
 * How the Duty Six is chosen or rotated:
 * Local points, bean or recognition system (if any):
 
+When adapting shared programmes, translate source-Pack reward counters (such as marbles or bones) into this Pack's system. Keep actual game equipment distinct from reward counters; preserve original wording in source archives.
+
 ## Term and year planning
 
 * School calendar or term dates followed:
@@ -44,6 +46,7 @@ Describe the Pack's opening, regular activities and closing sequence. Note which
 * Preferred programme length and pacing:
 * Story/yarn preferences:
 * Game preferences:
+* Preferences for adapting/retheming sourced activities (AiKELA reuses/adapts substantive elements; only programme-specific connective story text may be generated without an explicit exception):
 * Equipment or venue constraints:
 * Accessibility or inclusion considerations (do not include identifying or sensitive personal information):
 

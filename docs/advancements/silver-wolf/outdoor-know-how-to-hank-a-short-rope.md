@@ -17,4 +17,7 @@ Scouter suggestion: teach the key ideas named in the requirement above, using an
 
 ## Related elements
 
-No directly matched practice element has been identified for this task in the current library.
+These source-based games offer practice; a team's result is not individual sign-off. Requirement connection checked against [The Cub Trail, November 2019, p. 13](../../The-Cub-Trail-Nov-19.pdf#page=13).
+
+- [Short-rope Hanking Hunt](../../games/short-rope-hanking-hunt.md) — Cubs collect and hank short pieces for a Scouter to check; prepare the demonstration.
+- [Sweet-cable Knotting Relay](../../games/sweet-cable-knotting-relay.md) — Includes a short-hanking round. Sweet cables are practice materials; assess the required rope skill separately or use the labelled rope adaptation.

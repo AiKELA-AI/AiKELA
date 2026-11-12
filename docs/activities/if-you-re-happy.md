@@ -28,7 +28,7 @@ Clap our hands.
 
 If you’re happy and you know it,
 
-C ![Rounded Rectangular Callout 9](<../pop/source-conversions/assets/Fly_Away_attachment.doc/Fly_Away_attachment_html_eef9f09c.gif>) lick you thumbs.
+C [Original visual unavailable in this checkout; consult the linked original source.] lick you thumbs.
 
 Stamp your feet.
 
@@ -48,24 +48,42 @@ SINGING: If you’re happy......
 
 No activity-specific advancement task was identified in this attachment. Check the programme-level notes; no badge completion is implied.
 
-**Programme advancement context only — not linked to this element:**
-- **Historical task; current badge link unverified:** Make and use the following knots correctly: Reef Slip reef Hank a short tope
-- **Historical task; current badge link unverified:** Make and use the following knots: Round turn and two half hitches Figure of eight
-- **Historical task; current badge link unverified:** Make and use the following knots: Sheet bend Hank a long rope
-- **Historical task; current badge link unverified:** Make and use the following knots: Clove hitch Bowline Sheep shank
 
 ## Visual aid / image reference
 
-Embedded source visuals are retained below:
+Visual references follow. Any unavailable historical image is explicitly identified; consult the original source before running steps that depend on its diagrams.
 
-![Source image](<../pop/source-conversions/assets/Fly_Away_attachment.doc/Fly_Away_attachment_html_eef9f09c.gif>)
+[Original visual unavailable in this checkout; consult the linked original source.]
 
 ## Tags
 
-#activity
+#activity #source-extracted #source-pop #source-scouts-digital
 
 ## Source
 
 - [Converted source document](<../pop/source-conversions/Fly_Away_attachment.doc.md>)
 - Original file: [`Fly_Away_attachment.doc`](<../pop/src/Fly_Away_attachment.doc>)
 - Related programme schedule: [`Fly_Away.doc`](<../pop/source-conversions/Fly_Away.doc.md>)
+
+<!-- Scouts Digital bulk provenance: start -->
+## Additional Scouts Digital source uses
+
+The existing canonical element is reused for the matching source-based variants below. Source text is separately attributed; these are not new AI-created games or official SSA rules. Compare differences before adapting. Source-only rewards/leader assignments do not replace the selected Pack profile. Short references and safety-critical teaching still need their source detail checked.
+
+### Program_Doc_ID_1_125_2026-09-11.pdf — SINGING: If you’re happy......
+
+**Reuse status:** Reused source text, extracted from PDF p. 2, table 1, row 12. Timing: not stated; duration: 05. These are source timings, not defaults for another Pack.
+
+**Extraction:** Source text extracted from timetable cells; compare layout with original.
+
+**Variant preparation flags:** needs-source-detail, reference-only
+
+**Source equipment:** (If time permits)
+
+```text
+SINGING: If you’re happy......
+```
+
+[Original](<../scouts-digital/src/Program_Doc_ID_1_125_2026-09-11.pdf#page=2>) · [Archival conversion](<../scouts-digital/source-conversions/Program_Doc_ID_1_125_2026-09-11.pdf.md#page-2>)
+
+<!-- Scouts Digital bulk provenance: end -->

@@ -1,6 +1,6 @@
 # Yarns Index
 
-61 yarns from POP, Pack resources and other sources.
+89 yarns from POP, Pack resources and other sources.
 Use tags to find a suitable story; check each entry's source and context before reuse.
 
 - [1st part](1st-part.md) — #yarn
@@ -11,6 +11,8 @@ Use tags to find a suitable story; check each entry's source and context before 
 - [5TH part](5th-part.md) — #yarn
 - [A Silly Story](a-silly-story.md) — #yarn #water #food #health
 - [A Yachting Adventure](a-yachting-adventure.md) — #yarn #water #health #transport
+- [ACTIVITY / Yarn - The Adventures of Baloo’s Smart Cool](sd-activity-yarn-the-adventures-of-baloo-s-smart-cool-ad31dfb2.md) — #jungle-book #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Activity 4: Yarn - Bullying](sd-activity-4-yarn-bullying-92e17705.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
 - [Born with no arms](born-with-no-arms.md) — #yarn
 - [Charterhouse](charterhouse.md) — #yarn #health
 - [Colossus of Rhodes](colossus-of-rhodes.md) — #yarn #history
@@ -18,7 +20,7 @@ Use tags to find a suitable story; check each entry's source and context before 
 - [Dress up Drama](dress-up-drama.md) — #yarn
 - [Freddy to the Rescue](freddy-to-the-rescue.md) — #yarn
 - [Ging Gang Gooli](ging-gang-gooli.md) — #yarn #water
-- [Go Fly a Kite](go-fly-a-kite.md) — #yarn #jungle #jungle-book #nature
+- [Go Fly a Kite](go-fly-a-kite.md) — #jungle #jungle-book #nature #source-extracted #source-pop #source-scouts-digital #yarn
 - [God’s Friendly People](god-s-friendly-people.md) — #yarn #wildlife #water #history #health #maps-and-compass
 - [Gulliver’s Travels](gulliver-s-travels.md) — #yarn #birds #nature #food #health
 - [Hans and his dog](hans-and-his-dog.md) — #yarn
@@ -26,6 +28,7 @@ Use tags to find a suitable story; check each entry's source and context before 
 - [How the Brazilian Beetles Got Their Colour](How-the-Brazilian-Beetles-Got-their-Colour.md)
 - [How the Stars Came](how-the-stars-came.md) — #yarn
 - [How Valentine’s Day started](how-valentine-s-day-started.md) — #yarn
+- [Interactive Yarn -Trouble with traveling on a Comet](sd-interactive-yarn-trouble-with-traveling-on-a-comet-dce61c03.md) — #check-visuals #source-extracted #source-scouts-digital #yarn
 - [Ivik the Eskimo Boy](ivik-the-eskimo-boy.md) — #yarn #wildlife #water #food #health #maps-and-compass
 - [Johnny Appleseed](johnny-appleseed.md) — #yarn #nature #food
 - [Keeping Safe](keeping-safe.md) — #yarn #jungle #health
@@ -52,9 +55,10 @@ Use tags to find a suitable story; check each entry's source and context before 
 - [The happy little tree](the-happy-little-tree.md) — #yarn #jungle #nature
 - [The Happy Raindrop](the-happy-raindrop.md) — #yarn #birds #water #transport
 - [The Koolamunga Test](the-koolamunga-test.md) — #yarn #water #nature
-- [The Life of a Super Hero](the-life-of-a-super-hero.md) — #yarn
+- [The Life of a Super Hero](the-life-of-a-super-hero.md) — #source-extracted #source-pop #source-scouts-digital #yarn
 - [The Medicrin Story](the-medicrin-story.md) — #yarn
 - [The Story behind the Statue](the-story-behind-the-statue.md) — #yarn #history
+- [The Story of Mr. Bump — Yarn Reference](sd-the-story-of-mr-bump-yarn-reference-e923bf6b.md) — #programme-resource #source-extracted #source-scouts-digital #yarn
 - [The Sun Legend](Aborigine-The-Sun-Legend.md)
 - [The Sun Legend](the-sun-legend.md) — #yarn #birds
 - [The Village Sound Makers](the-village-sound-makers.md) — #yarn #music #rhythm #listening #teamwork #community
@@ -63,4 +67,28 @@ Use tags to find a suitable story; check each entry's source and context before 
 - [Where and When did it all begin?](where-and-when-did-it-all-begin.md) — #yarn #history #food
 - [Why the Woodpecker pecks at the trees and has a long beak](why-the-woodpecker-pecks-at-the-trees-and-has-a-long-beak.md) — #yarn #birds #wildlife
 - [Wright Flight](wright-flight.md) — #yarn #birds #history #transport #maps-and-compass
+- [YARN - LONDON'S BURNING](sd-yarn-london-s-burning-db48e483.md) — #fire #first-aid #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn - Milo and the Day of Noticing](sd-yarn-milo-and-the-day-of-noticing-3b735736.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn : Arrow](sd-yarn-arrow-4f950539.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn – Silkworms - Chinese history, life cycle and how to make shapes](sd-yarn-silkworms-chinese-history-life-cycle-and-how-to-make-shapes-44792a28.md) — #animals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn – Story of Bambi](sd-yarn-story-of-bambi-48b072de.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn – The Real Story of the 3 little pigs – A sneeze and a cup](sd-yarn-the-real-story-of-the-3-little-pigs-a-sneeze-and-a-cup-441dfcdf.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn – Who is the Alien now?](sd-yarn-who-is-the-alien-now-9165c055.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn/Story – “The Pack Helps Each Other” (Rama tells of a cub](sd-yarn-story-the-pack-helps-each-other-rama-tells-of-a-cub-4218a402.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [YARN: Alice and the Clock That Wouldn’t Wait](sd-yarn-alice-and-the-clock-that-wouldn-t-wait-0d94ebf3.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #time #yarn
+- [YARN: Bob’s Story](sd-yarn-bob-s-story-61b49a35.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: Hansel & Gretel](sd-yarn-hansel-gretel-da04df0e.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [YARN: In the Professor’s Garden](sd-yarn-in-the-professor-s-garden-6bee7c57.md) — #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: Operation Super Dad](sd-yarn-operation-super-dad-3d7f011c.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: Pinocchio excerpt](sd-yarn-pinocchio-excerpt-4c9f9125.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: Rikki-Tikki-Tavi](sd-yarn-rikki-tikki-tavi-ec1e8f36.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: See attached](sd-yarn-see-attached-2be79b21.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: Sharon finds her Environment.](sd-yarn-sharon-finds-her-environment-ef10e867.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: Thabo's Secret Safari](sd-yarn-thabo-s-secret-safari-fa868ed7.md) — #check-visuals #sense-training #source-extracted #source-scouts-digital #yarn
+- [Yarn: The Origin of the Good Turn](sd-yarn-the-origin-of-the-good-turn-8fcb0d55.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [YARN: The Story of Grace Landing (By Mrs.](sd-yarn-the-story-of-grace-landing-by-mrs-e0f7f5a8.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [YARN: THE STORY THE RIVER TOLD](sd-yarn-the-story-the-river-told-f54ec0f1.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: There’s a map on my lap](sd-yarn-there-s-a-map-on-my-lap-a60a8e5f.md) — #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
+- [Yarn: Water safety puppet show](sd-yarn-water-safety-puppet-show-5c8b8e8d.md) — #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital #water-safety #yarn
+- [Yarn: “ Littlest Roar” about doing your best.](sd-yarn-littlest-roar-about-doing-your-best-21feb543.md) — #needs-source-detail #reference-only #source-extracted #source-scouts-digital #yarn
 - [Zeus and his Mighty Company](zeus-and-his-mighty-company.md) — #yarn #birds #water #history

@@ -10,7 +10,7 @@ Yarn
 
 ## Instructions
 
-R![Source image](<../pop/source-conversions/assets/Fly_Away_attachment.doc/Fly_Away_attachment_html_c3be8eb.jpg>) achel was very excited. Akela was taking the Cubs on a special adventure this Saturday and she had said that she had a big surprise for the Cubs today. Out of her trunk she pulled the biggest kite Rachel had ever seen! "Let’s go!" Akela shouted. Down to the beach they went. It was a very windy day, perfect for kite flying - or so they all thought.
+R[Original visual unavailable in this checkout; consult the linked original source.] achel was very excited. Akela was taking the Cubs on a special adventure this Saturday and she had said that she had a big surprise for the Cubs today. Out of her trunk she pulled the biggest kite Rachel had ever seen! "Let’s go!" Akela shouted. Down to the beach they went. It was a very windy day, perfect for kite flying - or so they all thought.
 
 OK Rachel – it is your turn to go first, you hold the kite and I'll pull it into the sky." Rachel ran down the beach with the kite and then held it tight. Akela yelled "Let go" as she pulled hard on the string. But it was so windy that Rachel didn’t hear her.
 
@@ -38,24 +38,42 @@ YARN: Go Fly a Kite
 
 No activity-specific advancement task was identified in this attachment. Check the programme-level notes; no badge completion is implied.
 
-**Programme advancement context only — not linked to this element:**
-- **Historical task; current badge link unverified:** Make and use the following knots correctly: Reef Slip reef Hank a short tope
-- **Historical task; current badge link unverified:** Make and use the following knots: Round turn and two half hitches Figure of eight
-- **Historical task; current badge link unverified:** Make and use the following knots: Sheet bend Hank a long rope
-- **Historical task; current badge link unverified:** Make and use the following knots: Clove hitch Bowline Sheep shank
 
 ## Visual aid / image reference
 
-Embedded source visuals are retained below:
+Visual references follow. Any unavailable historical image is explicitly identified; consult the original source before running steps that depend on its diagrams.
 
-![Source image](<../pop/source-conversions/assets/Fly_Away_attachment.doc/Fly_Away_attachment_html_c3be8eb.jpg>)
+[Original visual unavailable in this checkout; consult the linked original source.]
 
 ## Tags
 
-#yarn #jungle #jungle-book #nature
+#jungle #jungle-book #nature #source-extracted #source-pop #source-scouts-digital #yarn
 
 ## Source
 
 - [Converted source document](<../pop/source-conversions/Fly_Away_attachment.doc.md>)
 - Original file: [`Fly_Away_attachment.doc`](<../pop/src/Fly_Away_attachment.doc>)
 - Related programme schedule: [`Fly_Away.doc`](<../pop/source-conversions/Fly_Away.doc.md>)
+
+<!-- Scouts Digital bulk provenance: start -->
+## Additional Scouts Digital source uses
+
+The existing canonical element is reused for the matching source-based variants below. Source text is separately attributed; these are not new AI-created games or official SSA rules. Compare differences before adapting. Source-only rewards/leader assignments do not replace the selected Pack profile. Short references and safety-critical teaching still need their source detail checked.
+
+### Program_Doc_ID_1_125_2026-09-11.pdf — YARN: Go Fly a Kite
+
+**Reuse status:** Reused source text, extracted from PDF p. 1, table 2, row 19. Timing: not stated; duration: 05. These are source timings, not defaults for another Pack.
+
+**Extraction:** Source text extracted from timetable cells; compare layout with original.
+
+**Variant preparation flags:** needs-source-detail, reference-only
+
+**Source equipment:** Yarn
+
+```text
+YARN: Go Fly a Kite
+```
+
+[Original](<../scouts-digital/src/Program_Doc_ID_1_125_2026-09-11.pdf#page=1>) · [Archival conversion](<../scouts-digital/source-conversions/Program_Doc_ID_1_125_2026-09-11.pdf.md#page-1>)
+
+<!-- Scouts Digital bulk provenance: end -->

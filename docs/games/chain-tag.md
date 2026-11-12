@@ -28,9 +28,43 @@ No embedded visual was found in this extracted section. Review the original sour
 
 ## Tags
 
-#game
+#game #movement #source-extracted #source-pop #source-scouts-digital
 
 ## Source
 
 - [Converted source document](<../pop/source-conversions/Fly_Away.doc.md>)
 - Original file: [`Fly_Away.doc`](<../pop/src/Fly_Away.doc>)
+
+<!-- Scouts Digital bulk provenance: start -->
+## Additional Scouts Digital source uses
+
+The existing canonical element is reused for the matching source-based variants below. Source text is separately attributed; these are not new AI-created games or official SSA rules. Compare differences before adapting. Source-only rewards/leader assignments do not replace the selected Pack profile. Short references and safety-critical teaching still need their source detail checked.
+
+### Program_Doc_ID_1_125_2026-09-11.pdf — ACTIVE GAME: Chain Tag
+
+**Reuse status:** Reused source text, extracted from PDF p. 2, table 1, row 8. Timing: not stated; duration: 05. These are source timings, not defaults for another Pack.
+
+**Extraction:** Source text extracted from timetable cells; compare layout with original.
+
+**Variant preparation flags:** Compare source and equipment before adapting.
+
+**Source equipment:** None
+
+```text
+ACTIVE GAME: Chain Tag
+Cubs are scattered over the playing area. One
+player is “IT” and tries to tag another player. The
+first Cub he/she tags joins hands with him/her and
+helps in tagging others. Both may use only their
+free hand to tag. Each player tagged joins hands
+with the one tagging him/her. The line grows
+longer as more players are tagged, but only the
+players at the two ends of the chain may do the
+tagging. Tagging doesn’t count if the chain is
+broken. The game continues until all the Cubs have
+been tagged.
+```
+
+[Original](<../scouts-digital/src/Program_Doc_ID_1_125_2026-09-11.pdf#page=2>) · [Archival conversion](<../scouts-digital/source-conversions/Program_Doc_ID_1_125_2026-09-11.pdf.md#page-2>)
+
+<!-- Scouts Digital bulk provenance: end -->

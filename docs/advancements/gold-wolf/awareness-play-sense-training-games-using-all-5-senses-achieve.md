@@ -13,6 +13,8 @@
 
 ## Related elements
 
+- [Animal Sounds](../../games/animal-sounds.md) — Hearing practice only, with no individual 70% assessment in the source. Combine with other verified sense-training opportunities and assess the complete requirement; group success alone is not completion. Connection checked against [The Cub Trail, November 2019, p. 6](../../The-Cub-Trail-Nov-19.pdf#page=6).
+
 These games, activities and crafts offer relevant practice. Read each note to see what it covers; a link does not prove that a Cub completed the requirement.
 
 - [Touch in Sand](../../games/touch-in-sand.md) — Provides a tactile sense-training game. Combine with games for the other four senses and record the required 70% score.

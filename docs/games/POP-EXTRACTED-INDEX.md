@@ -6,9 +6,9 @@
 - [Apes and Leopards](apes-and-leopards.md) — #game #jungle
 - [Ball Pass](ball-pass.md) — #game
 - [Balloon Race The](balloon-race-the.md) — #game
-- [Bean Planting](bean-planting.md) — #game #nature
+- [Bean Planting](bean-planting.md) — #game #movement #nature #source-extracted #source-pop #source-scouts-digital #space #teamwork
 - [Bean Relay](bean-relay.md) — #game
-- [Beans](beans.md) — #game
+- [Beans](beans.md) — #game #movement #source-extracted #source-pop #source-scouts-digital
 - [Bear Attack](bear-attack.md) — #game
 - [Beetle Drive](beetle-drive.md) — #game #jungle #nature #health
 - [Big Shoes](big-shoes.md) — #game
@@ -26,9 +26,9 @@
 - [Candle Lighting In relay formation](candle-lighting-in-relay-formation.md) — #game #south-africa
 - [Candle Lighting relay In relay formation, the](candle-lighting-relay-in-relay-formation-the.md) — #game
 - [Cannon Balls](cannon-balls.md) — #game #water #transport
-- [Captain on Deck](captain-on-deck.md) — #game #water #transport
+- [Captain on Deck](captain-on-deck.md) — #game #water #transport #water-safety #croods #reference-only #needs-instructions #source-scouts-digital #source-pop
 - [Catch the Gift](catch-the-gift.md) — #game
-- [Chain Tag](chain-tag.md) — #game
+- [Chain Tag](chain-tag.md) — #game #movement #source-extracted #source-pop #source-scouts-digital
 - [Chair pass ball The](chair-pass-ball-the.md) — #game #jungle
 - [Changing the Winds](changing-the-winds.md) — #game #maps-and-compass
 - [Chase the frogs!](chase-the-frogs.md) — #game #history
@@ -59,14 +59,14 @@
 - [Find a Friend](find-a-friend.md) — #game
 - [Find the Footprint](find-the-footprint.md) — #game #south-africa
 - [Find the Map](find-the-map.md) — #game #south-africa #maps-and-compass
-- [Finding Kevin’s Chicks The](finding-kevin-s-chicks-the.md) — #game #maps-and-compass
+- [Finding Kevin’s Chicks The](finding-kevin-s-chicks-the.md) — #game #maps-and-compass #sense-training #source-extracted #source-pop #source-scouts-digital
 - [Finding our Way](finding-our-way.md) — #game #nature #maps-and-compass
 - [Fire Lighting](fire-lighting.md) — #game #nature #health
 - [Fire Making](fire-making.md) — #game #nature #history
 - [Firemen-in-a-hurry](firemen-in-a-hurry.md) — #game
 - [Fitness Training](fitness-training.md) — #game
 - [Flipping the Fish](flipping-the-fish.md) — #game #jungle
-- [Floating Feather (Kite) The object of](floating-feather-kite-the-object-of.md) — #game #birds
+- [Floating Feather (Kite) The object of](floating-feather-kite-the-object-of.md) — #birds #game #source-extracted #source-pop #source-scouts-digital #teamwork
 - [Follow the Compass Trail](follow-the-compass-trail.md) — #game #jungle #transport #maps-and-compass
 - [Footprint Obstacle In Sixes](footprint-obstacle-in-sixes.md) — #game #south-africa
 - [Friendly Fiasco](friendly-fiasco.md) — #game
@@ -85,7 +85,7 @@
 - [How Do You Like Your Neighbours?](how-do-you-like-your-neighbours.md) — #game #jungle
 - [How to strike a Match](how-to-strike-a-match.md) — #game
 - [How’s your handshake?](how-s-your-handshake.md) — #game #maps-and-compass
-- [Hula Hoop Obstacle](hula-hoop-obstacle.md) — #game
+- [Hula Hoop Obstacle](hula-hoop-obstacle.md) — #game #hula-hoops #cooperation #teamwork #source-scouts-digital #source-pop
 - [Human String Relay](human-string-relay.md) — #game
 - [Hungry Birds](Hungry-Birds.md) — #game #birds #Australia #teamwork
 - [Husky Race One rope per Cub](husky-race-one-rope-per-cub.md) — #game
@@ -117,10 +117,10 @@
 - [Moon Walk](moon-walk.md) — #game #space
 - [Move like a crab The](move-like-a-crab-the.md) — #game
 - [Mummies](mummies.md) — #game
-- [Musical Islands Place sheets of newspaper around](musical-islands-place-sheets-of-newspaper-around.md) — #game
+- [Musical Islands Place sheets of newspaper around](musical-islands-place-sheets-of-newspaper-around.md) — #game #hula-hoops #croods #movement #source-scouts-digital #source-pop
 - [Musical Monkeys](musical-monkeys.md) — #game #jungle #nature
 - [Musical Shoes](musical-shoes.md) — #game #health
-- [Musical Statues Gather the](musical-statues-gather-the.md) — #game #history
+- [Musical Statues Gather the](musical-statues-gather-the.md) — #game #history #nature #hearing #memory #source-scouts-digital #source-pop
 - [Nets Choose two](nets-choose-two.md) — #game
 - [Obey Orders](obey-orders.md) — #game
 - [Opposites Arrange the](opposites-arrange-the.md) — #game
@@ -177,11 +177,11 @@
 - [Sticks](sticks.md) — #game #birds
 - [Stir the soup](stir-the-soup.md) — #game
 - [Stone the castle](stone-the-castle.md) — #game
-- [Stop, drop and roll](stop-drop-and-roll.md) — #game
+- [Stop, drop and roll](stop-drop-and-roll.md) — #game #movement #source-extracted #source-pop #source-scouts-digital
 - [Submarines](submarines.md) — #game #water
 - [Surf Rescue](surf-rescue.md) — #game #water #health
 - [Tackie Test](tackie-test.md) — #game
-- [Tails](tails.md) — #game
+- [Tails](tails.md) — #game #knots #source-extracted #source-pop #source-scouts-digital #teamwork
 - [The](the.md) — #game
 - [The Mummy Wrap](the-mummy-wrap.md) — #game #health
 - [The Mystery Number](the-mystery-number.md) — #game
@@ -193,7 +193,7 @@
 - [Underwater Puzzle The](underwater-puzzle-the.md) — #game
 - [Up River The](up-river-the.md) — #game #jungle #water #maps-and-compass
 - [Water Flowing](water-flowing.md) — #game #water
-- [Water Relay](Water-Relay.md) — #game #water #relay #teamwork
+- [Water Relay](Water-Relay.md) — #game #water #relay #teamwork #water #teamwork #sponge #relay #source-scouts-digital #source-pop
 - [Water the Horses](water-the-horses.md) — #game #water
 - [Whackem](whackem.md) — #game
 - [What Am I Doing?](what-am-i-doing.md) — #game

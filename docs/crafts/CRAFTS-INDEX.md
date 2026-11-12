@@ -1,24 +1,50 @@
 # Crafts Index
 
-32 crafts from POP, Pack resources and other sources.
+63 crafts from POP, Pack resources and other sources.
 Use tags to find a suitable craft; check each entry's source and safety notes before reuse.
 
+- [Activity 3: Make a paper boat](sd-activity-3-make-a-paper-boat-87e8ff56.md) — #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [African Beadwork](african-beadwork.md) — #craft #water #south-africa
 - [African Mask](african-mask.md) — #craft #south-africa
-- [Animal Mask](animal-mask.md) — #craft #wildlife
+- [Animal Mask](animal-mask.md) — #craft #wildlife #animals #masks #jungle-book #teamwork #needs-template #gold-wolf-practice #source-pop #source-scouts-digital
+- [Apple and Toothpick Rocket Ships](sd-apple-and-toothpick-rocket-ships-5745f58c.md) — #craft #food #source-extracted #source-scouts-digital #space
+- [Balloon Craft](sd-balloon-craft-bcb1571e.md) — #animals #check-visuals #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Base 1: Craft Buddy Burner](sd-base-1-craft-buddy-burner-916a0578.md) — #check-visuals #craft #first-aid #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [BASE 2: CRAFT ACTIVITY: Fridge](sd-base-2-craft-activity-fridge-cd4b1f02.md) — #check-visuals #craft #fire #movement #source-extracted #source-scouts-digital
+- [Base 3: Craft Buddy Burner](sd-base-3-craft-buddy-burner-0ff79ffe.md) — #craft #fire #first-aid #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Be Water Safe Tags](be-water-safe-tags.md) — #awareness #craft #movement #source-extracted #source-scouts-digital #tags #water-safety
 - [Bird Mask](bird-mask.md) — #craft #birds
 - [Box-String Instrument](box-string-instrument.md) — #craft #music #musical-instrument #recycled-materials #cardboard #elastic-bands
 - [Camel Craft](camel-craft.md) — #craft
+- [Camp Badge with Natural Stencils](camp-badge-natural-stencils.md) — #craft #nature #printing #fabric #camp #needs-pattern #source-scouts-digital
 - [Can do Robots](can-do-robots.md) — #craft #birds #health
 - [Chef Remy’s Hat](chef-remy-s-hat.md) — #craft
+- [Craft : Binoculars](sd-craft-binoculars-f93df0f0.md) — #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Craft: Make a Water Scope](sd-craft-make-a-water-scope-6ec0f002.md) — #check-visuals #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Craft: Nuts and Bolts Man Keyring - Father’s Day](sd-craft-nuts-and-bolts-man-keyring-father-s-day-575617db.md) — #check-visuals #craft #knots #source-extracted #source-scouts-digital
+- [Drawing with Toes](drawing-with-toes.md) — #craft #drawing #creative #inclusion #alternative-method #source-scouts-digital
 - [Footprint Fiasco](footprint-fiasco.md) — #craft #south-africa
+- [Gold Wolf need to make a mask and make up a](sd-gold-wolf-need-to-make-a-mask-and-make-up-a-b14ed9a9.md) — #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Hand craft: Make dice and draw](sd-hand-craft-make-dice-and-draw-93f0ae72.md) — #check-visuals #craft #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Handcraft - Bookmark – Glue silk shape onto cardboard and write name on back.](sd-handcraft-bookmark-glue-silk-shape-onto-cardboard-and-write-name-on-back-a014d9ab.md) — #check-visuals #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Handcraft item 3](handcraft-item-3.md) — #craft
 - [Handcraft item 4](handcraft-item-4.md) — #craft
 - [Handcraft item 6](handcraft-item-6-variant-2.md) — #craft #nature #south-africa
 - [Handcraft item 6](handcraft-item-6.md) — #craft
+- [Handcraft – Make a Catapult](sd-handcraft-make-a-catapult-18c6f88b.md) — #check-visuals #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Handcraft – Make a Windmill](sd-handcraft-make-a-windmill-6a62f394.md) — #check-visuals #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Handcraft – Super Dad gift for Fathers Day](sd-handcraft-super-dad-gift-for-fathers-day-5b1a41d5.md) — #check-visuals #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Handcraft –Marble octopus spinning around the galaxy](sd-handcraft-marble-octopus-spinning-around-the-galaxy-32381ee7.md) — #check-visuals #craft #source-extracted #source-scouts-digital
 - [Helicopter](helicopter.md) — #craft
+- [Helicopter Craft](sd-helicopter-craft-458d5fd3.md) — #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Hieroglyphics/Secret Codes](hieroglyphics-secret-codes.md) — #craft
 - [ID Badge](id-badge.md) — #craft #health
+- [Make a mask based on any of the characters and introduce them](sd-make-a-mask-based-on-any-of-the-characters-and-introduce-them-2479c5e1.md) — #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Make bird feeder](sd-make-bird-feeder-d7f7accd.md) — #birds #craft #food #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Nature craft badge](sd-nature-craft-badge-0b70ecb7.md) — #craft #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Nature craft badge](sd-nature-craft-badge-4fc59287.md) — #craft #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Nature craft badge](sd-nature-craft-badge-8a62fa60.md) — #craft #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [nature craft badge](sd-nature-craft-badge-c6da8c52.md) — #craft #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Octopus](octopus.md) — #craft
 - [Paper Airplane Contest Have](paper-airplane-contest-have.md) — #craft
 - [Patchwork Cards](patchwork-cards.md) — #craft
@@ -26,12 +52,17 @@ Use tags to find a suitable craft; check each entry's source and safety notes be
 - [Pirate hat and eye patch](pirate-hat-and-eye-patch.md) — #craft
 - [Pirate sword](pirate-sword.md) — #craft
 - [Pyramid Building](pyramid-building.md) — #craft #history
+- [Quiet Activity: Jungle Character Masks (Craft & prepare skit)](sd-quiet-activity-jungle-character-masks-craft-prepare-skit-51bc0baa.md) — #craft #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Robots](robots.md) — #craft
 - [Sand Art](sand-art.md) — #craft
+- [Silent Pinch Pots](silent-pinch-pots.md) — #craft #clay #pottery #non-verbal #communication #craft #source-scouts-digital
 - [Smelly Art](smelly-art.md) — #craft #food
+- [Smoke Leaf Prints — source method requiring safety review](smoke-leaf-prints.md) — #craft #leaves #printing #nature #fire #needs-safety-review #source-scouts-digital
 - [Snowboarder](snowboarder.md) — #craft #health
 - [Snowflakes](snowflakes.md) — #craft
+- [South African Cultures Poster](south-african-cultures-poster.md) — #craft #culture #south-africa #poster #needs-reference-material #source-scouts-digital
 - [Sunburst Hanging](Sunburst-Hanging.md) — sun, paper-craft, hanging-decoration
-- [The Newspaper Kite](the-newspaper-kite.md) — #craft
+- [The Newspaper Kite](the-newspaper-kite.md) — #craft #programme-resource #source-extracted #source-pop #source-scouts-digital
 - [Tin or Paper Bag Lanterns](tin-or-paper-bag-lanterns.md) — #craft #water #food
+- [Toilet-roll Bird Feeder](toilet-roll-bird-feeder.md) — #craft #birds #nature #feeding #observation #long-running #needs-bird-sheet #source-scouts-digital
 - [Underwater Telescopes](underwater-telescopes.md) — #craft #water

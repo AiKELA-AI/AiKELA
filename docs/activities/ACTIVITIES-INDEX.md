@@ -1,8 +1,90 @@
 # Activities Index
 
-213 activities from POP, Pack resources and other sources.
+685 activities from POP, Pack resources and other sources.
 Use tags to find a suitable activity; check each entry's source and safety notes before reuse.
 
+- ["Who Changed in the Tide?"](sd-who-changed-in-the-tide-7ef3cff3.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [# The paper towel is rolled up and one end is put into the](sd-the-paper-towel-is-rolled-up-and-one-end-is-put-into-the-d3bac054.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [1)Cubs lie on back and do 2 sets of 20 sit ups in each set.](sd-1-cubs-lie-on-back-and-do-2-sets-of-20-sit-ups-in-each-set-4566147b.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [10-YEAR-OLDS: STRANDED DISTRESS CHALLENGE](sd-10-year-olds-stranded-distress-challenge-0061ad74.md) — #activity #check-visuals #source-extracted #source-scouts-digital #water-safety
+- [2 bases.](sd-2-bases-e48cf5b2.md) — #activity #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [2 groups .](sd-2-groups-8e55cb53.md) — #activity #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [4 teams, each with a hula hoop base. Each team has a](sd-4-teams-each-with-a-hula-hoop-base-each-team-has-a-caf31fde.md) — #activity #source-extracted #source-scouts-digital #teamwork #water-safety
+- [5 Senses –](sd-5-senses-0aec229e.md) — #activity #needs-source-detail #reference-only #sense-training #source-extracted #source-scouts-digital
+- [5x 15-Minute Station Rotations (Groups of 5)](sd-5x-15-minute-station-rotations-groups-of-5-48f40aae.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Accident Scene Scenario](sd-accident-scene-scenario-74f541db.md) — #activity #first-aid #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Acid Rain Erosion Discussion](sd-acid-rain-erosion-discussion-d1a1b382.md) — #activity #check-visuals #environment #nature #source-extracted #source-scouts-digital
+- [Activate Emergency Services — Pretend Scenarios](sd-activate-emergency-services-pretend-scenarios-56d3faeb.md) — #activity #check-visuals #fire #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Activities : Industrial Revolution](sd-activities-industrial-revolution-5f304209.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activities : Khoi San Bow and Arrows](sd-activities-khoi-san-bow-and-arrows-7055fe88.md) — #activity #knots #needs-safety-review #source-extracted #source-scouts-digital
+- [Activities : Machine Challenge](sd-activities-machine-challenge-2bcdcde6.md) — #activity #check-visuals #knots #maps-and-compass #movement #needs-safety-review #source-extracted #source-scouts-digital #teamwork #water-safety
+- [Activities : Machine Detective](sd-activities-machine-detective-4bf88b10.md) — #activity #knots #nature #source-extracted #source-scouts-digital
+- [Activities : Water clock](sd-activities-water-clock-a8d29b83.md) — #activity #source-extracted #source-scouts-digital #time
+- [ACTIVITY / Jungle Book](sd-activity-jungle-book-477cdd22.md) — #activity #jungle-book #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVITY / Knotting - story](sd-activity-knotting-story-5cc7ceb7.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVITY / Road Safety Yarn](sd-activity-road-safety-yarn-0abcff66.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVITY / Safety First at Home. /talk about hall safety](sd-activity-safety-first-at-home-talk-about-hall-safety-fe2713c3.md) — #activity #fire #first-aid #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [ACTIVITY / Yarn Jungle book](sd-activity-yarn-jungle-book-9737712b.md) — #activity #jungle-book #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 10: Fire Rescue](sd-activity-10-fire-rescue-be4f5d8c.md) — #activity #fire #sense-training #source-extracted #source-scouts-digital #water-safety
+- [Activity 1: A Growing Fire](sd-activity-1-a-growing-fire-02a36f7c.md) — #activity #fire #movement #source-extracted #source-scouts-digital
+- [Activity 1: Down the tunnel](sd-activity-1-down-the-tunnel-a4d9fde8.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Activity 1: Greek Salad](sd-activity-1-greek-salad-d2a4d3fa.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Activity 1: Tooth Brush and Germ (Cat and Mouse)](sd-activity-1-tooth-brush-and-germ-cat-and-mouse-3189fecf.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity 2- Discussion on conservation](sd-activity-2-discussion-on-conservation-28c47003.md) — #activity #environment #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2- Parts of the flag and how to fold the flag](sd-activity-2-parts-of-the-flag-and-how-to-fold-the-flag-ea3561ed.md) — #activity #flag #source-extracted #source-scouts-digital
+- [Activity 2: Camp Fire Rules](sd-activity-2-camp-fire-rules-84f3b3f8.md) — #activity #camp #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2: Fires and cooking](sd-activity-2-fires-and-cooking-c1cb1eee.md) — #activity #fire #food #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2: Growing a plant](sd-activity-2-growing-a-plant-753e556c.md) — #activity #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2: Healthy Body](sd-activity-2-healthy-body-1c397877.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2: Healthy Foods and Unhealthy Foods](sd-activity-2-healthy-foods-and-unhealthy-foods-b467e07e.md) — #activity #food #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2: Infectious diseases](sd-activity-2-infectious-diseases-4f24c2f8.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2: Knots](sd-activity-2-knots-c851f45c.md) — #activity #check-visuals #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 2: Planting a seed](sd-activity-2-planting-a-seed-b6611952.md) — #activity #movement #nature #source-extracted #source-scouts-digital
+- [Activity 2: Road Safety](sd-activity-2-road-safety-61a0798d.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 3- Planting](sd-activity-3-planting-be05421b.md) — #activity #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 3: Be Careful](sd-activity-3-be-careful-f0a128aa.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Activity 3: Hoola Hoop](sd-activity-3-hoola-hoop-2f454a4b.md) — #activity #source-extracted #source-scouts-digital #teamwork
+- [Activity 3: Skipping](sd-activity-3-skipping-1d4f1ebc.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 3: Skits](sd-activity-3-skits-96775d52.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 3: Yoga](sd-activity-3-yoga-c491583f.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 4: Be Kind](sd-activity-4-be-kind-de62a1d1.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 4: Camp Fire](sd-activity-4-camp-fire-fb13d82a.md) — #activity #camp #check-visuals #fire #movement #source-extracted #source-scouts-digital
+- [Activity 4: Clumps](sd-activity-4-clumps-b3187310.md) — #activity #fire #movement #source-extracted #source-scouts-digital
+- [Activity 4: Construction Model](sd-activity-4-construction-model-7b60621d.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 4: Matching](sd-activity-4-matching-84c919b8.md) — #activity #check-visuals #fire #memory #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 4: Traffic Signals](sd-activity-4-traffic-signals-85da706f.md) — #activity #fire #movement #source-extracted #source-scouts-digital
+- [Activity 4: Water Conservation](sd-activity-4-water-conservation-9782f665.md) — #activity #environment #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 5: Getting to know your cub](sd-activity-5-getting-to-know-your-cub-ef43c07c.md) — #activity #food #source-extracted #source-scouts-digital
+- [Activity 5: Human Knot](sd-activity-5-human-knot-7da6b8ad.md) — #activity #knots #source-extracted #source-scouts-digital #teamwork
+- [Activity 5: Infectious diseases](sd-activity-5-infectious-diseases-83b9bb79.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 5: Make a fruit salad](sd-activity-5-make-a-fruit-salad-b6ea49bc.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 5: Play acting](sd-activity-5-play-acting-bdd90b0a.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 5: Poster](sd-activity-5-poster-c17781a0.md) — #activity #environment #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 5: Yoga](sd-activity-5-yoga-c4c425cb.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 5: “Solar System](sd-activity-5-solar-system-25345549.md) — #activity #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 6- Parts of the flag and how to fold the flag](sd-activity-6-parts-of-the-flag-and-how-to-fold-the-flag-9dda5eb2.md) — #activity #flag #source-extracted #source-scouts-digital
+- [Activity 6: Beat the clock](sd-activity-6-beat-the-clock-617d1d02.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital #time
+- [Activity 6: Camp Fire Songs](sd-activity-6-camp-fire-songs-6efcdf55.md) — #activity #camp #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 6: Emotions](sd-activity-6-emotions-115b3b1f.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 7- Emergency Services ( Similar to fruit salad)](sd-activity-7-emergency-services-similar-to-fruit-salad-0cbcb726.md) — #activity #fire #source-extracted #source-scouts-digital
+- [Activity 7: Build a camp fire](sd-activity-7-build-a-camp-fire-0bc9b66d.md) — #activity #camp #check-visuals #fire #source-extracted #source-scouts-digital
+- [Activity 7: Hoola Hoop](sd-activity-7-hoola-hoop-2a2938d8.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity 7: Matching cards](sd-activity-7-matching-cards-7b166432.md) — #activity #check-visuals #fire #memory #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 7: Scavenger Hunt](sd-activity-7-scavenger-hunt-b0724ae6.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 7: Skipping](sd-activity-7-skipping-f9824b2c.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 7: Yarn Dennis learns a lesson](sd-activity-7-yarn-dennis-learns-a-lesson-7e96fef1.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 7: Yarn Lesson for the big bugs!](sd-activity-7-yarn-lesson-for-the-big-bugs-c58b8ccb.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 8: How to save water](sd-activity-8-how-to-save-water-244b7abf.md) — #activity #environment #source-extracted #source-scouts-digital
+- [Activity 8: Matching cards.](sd-activity-8-matching-cards-d96b6f77.md) — #activity #check-visuals #fire #source-extracted #source-scouts-digital #teamwork
+- [Activity 8: Mushroom Ball Throw](sd-activity-8-mushroom-ball-throw-215234d2.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity 8: Paper Boats](sd-activity-8-paper-boats-e76f060c.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 8: Quick thinking](sd-activity-8-quick-thinking-a9012730.md) — #activity #animals #birds #environment #jungle-book #knots #source-extracted #source-scouts-digital
+- [Activity 8: Toothpicks](sd-activity-8-toothpicks-3d042af4.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity 9: Be Careful](sd-activity-9-be-careful-a1388cf9.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Activity 9: Drip, Drip Splash](sd-activity-9-drip-drip-splash-c4b2b87d.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Activity 9: Make a Rain storm](sd-activity-9-make-a-rain-storm-06225ae3.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity Base 2 (SW53, colour flag, GW57, parts of flag)](sd-activity-base-2-sw53-colour-flag-gw57-parts-of-flag-e5a40795.md) — #activity #check-visuals #flag #movement #source-extracted #source-scouts-digital
+- [Activity Base 3: At the flag pole/point](sd-activity-base-3-at-the-flag-pole-point-306e855d.md) — #activity #flag #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Activity Bases item 5](activity-bases-item-5.md) — #activity
 - [Activity Challenge](activity-challenge.md) — #activity
 - [Activity item 10](activity-item-10.md) — #activity #jungle #water
@@ -18,85 +100,300 @@ Use tags to find a suitable activity; check each entry's source and safety notes
 - [Activity item 8](activity-item-8-variant-2.md) — #activity
 - [Activity item 8](activity-item-8.md) — #activity #water #history #health
 - [Activity item 9](activity-item-9.md) — #activity #health
+- [Activity – First Aid – Using your Uniform](sd-activity-first-aid-using-your-uniform-ae766801.md) — #activity #first-aid #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity – Fun Fish](sd-activity-fun-fish-1594c447.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity – Make a small fire](sd-activity-make-a-small-fire-8d678891.md) — #activity #fire #needs-safety-review #source-extracted #source-scouts-digital
+- [Activity – Make Jars of hope for the Poor](sd-activity-make-jars-of-hope-for-the-poor-3274eb90.md) — #activity #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity – Making a terrarium](sd-activity-making-a-terrarium-9aa840ac.md) — #activity #check-visuals #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity – Space Pudding](sd-activity-space-pudding-2ccccf7d.md) — #activity #source-extracted #source-scouts-digital #space
+- [Activity – What does a fire need to burn](sd-activity-what-does-a-fire-need-to-burn-5cd6cc56.md) — #activity #check-visuals #fire #first-aid #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVITY — Draw a simple diagram showing how water gets to](sd-activity-draw-a-simple-diagram-showing-how-water-gets-to-8ecd43b1.md) — #activity #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity — Emergency behaviour role-play;](sd-activity-emergency-behaviour-role-play-d679b7d1.md) — #activity #first-aid #nature #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity — Treating cuts/grazes;](sd-activity-treating-cuts-grazes-a632060f.md) — #activity #first-aid #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity: Checking the Water Filters](sd-activity-checking-the-water-filters-4a6c624c.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity: Eco Bricks](sd-activity-eco-bricks-000b7027.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVITY: EmergenciesThe Gold Wolf Aptitude challenge requirement is to ‘know how to behave in an emergency situation’ but do our](sd-activity-emergenciesthe-gold-wolf-aptitude-challenge-requirement-is-to-know-40d0889a.md) — #activity #check-visuals #fire #source-extracted #source-scouts-digital #water-safety
+- [Activity: Golds (GW53)](sd-activity-golds-gw53-4f455c90.md) — #activity #knots #source-extracted #source-scouts-digital
+- [Activity: Ingredients](sd-activity-ingredients-2cfcf992.md) — #activity #food #source-extracted #source-scouts-digital
+- [Activity: Making a Water Filter](sd-activity-making-a-water-filter-35938af0.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Activity: Making a Water Scope](sd-activity-making-a-water-scope-acfe71f4.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [ACTIVITY: My Reusable Bag](sd-activity-my-reusable-bag-989545c1.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity: Pack Doc's Water Rescue Kit](sd-activity-pack-doc-s-water-rescue-kit-efff001e.md) — #activity #check-visuals #knots #source-extracted #source-scouts-digital #water-safety
+- [Activity: Paper brick Fires](sd-activity-paper-brick-fires-6b3e1444.md) — #activity #fire #needs-safety-review #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity: Pegasus' Bird's-Eye View Map Challenge](sd-activity-pegasus-bird-s-eye-view-map-challenge-220ad18d.md) — #activity #birds #flag #maps-and-compass #source-extracted #source-scouts-digital
+- [ACTIVITY: Plastic-free Pledge](sd-activity-plastic-free-pledge-41ce0681.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Activity: Pledge](sd-activity-pledge-38e675a4.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity: Seed Hunt & Conservation Challenge](sd-activity-seed-hunt-conservation-challenge-fbe4a70f.md) — #activity #environment #nature #source-extracted #source-scouts-digital
+- [Activity: Silvers (Sw39)](sd-activity-silvers-sw39-7a10d24a.md) — #activity #memory #source-extracted #source-scouts-digital
+- [Activity: Taste (GW 12) - CHECK FOOD ALLEGIES](sd-activity-taste-gw-12-check-food-allegies-69cf3f8d.md) — #activity #check-visuals #food #sense-training #source-extracted #source-scouts-digital
+- [Activity: The Great Flag Recall Challenge](sd-activity-the-great-flag-recall-challenge-7d30014f.md) — #activity #check-visuals #fire #flag #knots #memory #source-extracted #source-scouts-digital #teamwork
+- [Activity: The Great Hazard Hunt](sd-activity-the-great-hazard-hunt-9c63705a.md) — #activity #check-visuals #fire #movement #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Activity: Traffic signs](sd-activity-traffic-signs-d5bc1406.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Activity: — How to Play](sd-activity-how-to-play-992579ec.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Activity: — How to Play](sd-activity-how-to-play-a8f37f76.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Advancement Discussion Part 1: Outdoors](sd-advancement-discussion-part-1-outdoors-b56abce4.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Advancement Discussion Part 2: Outdoors](sd-advancement-discussion-part-2-outdoors-844bc0fb.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Advancement: Build a water](sd-advancement-build-a-water-94ca3aa8.md) — #activity #movement #source-extracted #source-scouts-digital #teamwork
+- [Advancement: GW - lost in veld task 41](sd-advancement-gw-lost-in-veld-task-41-8baaf8f3.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Advancement: Learn to say hello,](sd-advancement-learn-to-say-hello-da482333.md) — #activity #culture #fire #source-extracted #source-scouts-digital
+- [ADVANCEMENT: Punctuality and tell the time](sd-advancement-punctuality-and-tell-the-time-937e4ad9.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital #time
+- [Advancement: Secret Codes:](sd-advancement-secret-codes-abf7abc5.md) — #activity #codes #source-extracted #source-scouts-digital
+- [Advancement: Silver wolves](sd-advancement-silver-wolves-c22ca341.md) — #activity #check-visuals #fire #source-extracted #source-scouts-digital
+- [Advancement: SW - 52 - know national anthem - NC](sd-advancement-sw-52-know-national-anthem-nc-45a267ad.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital
+- [Advancement: SW 54 respect your uniform](sd-advancement-sw-54-respect-your-uniform-d4d5c482.md) — #activity #source-extracted #source-scouts-digital #teamwork
+- [Advancement: SW task 8 - importance of washing hands](sd-advancement-sw-task-8-importance-of-washing-hands-51946174.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Advancement: Traditional dance](sd-advancement-traditional-dance-7a24e143.md) — #activity #culture #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Advancement: Trails](sd-advancement-trails-2856a05f.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Advancement: — Advancement: GW - compass use and care task 45](sd-advancement-advancement-gw-compass-use-and-care-task-45-611d787e.md) — #activity #knots #maps-and-compass #source-extracted #source-scouts-digital
+- [Advancement: — SW: KNOTS - 2nd Plum](sd-advancement-sw-knots-2nd-plum-6b594cf6.md) — #activity #knots #source-extracted #source-scouts-digital
+- [Adventure Hunt — outdoors, in the light](sd-adventure-hunt-outdoors-in-the-light-d33dcba8.md) — #activity #movement #source-extracted #source-scouts-digital
 - [Alice the Camel](alice-the-camel.md) — #activity
 - [Aqua Scope](aqua-scope-variant-2.md) — #activity #water
 - [Aqua Scope](aqua-scope.md) — #activity #water
+- [Arm Sling Practice](sd-arm-sling-practice-1d160656.md) — #activity #first-aid #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Arm slingers](sd-arm-slingers-39d8dc99.md) — #activity #first-aid #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [as per progress chart](as-per-progress-chart-variant-2.md) — #activity
 - [As per progress chart](as-per-progress-chart-variant-3.md) — #activity
 - [As per progress chart](as-per-progress-chart-variant-4.md) — #activity
 - [As per progress chart](as-per-progress-chart-variant-5.md) — #activity
 - [As per progress chart](as-per-progress-chart.md) — #activity
+- [ask another to stem the bleeding using](sd-ask-another-to-stem-the-bleeding-using-7ddf0aa8.md) — #activity #check-visuals #first-aid #source-extracted #source-scouts-digital
+- [At Eagles Nest Clearing](sd-at-eagles-nest-clearing-721bdea2.md) — #activity #animals #check-visuals #codes #environment #nature #source-extracted #source-scouts-digital
 - [B-P Spirit](b-p-spirit.md) — #activity
 - [Bananas, Coconuts and Grapes](bananas-coconuts-and-grapes.md) — #activity
+- [Base 1 - show plastic pollution items – single use](sd-base-1-show-plastic-pollution-items-single-use-ba4ae69b.md) — #activity #animals #check-visuals #environment #source-extracted #source-scouts-digital #teamwork
+- [Base 1:](sd-base-1-403ca29d.md) — #activity #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [BASE 1: Show that you know the basic](sd-base-1-show-that-you-know-the-basic-3fe980d1.md) — #activity #memory #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Base 1: Water & Air Watch (Pollution causes, filtration & testing)](sd-base-1-water-air-watch-pollution-causes-filtration-testing-543bb5bf.md) — #activity #environment #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Base 1:touch.](sd-base-1-touch-0574e446.md) — #activity #memory #source-extracted #source-scouts-digital
+- [Base 2 : Oil pollution: aren’t an easy fix,](sd-base-2-oil-pollution-aren-t-an-easy-fix-16ed5d00.md) — #activity #animals #check-visuals #environment #source-extracted #source-scouts-digital
+- [Base 2:](sd-base-2-af129a04.md) — #activity #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Base 2: Emergency Runners & First Aid (Polite delivery & kits)](sd-base-2-emergency-runners-first-aid-polite-delivery-kits-e0adf10b.md) — #activity #check-visuals #first-aid #movement #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Base 2: sight.](sd-base-2-sight-dda42dfe.md) — #activity #memory #needs-safety-review #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Base 2: SW: Advancement](sd-base-2-sw-advancement-f86e1fcd.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Base 3 - over fishing](sd-base-3-over-fishing-bae98fe9.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Base 3:](sd-base-3-539d728e.md) — #activity #check-visuals #fire #memory #sense-training #source-extracted #source-scouts-digital
+- [BASE 3: Knotting: Round turn two half hitches,reef](sd-base-3-knotting-round-turn-two-half-hitches-reef-01a3cc9b.md) — #activity #check-visuals #first-aid #knots #source-extracted #source-scouts-digital #water-safety
+- [Base 3:Taste.](sd-base-3-taste-5cd1b838.md) — #activity #food #memory #sense-training #source-extracted #source-scouts-digital
+- [Base 4 - coral damage](sd-base-4-coral-damage-7dcace6c.md) — #activity #check-visuals #environment #source-extracted #source-scouts-digital #space
+- [BASE 4: DEMONSTRATION: Recovery position](sd-base-4-demonstration-recovery-position-edd7e4fb.md) — #activity #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Base 4: Fire Safety](sd-base-4-fire-safety-31531b43.md) — #activity #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [BASE 4: Learn National Anthem](sd-base-4-learn-national-anthem-f5d66747.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Base 4: South Africa (Rocky)](sd-base-4-south-africa-rocky-fe347af8.md) — #activity #animals #culture #flag #food #sense-training #source-extracted #source-scouts-digital
+- [Base 5: Hearing.](sd-base-5-hearing-7a46fb8e.md) — #activity #needs-source-detail #reference-only #sense-training #source-extracted #source-scouts-digital
+- [Bases — Sixes rotate, 10 minutes each](sd-bases-sixes-rotate-10-minutes-each-0b7f88be.md) — #activity #environment #nature #source-extracted #source-scouts-digital
 - [Be Creative](be-creative-variant-2.md) — #activity
 - [Be Creative](be-creative.md) — #activity
+- [Beforehand](sd-beforehand-e3ee8658.md) — #activity #flag #jungle-book #movement #source-extracted #source-scouts-digital
 - [Big Birdie Song](big-birdie-song.md) — #activity #birds
+- [Bird Detectives](sd-bird-detectives-f86b05ef.md) — #activity #birds #check-visuals #food #source-extracted #source-scouts-digital
 - [Bird Feeder/Fire-lighter/Cooking](bird-feeder-fire-lighter-cooking.md) — #activity #birds #water #nature #food #health
+- [Bird Observation Rotation](bird-observation-rotation.md) — #activity #birds #nature #observation #drawing #hearing #long-running #source-scouts-digital
+- [Blake do his technology in action - Battery](sd-blake-do-his-technology-in-action-battery-5b13f6e1.md) — #activity #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Blanket of Hope: Helping Others](sd-blanket-of-hope-helping-others-04194f0b.md) — #activity #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Blind Person](blind-person.md) — #activity #maps-and-compass
+- [Boat building. In sixes](sd-boat-building-in-sixes-abe1f19c.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Bowline, Slipe Reef knot](sd-bowline-slipe-reef-knot-b8066023.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [BP Ideas In Sixes](bp-ideas-in-sixes.md) — #activity
 - [Braai Allow the](braai-allow-the.md) — #activity #south-africa
+- [Buck, buck, Lion!](sd-buck-buck-lion-599cd30c.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Build a Wild Creature](sd-build-a-wild-creature-aac13f91.md) — #activity #animals #nature #source-extracted #source-scouts-digital
+- [Buried-pot Compost](buried-pot-compost.md) — #activity #gardening #compost #nature #long-running #source-scouts-digital
+- [Burns, scalds and stop bleeding](sd-burns-scalds-and-stop-bleeding-21b8c389.md) — #activity #check-visuals #first-aid #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Camel Footprints](camel-footprints.md) — #activity
+- [Campfire Skit Rehearsal (reference only)](campfire-skit-rehearsal-reference.md) — #activity #playacting #campfire #rehearsal #reference-only #needs-script #source-scouts-digital
 - [Campfire Song item 10](campfire-song-item-10.md) — #activity
+- [Campfire Song: National anthem - who did it best?](sd-campfire-song-national-anthem-who-did-it-best-8fdc5d45.md) — #activity #camp #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Campfire Songs and Rules of how to behave at a Campfire](sd-campfire-songs-and-rules-of-how-to-behave-at-a-campfire-5f618e2d.md) — #activity #camp #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Campfire’s Burning](campfire-s-burning-variant-2.md) — #activity
 - [Campfire’s Burning](campfire-s-burning.md) — #activity
+- [Candle Lighting and Marie Biscuits](sd-candle-lighting-and-marie-biscuits-e19bb2ed.md) — #activity #fire #movement #source-extracted #source-scouts-digital
 - [Ceremonial Masks](ceremonial-masks.md) — #activity
+- [Challenge 1 The Queen's Secret Characters(+/5 min)](sd-challenge-1-the-queen-s-secret-characters-5-min-54bf393f.md) — #activity #animals #check-visuals #codes #fire #jungle-book #knots #maps-and-compass #memory #source-extracted #source-scouts-digital
+- [Challenge 1 – Escape the Palace - The Queen's Secret Code (+/-7 min)](sd-challenge-1-escape-the-palace-the-queen-s-secret-code-7-min-c5657d90.md) — #activity #animals #check-visuals #codes #environment #knots #maps-and-compass #memory #source-extracted #source-scouts-digital #time
 - [Charades](charades.md) — #activity
 - [Charades (ideas)](charades-ideas.md) — #activity #birds
+- [Circle: Follow the Comet](sd-circle-follow-the-comet-d62174ae.md) — #activity #programme-resource #source-extracted #source-scouts-digital
 - [Clean and Tidy Hair](Clean-and-Tidy-Hair.md) — inspection, hygiene
+- [Clean cut](sd-clean-cut-50126e68.md) — #activity #memory #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Clear-cup Seed Growing and Transplanting](clear-cup-seed-growing.md) — #activity #gardening #seeds #plants #long-running #source-scouts-digital
+- [Climb 3m rope](sd-climb-3m-rope-52b02a54.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Come a-hunting](come-a-hunting.md) — #activity #jungle
+- [Command Baloo](sd-command-baloo-9b0eb7a5.md) — #activity #fire #jungle-book #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Communication](communication.md) — #activity
 - [Communications](communications.md) — #activity
 - [Compass](compass-variant-2.md) — #activity #jungle #maps-and-compass
 - [Compass](compass.md) — #activity #maps-and-compass
 - [Compass Patience](compass-patience.md) — #activity #maps-and-compass
+- [Compass Points](sd-compass-points-c07bb319.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital
+- [Complex Codes](sd-complex-codes-20f18fa1.md) — #activity #codes #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Conservation](conservation-variant-2.md) — #activity #water #nature
 - [Conservation](conservation.md) — #activity #water #nature #south-africa
+- [Conservation Bean Bag Toss](sd-conservation-bean-bag-toss-ad260837.md) — #activity #environment #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Conservation-stove Tea Challenge](conservation-stove-tea.md) — #activity #fire #cooking #stoves #teamwork #needs-fire-safety-teaching #source-scouts-digital
+- [Craf:t Decorations](sd-craf-t-decorations-6bb25d86.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Craf:t Father’s day campfire cards](sd-craf-t-father-s-day-campfire-cards-9270e3b4.md) — #activity #camp #check-visuals #fire #source-extracted #source-scouts-digital
+- [Craf:t Invitation](sd-craf-t-invitation-5d30fd64.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Crafts : Walls of the Pharoah's Tomb](sd-crafts-walls-of-the-pharoah-s-tomb-cae2764b.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital
+- [Crafts : Weaving](sd-crafts-weaving-661febc4.md) — #activity #programme-resource #source-extracted #source-scouts-digital
 - [Creative Smells](creative-smells.md) — #activity
+- [Cub Pool Swimming Circuit — Source Programme](cub-pool-swimming-circuit.md) — #activity #swimming #water-safety #pool #rotation #rescue-theme #needs-qualified-instruction #source-scouts-digital
+- [Cubs build a simple raft to complete their model](sd-cubs-build-a-simple-raft-to-complete-their-model-9dc89f5d.md) — #activity #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Cubs get into sixes and put tight hand into circle and hold hands, then left hand into circle to hold hands to make a big knot, then twist a](sd-cubs-get-into-sixes-and-put-tight-hand-into-circle-and-hold-hands-then-left-2a67ca72.md) — #activity #knots #source-extracted #source-scouts-digital
 - [Cubs to tie any two knots.](cubs-to-tie-any-two-knots.md) — #activity
+- [Cultural Activity – 3 Bases](sd-cultural-activity-3-bases-8ce3a1b0.md) — #activity #check-visuals #culture #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Cultural Passport Bases](sd-cultural-passport-bases-97fad2cc.md) — #activity #check-visuals #culture #fire #flag #needs-safety-review #sense-training #source-extracted #source-scouts-digital
+- [Dad says!](sd-dad-says-b8e6b5e7.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Dance of Kaa (reference only)](dance-of-kaa-reference.md) — #activity #dance #jungle-book #kaa #masks #reference-only #needs-instructions #source-scouts-digital
+- [Deep sea sushi rolls](sd-deep-sea-sushi-rolls-15b91ba5.md) — #activity #check-visuals #food #nature #needs-safety-review #source-extracted #source-scouts-digital
+- [DEMONSTRATION:](sd-demonstration-3039b9b0.md) — #activity #needs-safety-review #source-extracted #source-scouts-digital #water-safety
+- [DEMONSTRATION: Recovery position](sd-demonstration-recovery-position-d0c0d839.md) — #activity #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Design, Practise and Lead a Water-safety Game](sd-design-practise-and-lead-a-water-safety-game-c20ebcca.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital #water-safety
+- [Dip, Dip and Swing — Source Song](dip-dip-and-swing-source-song.md) — #activity #singing #campfire #paddling #needs-tune #source-scouts-digital
+- [Discover Caerphilly & Wales](sd-discover-caerphilly-wales-788a5126.md) — #activity #culture #source-extracted #source-scouts-digital
+- [Discussion and worksheet fill in on planting a vegetable](sd-discussion-and-worksheet-fill-in-on-planting-a-vegetable-60f99e26.md) — #activity #check-visuals #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Discussion on Fire Safety + Recycling](sd-discussion-on-fire-safety-recycling-641608f4.md) — #activity #environment #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Discussion with AWOL about his recycling company](sd-discussion-with-awol-about-his-recycling-company-ee76f4af.md) — #activity #environment #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Discussion: What is pollution?](sd-discussion-what-is-pollution-532a6698.md) — #activity #environment #nature #source-extracted #source-scouts-digital
+- [Divide](sd-divide-0b74cb0a.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Divide into sixes and](sd-divide-into-sixes-and-a170a744.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Draw a picture of an African Penguin, Greater Flamingo, African](sd-draw-a-picture-of-an-african-penguin-greater-flamingo-african-159a213d.md) — #activity #birds #check-visuals #movement #source-extracted #source-scouts-digital
+- [Drawing - Observation](sd-drawing-observation-93b2e39a.md) — #activity #check-visuals #movement #source-extracted #source-scouts-digital
+- [Dry-land Rescue-rope Practice](dry-land-rescue-rope-practice.md) — #activity #rope #rescue-theme #water-safety #needs-qualified-instruction #source-scouts-digital
+- [Each group of Gold Wolves to perform their dance/ song for the pack](sd-each-group-of-gold-wolves-to-perform-their-dance-song-for-the-pack-ce9750ab.md) — #activity #jungle-book #source-extracted #source-scouts-digital
+- [Each time the wrong thing to do (underlined sentence)](sd-each-time-the-wrong-thing-to-do-underlined-sentence-8782b64a.md) — #activity #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Edible Fire](edible-fire.md) — #activity
+- [Emergency Cards and Wordsearch — at the tables](sd-emergency-cards-and-wordsearch-at-the-tables-f8ea2db8.md) — #activity #check-visuals #movement #source-extracted #source-scouts-digital
+- [Emergency Discussion and 112 Mnemonic](sd-emergency-discussion-and-112-mnemonic-c2ec3ec1.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Emergency Rap](sd-emergency-rap-e8c9533c.md) — #activity #memory #source-extracted #source-scouts-digital
 - [Entertaining](entertaining.md) — #activity #health
 - [Entertaining (Sensations)](entertaining-sensations.md) — #activity #health
+- [Entrepreneur Badge](sd-entrepreneur-badge-05f59028.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Entrepreneur badge](sd-entrepreneur-badge-2df42cd0.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Entrepreneur badge](sd-entrepreneur-badge-950e6887.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Entrepreneur Badge](sd-entrepreneur-badge-d6eb97a0.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Entrepreneur badge](sd-entrepreneur-badge-f38e8810.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [explain parts of the flag](sd-explain-parts-of-the-flag-4e5be39c.md) — #activity #flag #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Explain the dangers of swimming in the type of water in your area](sd-explain-the-dangers-of-swimming-in-the-type-of-water-in-your-area-00fc629f.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital #water-safety
+- [Explain the importance of warming up and cooling down.](sd-explain-the-importance-of-warming-up-and-cooling-down-8a2c8d0d.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Explain to](sd-explain-to-7243b0c5.md) — #activity #animals #codes #environment #source-extracted #source-scouts-digital
+- [Explain what to do in the case of a fire emergency](sd-explain-what-to-do-in-the-case-of-a-fire-emergency-8b84ec13.md) — #activity #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Explorers Express](explorers-express.md) — #activity #wildlife #water #nature #transport #maps-and-compass
+- [Eye Witness Activity](sd-eye-witness-activity-b9a42c1f.md) — #activity #maps-and-compass #movement #source-extracted #source-scouts-digital #teamwork
 - [Faith](faith.md) — #activity
+- [Fallen Down the Rabbit Hole — Sling and Incident Report](rabbit-hole-sling-and-report.md) — #activity #first-aid #sling #reporting #knots #needs-teaching-material #needs-form #source-scouts-digital
 - [Feats of Skill](feats-of-skill-variant-2.md) — #activity #water #nature
 - [Feats of Skill](feats-of-skill-variant-3.md) — #activity #water #nature
 - [Feats of Skill](feats-of-skill-variant-4.md) — #activity #water #nature
 - [Feats of Skill](feats-of-skill.md) — #activity #water #nature
+- [Figure-of-Eight Knot](sd-figure-of-eight-knot-499fb612.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Find out about cultural groups](sd-find-out-about-cultural-groups-dee2b22e.md) — #activity #culture #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Find the Gold bar](find-the-gold-bar.md) — #activity
 - [Fingerprints](fingerprints.md) — #activity #water
+- [Fire blanket](sd-fire-blanket-504cfef7.md) — #activity #fire #first-aid #movement #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Fire building](sd-fire-building-69da8537.md) — #activity #check-visuals #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Fire Lighting & Flapjack Cooking](sd-fire-lighting-flapjack-cooking-c4abae16.md) — #activity #environment #fire #food #movement #needs-safety-review #source-extracted #source-scouts-digital
 - [Fire Safety and layout](fire-safety-and-layout.md) — #activity #health
 - [Fire Safety and layout of fire](fire-safety-and-layout-of-fire.md) — #activity #food #health
+- [Fire Safety Review](sd-fire-safety-review-1b776799.md) — #activity #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Fires and Cooking](fires-and-cooking.md) — #activity #water #food
 - [First Aid](first-aid-variant-2.md) — #activity #wildlife #health
 - [First Aid](first-aid-variant-3.md) — #activity #wildlife #health
 - [First Aid](first-aid.md) — #activity #wildlife #health
+- [First Aid](sd-first-aid-dc9aaab9.md) — #activity #animals #first-aid #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [First Aid Kit check.](sd-first-aid-kit-check-ee57a654.md) — #activity #first-aid #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [First Aid Kit locate.](sd-first-aid-kit-locate-752c4424.md) — #activity #first-aid #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [First aid response](sd-first-aid-response-5a6c1c0c.md) — #activity #first-aid #knots #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital #space #time
 - [Five in the Bed](five-in-the-bed.md) — #activity
+- [Flag Dash:](sd-flag-dash-37b1245b.md) — #activity #check-visuals #flag #movement #source-extracted #source-scouts-digital
+- [Flag Fiasco — Parts, Puzzle and Sheet Bend](flag-fiasco-station.md) — #activity #flag #knots #sheet-bend #south-africa #teamwork #source-scouts-digital
 - [Flags and Countries](flags-and-countries-variant-2.md) — #activity #south-africa
 - [Flags and Countries](flags-and-countries.md) — #activity #south-africa
 - [Floor Collage](floor-collage.md) — #activity
 - [Foot Trail](foot-trail.md) — #activity #wildlife #jungle #water
+- [Gardening Badge: Bases (8min each)](sd-gardening-badge-bases-8min-each-49c0bbdc.md) — #activity #birds #nature #source-extracted #source-scouts-digital
+- [Germ Detectives](sd-germ-detectives-ad571ef0.md) — #activity #check-visuals #food #movement #source-extracted #source-scouts-digital
 - [Ging Gang Gooli](ging-gang-gooli.md) — #activity
+- [Glove balloon faces](sd-glove-balloon-faces-f1428c0a.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Glub, Glub your boat](glub-glub-your-boat.md) — #activity #water
+- [Go and see what happened and work as a six to secure and assist the scenario](sd-go-and-see-what-happened-and-work-as-a-six-to-secure-and-assist-the-scenari-bf2036b4.md) — #activity #first-aid #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Gold wolves - Activity: lost in the veld](sd-gold-wolves-activity-lost-in-the-veld-c11758eb.md) — #activity #camp #codes #movement #sense-training #source-extracted #source-scouts-digital
+- [Gold Wolves to lay a Trail for the Silver wolves to](sd-gold-wolves-to-lay-a-trail-for-the-silver-wolves-to-acc09438.md) — #activity #camp #food #source-extracted #source-scouts-digital
+- [Gold Wolves to lay a Trail for the Silver wolves to](sd-gold-wolves-to-lay-a-trail-for-the-silver-wolves-to-d2d8b4a4.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Gold Wolves — 1. Raise the alarm.](sd-gold-wolves-1-raise-the-alarm-4572098a.md) — #activity #fire #source-extracted #source-scouts-digital
+- [Gold Wolves: (Option A)](sd-gold-wolves-option-a-dcea1608.md) — #activity #animals #codes #environment #food #source-extracted #source-scouts-digital
+- [Gold Wolves: (Option B)](sd-gold-wolves-option-b-67227577.md) — #activity #animals #check-visuals #codes #environment #fire #knots #source-extracted #source-scouts-digital #teamwork
+- [Gold Wolves: GW 57: Flags](sd-gold-wolves-gw-57-flags-37b463be.md) — #activity #check-visuals #flag #knots #source-extracted #source-scouts-digital
+- [Gold Wolves: The Queen’s Secret Map Code](sd-gold-wolves-the-queen-s-secret-map-code-41f36c56.md) — #activity #check-visuals #codes #fire #maps-and-compass #memory #movement #source-extracted #source-scouts-digital #teamwork
+- [Gold Wolves: The Queen’s Wonderland Street Map](sd-gold-wolves-the-queen-s-wonderland-street-map-b1dc6e13.md) — #activity #check-visuals #maps-and-compass #source-extracted #source-scouts-digital
+- [Gold Wolves: — 1. Discuss infectious diseases - water borne diseases, gastro, the common cold](sd-gold-wolves-1-discuss-infectious-diseases-water-borne-diseases-gastro-the-c-0891020a.md) — #activity #food #source-extracted #source-scouts-digital
+- [Gold Wolves: — Blood & Gloves](sd-gold-wolves-blood-gloves-dbee2bde.md) — #activity #first-aid #memory #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Gold Wolves: — Soldiers need to be in good health. Let's learn about what not to do.](sd-gold-wolves-soldiers-need-to-be-in-good-health-let-s-learn-about-what-not-t-1b155baf.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Golds:](sd-golds-c3571c1f.md) — #activity #flag #knots #source-extracted #source-scouts-digital
 - [Good and Kind Deeds](good-and-kind-deeds.md) — #activity
 - [Grass Heads](grass-heads.md) — #activity #water #health
+- [Greetings Practice and Paired Playacting](greetings-practice-and-playacting.md) — #activity #language #greetings #playacting #paired-work #needs-language-verification #source-scouts-digital
+- [Ground to Air](sd-ground-to-air-c2eb7c62.md) — #activity #codes #source-extracted #source-scouts-digital
 - [Grow a Grassapillar!](grow-a-grassapillar.md) — #activity #water
 - [Growing Things](growing-things.md) — #activity #jungle #water #nature #food
+- [GW - start with the colouring in the marks. Once the SW are all back,](sd-gw-start-with-the-colouring-in-the-marks-once-the-sw-are-all-back-5659777e.md) — #activity #animals #check-visuals #jungle-book #nature #source-extracted #source-scouts-digital
+- [Hand Drill: Use and](sd-hand-drill-use-and-b543333c.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Hands-On Activity – “Build a Coastline”](sd-hands-on-activity-build-a-coastline-77f4106d.md) — #activity #environment #nature #source-extracted #source-scouts-digital #teamwork
+- [Happy Bots — Camp Cooking and Solar Observations](happy-bots-cooking-and-solar-reference.md) — #activity #camp #cooking #solar-energy #sun #reference-only #needs-instructions #source-scouts-digital
 - [Healthy Eating](healthy-eating.md) — #activity #water #food #health
 - [Healthy Living](Bright-Eyes-Healthy-Living.md)
 - [Healthy Living](healthy-living.md) — #activity #water #food #health
+- [Heli Radar](sd-heli-radar-2e134d6c.md) — #activity #sense-training #source-extracted #source-scouts-digital #teamwork
+- [Helpful task](sd-helpful-task-c4a725fa.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Helping Ourselves and Others](helping-ourselves-and-others.md) — #activity #health
 - [Hieroglyphic Code (alternate to ‘Mummy’ game)](hieroglyphic-code-alternate-to-mummy-game.md) — #activity
 - [Hokey-Pokey](hokey-pokey.md) — #activity
+- [How to handle a scene scenario: Hazards, safety first, call for adult help, see what you can do](sd-how-to-handle-a-scene-scenario-hazards-safety-first-call-for-adult-help-see-f1cc87e4.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [How to treat a nosebleed, cuts and grazes](sd-how-to-treat-a-nosebleed-cuts-and-grazes-19a52e7b.md) — #activity #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [I like bananas](i-like-bananas.md) — #activity #south-africa
 - [I like bananas……](i-like-bananas-variant-2.md) — #activity #jungle
+- [Ice Breaker: Ice breaker literally](sd-ice-breaker-ice-breaker-literally-7454100c.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [IDENTIFY 10 ROAD SIGNS](sd-identify-10-road-signs-8fe67805.md) — #activity #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [If it’s Raining](if-it-s-raining.md) — #activity
-- [If you’re happy…](if-you-re-happy.md) — #activity
+- [If there is time: find out if](sd-if-there-is-time-find-out-if-f96c931d.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [If you’re happy…](if-you-re-happy.md) — #activity #source-extracted #source-pop #source-scouts-digital
 - [If you’re happy….](if-you-re-happy-variant-2.md) — #activity
 - [If you’re happy……](if-you-re-happy-variant-3.md) — #activity #water
+- [Importance of summonsing an adult & Home alone](sd-importance-of-summonsing-an-adult-home-alone-7d901d95.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [In their sixes.](sd-in-their-sixes-559de85a.md) — #activity #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Incy Wincy Spider](incy-wincy-spider.md) — #activity #food #health
+- [Indlamu-labelled Dance — Source Movement Sequence](indlamu-inspired-source-sequence.md) — #activity #dance #rhythm #culture #movement #source-scouts-digital
+- [Initial Snares: Select four](sd-initial-snares-select-four-6cbd7d6e.md) — #activity #movement #source-extracted #source-scouts-digital
 - [Inside-Out](inside-out.md) — #activity
+- [Instruction – How to make a fire](sd-instruction-how-to-make-a-fire-c61646cc.md) — #activity #fire #source-extracted #source-scouts-digital
+- [Instruction: Owl decorated with leaves, twigs and](sd-instruction-owl-decorated-with-leaves-twigs-and-1628b156.md) — #activity #birds #nature #source-extracted #source-scouts-digital
+- [Instruction: you are given a scenario and you are going to make up your own story.](sd-instruction-you-are-given-a-scenario-and-you-are-going-to-make-up-your-own--93a01249.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital #water-safety
+- [Instruction: — Knotting](sd-instruction-knotting-28311352.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [INSTRUCTION: — NEW](sd-instruction-new-9fe9e701.md) — #activity #nature #source-extracted #source-scouts-digital
+- [Instruction: — New chums](sd-instruction-new-chums-0ace2419.md) — #activity #codes #movement #source-extracted #source-scouts-digital
+- [Instruction: — New Chums: Law, Promise, Motto](sd-instruction-new-chums-law-promise-motto-adf8265c.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Instruction: — New Chums: LH shake, Salute, Grand Howl, cub promise and cub prayer?](sd-instruction-new-chums-lh-shake-salute-grand-howl-cub-promise-and-cub-prayer-572917bf.md) — #activity #check-visuals #knots #source-extracted #source-scouts-digital
+- [Instruction: — New Chums: Mowgli’s Brothers. Then join S.W.](sd-instruction-new-chums-mowgli-s-brothers-then-join-s-w-bd321932.md) — #activity #culture #jungle-book #source-extracted #source-scouts-digital
+- [Instruction: — Outdoor code.](sd-instruction-outdoor-code-ada7b57e.md) — #activity #codes #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Instruction: — SW - living Things - Make something out of natural](sd-instruction-sw-living-things-make-something-out-of-natural-a081a3f7.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Interviewing the White Rabbit](sd-interviewing-the-white-rabbit-2c18d55c.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Invisible Ink](sd-invisible-ink-b2d563d3.md) — #activity #codes #source-extracted #source-scouts-digital
+- [Island hoppers:](sd-island-hoppers-db5099c4.md) — #activity #movement #needs-safety-review #source-extracted #source-scouts-digital #water-safety
+- [Jar Terrarium — Let’s Go Wild Variant](jar-terrarium-sd-variant.md) — #activity #plants #terrarium #nature #construction #source-scouts-digital
 - [Jewellery Box](jewellery-box.md) — #activity #history
+- [Jungle book shortened movie](sd-jungle-book-shortened-movie-c8ca04bf.md) — #activity #jungle-book #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Jungle characters](sd-jungle-characters-3e1efb80.md) — #activity #animals #jungle-book #source-extracted #source-scouts-digital
+- [Jungle Dance: The dance of Bagheera](sd-jungle-dance-the-dance-of-bagheera-aa427a21.md) — #activity #jungle-book #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Jungle hoppers](sd-jungle-hoppers-4df5aad8.md) — #activity #movement #needs-safety-review #source-extracted #source-scouts-digital #water-safety
+- [Jungle Lore Review: Outdoor Code Mask Dance](sd-jungle-lore-review-outdoor-code-mask-dance-b9fafdc5.md) — #activity #codes #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Jungle Obstacle Course:](sd-jungle-obstacle-course-5262bf03.md) — #activity #jungle-book #movement #source-extracted #source-scouts-digital
+- [Kensie: Golf Wolf Task 63](sd-kensie-golf-wolf-task-63-9b19d2a8.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Klunk](klunk.md) — #activity
+- [Knots : Donnie knows his Knots: (practice any two for each )](sd-knots-donnie-knows-his-knots-practice-any-two-for-each-52e72152.md) — #activity #check-visuals #knots #source-extracted #source-scouts-digital
+- [Knots : Donnie knows his Knots: (practice any two for each )](sd-knots-donnie-knows-his-knots-practice-any-two-for-each-f6a9d980.md) — #activity #check-visuals #knots #source-extracted #source-scouts-digital
+- [Knots : Mikey knows his Knots: (practice any two for each )](sd-knots-mikey-knows-his-knots-practice-any-two-for-each-15b27178.md) — #activity #check-visuals #knots #source-extracted #source-scouts-digital
+- [Knots : Raph knows his Knots: (practice any two for each )](sd-knots-raph-knows-his-knots-practice-any-two-for-each-19826cb0.md) — #activity #check-visuals #knots #source-extracted #source-scouts-digital
+- [KNOTS ACROSS TIME](sd-knots-across-time-f36d1693.md) — #activity #check-visuals #flag #jungle-book #knots #source-extracted #source-scouts-digital
 - [Knotting](knotting-variant-2.md) — #activity
 - [Knotting](knotting-variant-3.md) — #activity
 - [Knotting](knotting-variant-4.md) — #activity
@@ -104,57 +401,131 @@ Use tags to find a suitable activity; check each entry's source and safety notes
 - [Knotting](knotting-variant-6.md) — #activity
 - [Knotting](knotting.md) — #activity #water
 - [Know the correct way to strike a match and light a candle](know-the-correct-way-to-strike-a-match-and-light-a-candle.md) — #activity
+- [Know what to do if you get lost in the veld](sd-know-what-to-do-if-you-get-lost-in-the-veld-5e71b529.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Ladders](sd-ladders-fb1cfdea.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Landscape-map woodcraft signs](landscape-map-woodcraft-signs.md) — #activity #woodcraft #trail-signs #maps-and-compass #teamwork #user-supplied #adapted #pokemon
+- [Lay and light a fire – Boil and egg](sd-lay-and-light-a-fire-boil-and-egg-cb7464ec.md) — #activity #fire #needs-safety-review #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Lead all](sd-lead-all-329d0478.md) — #activity #food #source-extracted #source-scouts-digital
+- [Leaping Wolf Presentation](sd-leaping-wolf-presentation-83d23308.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Leaping Wolf Presentation — Josie](sd-leaping-wolf-presentation-josie-47ac436b.md) — #activity #movement #sense-training #source-extracted #source-scouts-digital
+- [Leaping Wolf Talk: Andrew - Steam Train](sd-leaping-wolf-talk-andrew-steam-train-5fa171d7.md) — #activity #animals #check-visuals #nature #source-extracted #source-scouts-digital
+- [Learn and make a pages of Scoutcraft signs](sd-learn-and-make-a-pages-of-scoutcraft-signs-bb5dd00f.md) — #activity #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Learn to Draw a Bird](sd-learn-to-draw-a-bird-b4ba81d4.md) — #activity #birds #check-visuals #fire #source-extracted #source-scouts-digital
+- [Let’s Go Wild — Remaining Camp Skills References](wild-camp-skills-reference.md) — #activity #camp #outdoor #nature #reference-only #needs-instructions #tool-use #cooking #swimming #source-scouts-digital
+- [Listen Like an Owl](sd-listen-like-an-owl-ffe652b8.md) — #activity #birds #check-visuals #memory #sense-training #source-extracted #source-scouts-digital
+- [Little Glen Nature Detectives — Observation Checklist](sd-little-glen-nature-detectives-observation-checklist-caf43081.md) — #activity #animals #birds #check-visuals #codes #environment #nature #needs-safety-review #sense-training #source-extracted #source-scouts-digital #teamwork
 - [Living Things](living-things.md) — #activity #birds #nature #south-africa
 - [Living with Nature](living-with-nature.md) — #activity #water #nature #south-africa
 - [Living with Nature; Compass & Mapping; Conservation](living-with-nature-compass-mapping-conservation.md) — #activity #nature #maps-and-compass
+- [Lost in the Veld-Izzy](sd-lost-in-the-veld-izzy-2195f94b.md) — #activity #movement #source-extracted #source-scouts-digital #teamwork
+- [LOST IN TIME - COMPASS CHALLENGE](sd-lost-in-time-compass-challenge-26808707.md) — #activity #maps-and-compass #movement #source-extracted #source-scouts-digital
 - [Make a birdfeeder OR make a fire](make-a-birdfeeder-or-make-a-fire.md) — #activity
+- [Make a City](sd-make-a-city-7ca9c500.md) — #activity #knots #maps-and-compass #source-extracted #source-scouts-digital
+- [Make a gift](sd-make-a-gift-e3c1262c.md) — #activity #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Make Firelighters out of recycled objects](sd-make-firelighters-out-of-recycled-objects-1f9737ba.md) — #activity #check-visuals #environment #fire #food #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Make Garden tools](sd-make-garden-tools-9dbdc045.md) — #activity #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Make New Friends](make-new-friends.md) — #activity
+- [Making emergency kit](sd-making-emergency-kit-a1a96fa5.md) — #activity #check-visuals #fire #source-extracted #source-scouts-digital
 - [Map Drawing](map-drawing-variant-2.md) — #activity #water #nature #maps-and-compass
 - [Map Drawing](map-drawing.md) — #activity #water #maps-and-compass
+- [Map skills:](sd-map-skills-8ee272cb.md) — #activity #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Map Symbols](sd-map-symbols-e8c74cc8.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital
 - [Mapping](mapping.md) — #activity #maps-and-compass
+- [Marble Run, & Cross the River.](sd-marble-run-cross-the-river-4cb2f38b.md) — #activity #check-visuals #movement #source-extracted #source-scouts-digital #space #teamwork
 - [mask](mask.md) — #activity
+- [Masks Badge](sd-masks-badge-095d0094.md) — #activity #animals #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Masks Badge](sd-masks-badge-3f25da1f.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Masks Badge](sd-masks-badge-5d33f4c7.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Masks Badge](sd-masks-badge-78013dca.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Masks interest badge](masks-interest-badge.md) — #activity #wildlife #south-africa
-- [Meeting Place Map](meeting-place-map.md) — #activity #maps-and-compass
+- [Meeting Place Map](meeting-place-map.md) — #activity #maps-and-compass #mapping #needs-example #source-scouts-digital #mapping #source-scouts-digital #source-scouts-digital
+- [Mirror Distress](sd-mirror-distress-eeca5a7e.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Moabi – presentatoi n](sd-moabi-presentatoi-n-1bd0d8b4.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Moon Landing In their Sixes, the](moon-landing-in-their-sixes-the.md) — #activity #space
 - [Mozzie Yell](mozzie-yell.md) — #activity
 - [My Bonnie lies over the ocean](my-bonnie-lies-over-the-ocean-variant-2.md) — #activity #water
-- [My Bonnie lies over the ocean](my-bonnie-lies-over-the-ocean.md) — #activity #water
+- [My Bonnie lies over the ocean](my-bonnie-lies-over-the-ocean.md) — #activity #programme-resource #source-extracted #source-pop #source-scouts-digital #water
 - [National Anthem](national-anthem-variant-2.md) — #activity
 - [National Anthem](national-anthem.md) — #activity
+- [National Challenge Diorama – Flood in a tray](sd-national-challenge-diorama-flood-in-a-tray-67252550.md) — #activity #animals #check-visuals #nature #source-extracted #source-scouts-digital
+- [NATIONAL CHALLENGE: FLOOD IN A TRAY - BUILD & TEST 1](sd-national-challenge-flood-in-a-tray-build-test-1-347910c7.md) — #activity #animals #nature #source-extracted #source-scouts-digital
+- [NATIONAL CHALLENGE: FLOOD IN A TRAY - REBUILD & TEST 2](sd-national-challenge-flood-in-a-tray-rebuild-test-2-ea6a0b56.md) — #activity #check-visuals #nature #source-extracted #source-scouts-digital
+- [Natural Dangers in the](sd-natural-dangers-in-the-4b7562df.md) — #activity #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Nature Collection and Observation Bases](nature-collection-and-observation-bases.md) — #activity #nature #leaves #seeds #insects #observation #collection #needs-reference-material #source-scouts-digital
 - [Nkosi Sikelel’ iAfrika](nkosi-sikelel-iafrika.md) — #activity #south-africa
 - [NOTICES and CLOSE](notices-and-close.md) — #activity
+- [NSRI Program](sd-nsri-program-f2bb9d6d.md) — #activity #programme-resource #source-extracted #source-scouts-digital
 - [Ocean Drum](ocean-drum.md) — #activity #water #health
+- [On a Heli Journey](sd-on-a-heli-journey-d5dbfd45.md) — #activity #programme-resource #source-extracted #source-scouts-digital
 - [OPENING PARADE](opening-parade.md) — #activity #water
-- [Out on a lion hunt](out-on-a-lion-hunt.md) — #activity #water #nature
+- [Out on a lion hunt](out-on-a-lion-hunt.md) — #activity #nature #source-extracted #source-pop #source-scouts-digital #water
+- [Outdoor Code Treasure Hunt:](sd-outdoor-code-treasure-hunt-dcde3b27.md) — #activity #animals #codes #nature #source-extracted #source-scouts-digital
+- [Paired Knot-teaching Rotation](paired-knot-teaching-rotation.md) — #activity #knots #rope #hanking #rotation #needs-qualified-instruction #source-scouts-digital
 - [Paper Compass](paper-compass.md) — #activity #jungle #maps-and-compass
 - [Paper Elephant Chain](paper-elephant-chain.md) — #activity
 - [People and Places](people-and-places.md) — #activity
 - [Photograph the Animals](photograph-the-animals.md) — #activity
 - [Picking fruit Tie the fruit onto the rope](picking-fruit-tie-the-fruit-onto-the-rope.md) — #activity #jungle #food
+- [Pigpen Message — Go to the Fire Pit](pigpen-fire-pit-message.md) — #activity #codes #pigpen #problem-solving #needs-code-key #source-scouts-digital
 - [PIRATE PARADE](pirate-parade.md) — #activity #water #transport
+- [PLAN Water-safety Discussion](plan-water-safety-discussion.md) — #activity #discussion #movement #needs-expert-review #preparedness #source-extracted #source-scouts-digital #water-safety
+- [Plant growing Scavenger hunt](sd-plant-growing-scavenger-hunt-bf7ca99c.md) — #activity #check-visuals #nature #source-extracted #source-scouts-digital
+- [Plants absorb carbon dioxide (a pollutant)](sd-plants-absorb-carbon-dioxide-a-pollutant-8b797458.md) — #activity #environment #nature #source-extracted #source-scouts-digital
+- [Play act.](sd-play-act-517890a0.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Play Acting item 5](play-acting-item-5.md) — #activity
+- [Play Acting: Water Hero Scenarios](sd-play-acting-water-hero-scenarios-f458f292.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Play Beetle](sd-play-beetle-eb79189b.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Play together Stay Together](sd-play-together-stay-together-51c2cedb.md) — #activity #check-visuals #movement #source-extracted #source-scouts-digital
+- [Playacting : How to protect nature.](sd-playacting-how-to-protect-nature-718f1f40.md) — #activity #codes #nature #source-extracted #source-scouts-digital
 - [Playacting item 5](playacting-item-5.md) — #activity
 - [Playacting item 6](playacting-item-6.md) — #activity
+- [Playacting – Pass the stick](sd-playacting-pass-the-stick-054fa1e3.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Poisons in the Home — Discussion and Yes/No Review](poisons-in-the-home-discussion.md) — #activity #work-session #home-safety #poisons #revision #yes-no-game #movement #needs-teaching-material #needs-attachment #gold-wolf-practice #source-scouts-digital
 - [Pooter](pooter.md) — #activity #wildlife #nature #history
 - [Popcorn](popcorn.md) — #activity #water
 - [Popsicle Plane](popsicle-plane.md) — #activity #health #transport
+- [Postcard Creation](sd-postcard-creation-58aaecd8.md) — #activity #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [POSTER STORYTELLING PRACTICE](sd-poster-storytelling-practice-1ae667d8.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Pretend Camp Fire:](sd-pretend-camp-fire-ddaa51bb.md) — #activity #camp #fire #memory #source-extracted #source-scouts-digital
+- [Prevention diseases - Measles and Chickenpox](sd-prevention-diseases-measles-and-chickenpox-273d1e7e.md) — #activity #check-visuals #food #source-extracted #source-scouts-digital
+- [Put fishes on the floor and give](sd-put-fishes-on-the-floor-and-give-faedc5ee.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Quick discussion about the African Penguin and Oystercatcher](sd-quick-discussion-about-the-african-penguin-and-oystercatcher-541f6beb.md) — #activity #birds #check-visuals #source-extracted #source-scouts-digital
+- [Quick talk about frie safety (each cub to list 1-2 ways t cook safely on](sd-quick-talk-about-frie-safety-each-cub-to-list-1-2-ways-t-cook-safely-on-77da8c26.md) — #activity #fire #food #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Quiet Activity:](sd-quiet-activity-4fab71b3.md) — #activity #first-aid #knots #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital #time
+- [Quiet Activity: Bug Hotel Bonanza: Constructing a Mini-Sanctuary](sd-quiet-activity-bug-hotel-bonanza-constructing-a-mini-sanctuary-5e8c94d4.md) — #activity #check-visuals #nature #source-extracted #source-scouts-digital
+- [Quiet Activity: Decipher a simple code.](sd-quiet-activity-decipher-a-simple-code-b6194028.md) — #activity #check-visuals #codes #source-extracted #source-scouts-digital
+- [Quiet Nature Walk and Dawn Watch](quiet-nature-walk-and-dawn-watch.md) — #activity #nature #observation #night #dawn #walking #needs-journal #source-scouts-digital
 - [Rain Gauge](rain-gauge.md) — #activity #water
 - [Rain Making](rain-making.md) — #activity
+- [Recovery-position Demonstration — Source Reference](sd-recovery-position-demonstration-source-reference-f8898908.md) — #activity #first-aid #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
 - [Recycling](recycling-variant-2.md) — #activity
 - [Recycling](recycling-variant-3.md) — #activity
 - [Recycling](recycling-variant-4.md) — #activity #water
 - [Recycling](recycling.md) — #activity
+- [Reef Knot](sd-reef-knot-9e3927a3.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Reef-knot Bandages](reef-knot-bandages.md) — #activity #work-session #knots #reef-knot #bandages #paired-work #helping-others #first-aid-theme #silver-wolf-practice #source-scouts-digital
+- [Reflex grab](sd-reflex-grab-39ae4592.md) — #activity #source-extracted #source-scouts-digital #teamwork
 - [Register, parade](register-parade.md) — #activity
+- [Rescue the River:](sd-rescue-the-river-fdc3f113.md) — #activity #environment #source-extracted #source-scouts-digital #teamwork #water-safety
+- [Return Walk](sd-return-walk-764d13ea.md) — #activity #animals #environment #nature #source-extracted #source-scouts-digital
 - [Rocket Launch](rocket-launch.md) — #activity #space
+- [Rotating Skill Bases (Sixes rotate](sd-rotating-skill-bases-sixes-rotate-cc24af96.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Round turn & 2 half hitches](sd-round-turn-2-half-hitches-ab833c56.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Roz's International Friendship Mission – Pen-Pal Letters](sd-roz-s-international-friendship-mission-pen-pal-letters-d1ea1b9f.md) — #activity #check-visuals #source-extracted #source-scouts-digital
 - [Russell went Up in a Balloon House](russell-went-up-in-a-balloon-house.md) — #activity #jungle-book
 - [Russell’s Photo Album](russell-s-photo-album.md) — #activity
+- [Safe Shore — Cub-designed Water-safety Floor Game](safe-shore-floor-game.md) — #activity #water-safety #game-design #leadership #teamwork #needs-checked-questions #source-scouts-digital
 - [Safety](safety-variant-2.md) — #activity #water #health
 - [Safety](safety-variant-3.md) — #activity #jungle #water #health
 - [Safety](safety.md) — #activity #water #health
+- [Safety Briefni g• Buddy system• Hiking etiquette• Stay behind](sd-safety-briefni-g-buddy-system-hiking-etiquette-stay-behind-7a424d3f.md) — #activity #codes #source-extracted #source-scouts-digital
+- [Safety rules to follow when in or near water.](sd-safety-rules-to-follow-when-in-or-near-water-34f9bad1.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Sandwiches:](sd-sandwiches-8a1ce368.md) — #activity #food #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Sensations](sensations-variant-2.md) — #activity
 - [Sensations](sensations-variant-3.md) — #activity
 - [Sensations](sensations-variant-4.md) — #activity
 - [Sensations](sensations.md) — #activity
+- [SENSE TRAINING (Touch): Hidden hazards](sd-sense-training-touch-hidden-hazards-5a2fd4cf.md) — #activity #sense-training #source-extracted #source-scouts-digital #teamwork
 - [Sense Training item 4](sense-training-item-4-variant-2.md) — #activity
 - [Sense Training item 4](sense-training-item-4.md) — #activity #birds #nature
 - [Sense Training item 5](sense-training-item-5-variant-2.md) — #activity
@@ -168,51 +539,152 @@ Use tags to find a suitable activity; check each entry's source and safety notes
 - [Sense Training item 7](sense-training-item-7.md) — #activity #transport
 - [Sense Training item 8](sense-training-item-8.md) — #activity #jungle
 - [Sense Training item 9](sense-training-item-9.md) — #activity
+- [ses:](sd-ses-9f3c0f55.md) — #activity #food #knots #memory #needs-safety-review #sense-training #source-extracted #source-scouts-digital
+- [Set up](sd-set-up-7fadf43c.md) — #activity #check-visuals #fire #jungle-book #knots #movement #source-extracted #source-scouts-digital
+- [Set up](sd-set-up-aaedf393.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Set-up](sd-set-up-ad912f2d.md) — #activity #check-visuals #nature #sense-training #source-extracted #source-scouts-digital
+- [Setup](sd-setup-782a85ee.md) — #activity #check-visuals #flag #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Setup Camp](sd-setup-camp-7fa8a891.md) — #activity #camp #fire #source-extracted #source-scouts-digital
+- [Sheep Shank Knot Circle: give](sd-sheep-shank-knot-circle-give-1dfcbd66.md) — #activity #knots #source-extracted #source-scouts-digital
+- [Sheep-shank Practice (reference only)](sheep-shank-practice-reference.md) — #activity #knots #sheep-shank #reference-only #needs-instructions #source-scouts-digital
 - [Ship Shape](ship-shape.md) — #activity #jungle-book #water #health #transport
 - [Show how to treat a simple cut or graze; OR Show how to treat insect bites and stings, and how to remove splinters.](show-how-to-treat-a-simple-cut-or-graze-or-show-how-to-treat-insect-bites-and-stings-and-how-to-remove-splinters.md) — #activity #wildlife
+- [Show the correct way to walk, run, sit](sd-show-the-correct-way-to-walk-run-sit-86611da0.md) — #activity #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Sign and Snack — Non-verbal Communication](sign-and-snack-communication.md) — #activity #communication #inclusion #sign-language #food #needs-language-verification #source-scouts-digital
+- [SIGNAL THROUGH TIME](sd-signal-through-time-97624b89.md) — #activity #source-extracted #source-scouts-digital #teamwork
+- [Silent Hunt – hide object in hall when they see they must sit down](sd-silent-hunt-hide-object-in-hall-when-they-see-they-must-sit-down-ec00dc33.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Silent Man’s Sing Song](Silent-Mans-Sing-Song.md) — singing, mime, campfire-songs
+- [Silver wolf advancement](sd-silver-wolf-advancement-24545cf7.md) — #activity #nature #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Silver wolf advancement](sd-silver-wolf-advancement-b46bdd9a.md) — #activity #codes #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Silver Wolf — Correct way to strike a match – incorporate relay in lighting candles, showing they understand how to strike and discard a mat](sd-silver-wolf-correct-way-to-strike-a-match-incorporate-relay-in-lighting-can-cb910ccc.md) — #activity #check-visuals #fire #needs-safety-review #source-extracted #source-scouts-digital #teamwork
+- [Silver Wolf — Know the importance of summoning adult help](sd-silver-wolf-know-the-importance-of-summoning-adult-help-38b23ee8.md) — #activity #first-aid #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Silver wolfs:](sd-silver-wolfs-f648e483.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital
+- [Silver wolves (part of Silver Wolf Outdoor Challenge )](sd-silver-wolves-part-of-silver-wolf-outdoor-challenge-3b0a570b.md) — #activity #sense-training #source-extracted #source-scouts-digital
+- [Silver Wolves to draw a simple map of their home](sd-silver-wolves-to-draw-a-simple-map-of-their-home-076d0463.md) — #activity #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Silver Wolves x 2 groups](sd-silver-wolves-x-2-groups-6c5511f0.md) — #activity #first-aid #memory #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Silver Wolves — 1. Check surroundings.](sd-silver-wolves-1-check-surroundings-10b2d61d.md) — #activity #fire #source-extracted #source-scouts-digital
+- [Silver Wolves: Alice’s Wonderland House](sd-silver-wolves-alice-s-wonderland-house-80a1ac78.md) — #activity #birds #check-visuals #maps-and-compass #memory #nature #source-extracted #source-scouts-digital #space
+- [Silver Wolves: The Mad Hatters Mixed-up Objects](sd-silver-wolves-the-mad-hatters-mixed-up-objects-35e394d0.md) — #activity #check-visuals #fire #movement #source-extracted #source-scouts-digital #teamwork
+- [Silver Wolves: — Slip Reef Knott](sd-silver-wolves-slip-reef-knott-ef7d2a0e.md) — #activity #knots #source-extracted #source-scouts-digital
+- [Silver Wolves: — Using the number code i.e. A = 1; B = 2; C= 3 etc. SWs write a short message of no](sd-silver-wolves-using-the-number-code-i-e-a-1-b-2-c-3-etc-sws-write-a-short-m-f5de3223.md) — #activity #animals #codes #environment #source-extracted #source-scouts-digital
+- [Silver:Draw and colour in flag](sd-silver-draw-and-colour-in-flag-49bc8ce9.md) — #activity #flag #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Silvers](sd-silvers-af2574cb.md) — #activity #flag #source-extracted #source-scouts-digital
+- [Sing national anthem](sd-sing-national-anthem-fe59a35b.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Singing Badge: Sharing Our Gifts](sd-singing-badge-sharing-our-gifts-f160fa5c.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Singing in the Rain](singing-in-the-rain.md) — #activity #history
 - [Singing item 6](singing-item-6.md) — #activity #jungle
+- [SINGING: Emergency rapIn Sixes,](sd-singing-emergency-rapin-sixes-aa2502de.md) — #activity #memory #source-extracted #source-scouts-digital
+- [Skies badge](sd-skies-badge-1b15f35e.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Skies badge](sd-skies-badge-21e12d3c.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Skies badge](sd-skies-badge-2c106f84.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital #space
+- [Skies badge](sd-skies-badge-ac8b946b.md) — #activity #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Skies Badge](sd-skies-badge-bc4603d5.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Skies badge](sd-skies-badge-e8597e12.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Skit Practice time](sd-skit-practice-time-0f289e56.md) — #activity #check-visuals #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Snakes Alive-O!](snakes-alive-o.md) — #activity
+- [Sokkie Dance and Respect Discussion (reference only)](sokkie-and-respect-reference.md) — #activity #dance #respect #culture #reference-only #needs-instructions #source-scouts-digital
+- [Sound Base](sd-sound-base-0c14bbc7.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Split Silver and Gold wolf](sd-split-silver-and-gold-wolf-254f5985.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Steam realse.](sd-steam-realse-67ec0113.md) — #activity #movement #source-extracted #source-scouts-digital
+- [Step 1:](sd-step-1-9e4bb49c.md) — #activity #check-visuals #environment #nature #source-extracted #source-scouts-digital #space
+- [Step 1: Prepare the Bottle](sd-step-1-prepare-the-bottle-d145937a.md) — #activity #environment #nature #source-extracted #source-scouts-digital
+- [Stingers & Splinters](sd-stingers-splinters-a0e2bf94.md) — #activity #needs-qualified-instruction #needs-safety-review #reference-only #source-extracted #source-scouts-digital
+- [Stop the bleed](sd-stop-the-bleed-406004ef.md) — #activity #first-aid #movement #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Stop the Stomping](sd-stop-the-stomping-b511ccc7.md) — #activity #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
 - [Strange Shapes](strange-shapes.md) — #activity
 - [Stranger Danger](stranger-danger.md) — #activity #jungle
-- [Street Map Routes and Symbols](street-map-routes-and-symbols.md) — #activity #maps-and-compass
+- [Street Map Routes and Symbols](street-map-routes-and-symbols.md) — #activity #maps-and-compass #mapping #street-map #symbols #source-scouts-digital
+- [Striking a Match](sd-striking-a-match-1a796a5e.md) — #activity #fire #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Sun and Compass Work Session — Source Errors to Resolve](sun-and-compass-source-review.md) — #activity #compass #sun #source-error #reference-only #needs-corrected-source #source-scouts-digital
 - [Sunburst Hanging](sunburst-hanging-variant-2.md) — #activity
+- [SURVIVE THE FIRE](sd-survive-the-fire-1df4d519.md) — #activity #fire #source-extracted #source-scouts-digital
+- [SW - 16 - Natural material item - SMOKE LEAF PRINTS](sd-sw-16-natural-material-item-smoke-leaf-prints-80727762.md) — #activity #fire #nature #needs-safety-review #source-extracted #source-scouts-digital
+- [SW - Causes of accidents in the CAVE - task 59](sd-sw-causes-of-accidents-in-the-cave-task-59-7fc822e6.md) — #activity #movement #source-extracted #source-scouts-digital #teamwork
+- [SW - Look after yourself outdoors - task 2](sd-sw-look-after-yourself-outdoors-task-2-52a888ca.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [SW - story of Kim task 11](sd-sw-story-of-kim-task-11-c53ac53c.md) — #activity #food #memory #sense-training #source-extracted #source-scouts-digital
+- [SW Aptitude - Time- Show how to tell the time and](sd-sw-aptitude-time-show-how-to-tell-the-time-and-b4f829c5.md) — #activity #source-extracted #source-scouts-digital #time
+- [SW Awareness - Healthy Mind - Write and decipher a](sd-sw-awareness-healthy-mind-write-and-decipher-a-f69d7654.md) — #activity #codes #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [SW Awareness - Healthy Mind -Take part in a memory](sd-sw-awareness-healthy-mind-take-part-in-a-memory-3efac876.md) — #activity #check-visuals #memory #sense-training #source-extracted #source-scouts-digital
+- [SW Community - Communication - Learn to say hello,](sd-sw-community-communication-learn-to-say-hello-fe8e9989.md) — #activity #check-visuals #culture #source-extracted #source-scouts-digital
+- [SW Outdoor - Compass and Mapping - Know the eight](sd-sw-outdoor-compass-and-mapping-know-the-eight-b80f1b1e.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital
+- [SW task 11: STORY of Kim](sd-sw-task-11-story-of-kim-f761afad.md) — #activity #animals #check-visuals #jungle-book #source-extracted #source-scouts-digital
+- [SW: Reef Knot](sd-sw-reef-knot-941817dd.md) — #activity #check-visuals #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [SW: Will be given a short 5min lesson on the WoodCraft and WoodSigns](sd-sw-will-be-given-a-short-5min-lesson-on-the-woodcraft-and-woodsigns-8f7952ef.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [SW: With a Scouter, go outdoors and point out where the sun rises, the path it travels and where it sets.](sd-sw-with-a-scouter-go-outdoors-and-point-out-where-the-sun-rises-the-path-it-d3f6ef14.md) — #activity #maps-and-compass #source-extracted #source-scouts-digital
+- [SW: “Home Alone Hero” Role-Play Cards (Silver Wolves, ages 7–8)](sd-sw-home-alone-hero-role-play-cards-silver-wolves-ages-7-8-c67bdc4b.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Sweet Fire](sd-sweet-fire-26853f48.md) — #activity #fire #food #source-extracted #source-scouts-digital
+- [Sweet Fires](sd-sweet-fires-79413a5f.md) — #activity #fire #food #source-extracted #source-scouts-digital
 - [Tarzan](tarzan.md) — #activity #jungle #nature
+- [Teach - if they are able to do Round Turn and two half hitches / Bowline show them](sd-teach-if-they-are-able-to-do-round-turn-and-two-half-hitches-bowline-show-t-c25b1f5b.md) — #activity #check-visuals #knots #source-extracted #source-scouts-digital
+- [Team: Can Skittles](sd-team-can-skittles-d04e8d23.md) — #activity #source-extracted #source-scouts-digital #teamwork
+- [Tear Down Camp](sd-tear-down-camp-50193a58.md) — #activity #camp #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Technology in Action](technology-in-action.md) — #activity
+- [Technology Poster Talk (reference only)](technology-poster-talk-reference.md) — #activity #technology #presentation #reference-only #needs-attachment #source-scouts-digital
 - [Telecommunications](telecommunications.md) — #activity
 - [Terrarium](terrarium.md) — #activity #water #nature
 - [The](the.md) — #activity
+- [The Acid Rain Investigation”](sd-the-acid-rain-investigation-145236fd.md) — #activity #animals #environment #first-aid #nature #source-extracted #source-scouts-digital
 - [The Ant’s Marching Song](the-ant-s-marching-song.md) — #activity
 - [The Grand old Duke of York](the-grand-old-duke-of-york.md) — #activity
 - [The Jungle](the-jungle.md) — #activity #jungle
 - [The Jungle Book](the-jungle-book.md) — #activity #jungle #jungle-book
 - [The More We Get Together](the-more-we-get-together.md) — #activity
 - [The Mosquito Yell](the-mosquito-yell.md) — #activity
+- [The River Is Rolling — Rescue-themed Knot Practice](river-rescue-knot-station.md) — #activity #knots #bowline #round-turn #rescue-theme #water-safety #source-scouts-digital
+- [The story of Kim](sd-the-story-of-kim-eb58f5a4.md) — #activity #memory #source-extracted #source-scouts-digital
+- [The Unnatural Trail](sd-the-unnatural-trail-659d6b72.md) — #activity #nature #needs-safety-review #source-extracted #source-scouts-digital
 - [The Wheels of the Bus](the-wheels-of-the-bus.md) — #activity
 - [Three Chocolate Éclairs](three-chocolate-clairs.md) — #activity
 - [Thumb/Finger Print Pictures](thumb-finger-print-pictures.md) — #activity #history
 - [Tidy up!](tidy-up.md) — #activity
+- [Time for some knots to be tied](sd-time-for-some-knots-to-be-tied-b9585e6c.md) — #activity #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [To the Rescue Do this in Sixes. The](to-the-rescue-do-this-in-sixes-the.md) — #activity
+- [Tool Demonstration & Safety Intro](sd-tool-demonstration-safety-intro-dcca98d9.md) — #activity #programme-resource #source-extracted #source-scouts-digital
 - [Toothpick Construction](toothpick-construction.md) — #activity
 - [Top and Side Views](top-and-side-views.md) — #activity #observation
 - [Traditional Dance / Musical Instruments](traditional-dance-musical-instruments.md) — #activity #water
 - [Traditional Dance In Sixes](traditional-dance-in-sixes.md) — #activity
 - [Traditional Dancing](traditional-dancing.md) — #activity
+- [Trail signs - Learn the basics](sd-trail-signs-learn-the-basics-c9e7b2a2.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Trails](Aborigine-Trails.md)
 - [Trails](trails-variant-2.md) — #activity
 - [Trails](trails.md) — #activity
 - [TREASURE HUNT](treasure-hunt.md) — #activity
 - [Tree Collage](tree-collage.md) — #activity #jungle #nature
+- [Triangle Bandage – how and when](sd-triangle-bandage-how-and-when-3f3288ab.md) — #activity #first-aid #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Two Little Fleas](two-little-fleas.md) — #activity
+- [Undoing Water Pollution](sd-undoing-water-pollution-4cea125d.md) — #activity #check-visuals #environment #movement #source-extracted #source-scouts-digital #teamwork
+- [Using a Street Map](sd-using-a-street-map-4bb33fa9.md) — #activity #fire #maps-and-compass #source-extracted #source-scouts-digital
+- [Vegetable Vagabond](sd-vegetable-vagabond-d8be005f.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Walk from Cecilia to Kirstenbosch Gate 3](sd-walk-from-cecilia-to-kirstenbosch-gate-3-677306fa.md) — #activity #animals #birds #maps-and-compass #nature #sense-training #source-extracted #source-scouts-digital
+- [Walk towards Eagles Nest](sd-walk-towards-eagles-nest-e3afb3b7.md) — #activity #animals #nature #source-extracted #source-scouts-digital
+- [Waste/Consume Energy – make your own poster of how we can save energy instead of waste/consume energy](sd-waste-consume-energy-make-your-own-poster-of-how-we-can-save-energy-instead-4a4d1604.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Water Demo:](sd-water-demo-44cb555b.md) — #activity #check-visuals #source-extracted #source-scouts-digital
+- [Water Hero costumes](sd-water-hero-costumes-c473efa2.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Water pollution – think of ways that you can keep rivers and dams and oceans clean without any pollution in them. Now design your own poster](sd-water-pollution-think-of-ways-that-you-can-keep-rivers-and-dams-and-oceans--94e2af3e.md) — #activity #environment #source-extracted #source-scouts-digital
+- [Welcome to the Wonderland Gazette Office - the latest edition of the Gazette has](sd-welcome-to-the-wonderland-gazette-office-the-latest-edition-of-the-gazette--6ef05f30.md) — #activity #check-visuals #food #movement #source-extracted #source-scouts-digital
 - [We’re Glad to See You Here](Aborigine-We-re-glad-to-see-you-here.md)
 - [We’re glad to see you here](we-re-glad-to-see-you-here.md) — #activity
 - [What is my Job? The](what-is-my-job-the.md) — #activity
 - [What is playing?](what-is-playing.md) — #activity
 - [What is the Brand?](what-is-the-brand.md) — #activity #history
+- [What Went Wrong?” Investigation](sd-what-went-wrong-investigation-a9d43ec2.md) — #activity #animals #birds #environment #food #movement #nature #source-extracted #source-scouts-digital #water-safety
 - [Whistle and Find Four or more](whistle-and-find-four-or-more.md) — #activity #south-africa
+- [Who Goes There? — Tracks and Plaster Casts](tracks-and-plaster-casts-reference.md) — #activity #nature #tracks #casting #leaves #needs-instructions #source-scouts-digital
 - [Who is missing?](who-is-missing-variant-2.md) — #activity
 - [Who Is Missing?](Who-is-Missing.md) — memory, sight, observation
+- [Wide Activity: Litter Hunt](sd-wide-activity-litter-hunt-46a389be.md) — #activity #environment #source-extracted #source-scouts-digital
+- [Wild Side Playacting](sd-wild-side-playacting-e6b38555.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Wonderland Detectives we need to visit the various clues and ask ourselves the](sd-wonderland-detectives-we-need-to-visit-the-various-clues-and-ask-ourselves--73d7b758.md) — #activity #programme-resource #source-extracted #source-scouts-digital
+- [Wonderland Detectives Welcome to the Queens Court, we have one last piece of](sd-wonderland-detectives-welcome-to-the-queens-court-we-have-one-last-piece-of-6e13822d.md) — #activity #food #memory #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Work Session - Building a Shelter](sd-work-session-building-a-shelter-be915637.md) — #activity #camp #knots #source-extracted #source-scouts-digital
 - [Work Session item 3](work-session-item-3.md) — #activity #health
 - [Work Session item 7](work-session-item-7.md) — #activity
 - [Work Session item 8](work-session-item-8.md) — #activity #water
+- [WORK SESSION: Knotting](sd-work-session-knotting-0bc25449.md) — #activity #check-visuals #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Working Toys Badge continued . . .](sd-working-toys-badge-continued-ecc6ad28.md) — #activity #nature #source-extracted #source-scouts-digital
+- [Wound-cleaning Practice (reference only)](wound-cleaning-practice-reference.md) — #activity #first-aid #reference-only #needs-teaching-material #source-scouts-digital
+- [Write to](sd-write-to-b6305784.md) — #activity #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [“Cubs, this is the journey your postcard will take across the world!”](sd-cubs-this-is-the-journey-your-postcard-will-take-across-the-world-7961ad26.md) — #activity #check-visuals #maps-and-compass #source-extracted #source-scouts-digital
+- [“Helping Hands Challenge”](sd-helping-hands-challenge-ad26f410.md) — #activity #environment #movement #source-extracted #source-scouts-digital
+- [“Silent Damage”](sd-silent-damage-4b6da56e.md) — #activity #animals #first-aid #nature #source-extracted #source-scouts-digital #space

@@ -10,3 +10,12 @@
 !*.pdf
 !.gitignore
 /.idea/
+/.tools/
+!docs/scouts-digital/source-conversions/assets/**/*.png
+!docs/scouts-digital/source-conversions/assets/**/*.jpeg
+!docs/scouts-digital/source-conversions/assets/**/*.jpg
+!docs/scouts-digital/source-conversions/assets/**/*.gif
+!docs/scouts-digital/source-conversions/assets/**/*.emf
+!docs/scouts-digital/source-conversions/assets/**/*.wmf
+!docs/scouts-digital/src/**/*.xlsx
+!docs/scouts-digital/BULK-EXTRACTION-DATA.json

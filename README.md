@@ -17,6 +17,9 @@ You do not need to be a programmer to use the knowledge files. The simplest way 
 | `packs/` | Pack-specific profiles, templates, year/term planners and programmes, kept separate from shared resources. |
 | `packs/1st-pinelands/` | Example Pack folder. Do not use its local details for another Pack. |
 | `docs/` | Shared knowledge base, badge material, POP programmes and extracted activity libraries. |
+| `docs/RESOURCE-GUIDE.md` | Start here to plan from all supplied sources, reuse/adapt existing elements and apply your own Pack profile. |
+| `docs/WEB-RESOURCES.md` | Approved website sources, scope restrictions and provenance notes, including Cub-only use of ScoutWiki. |
+| `docs/scouts-digital/` | User-downloaded Cub programme originals, searchable source conversions and a catalogue with review notes. |
 | `docs/pop/` | Programme on a Plate Markdown references. |
 | `docs/pop/src/` | Local original POP files used during conversion. Binary source files are excluded from the Markdown-only GitHub upload; Markdown entries keep the source filename and link to the ScoutWiki resource page. |
 | `docs/games/`, `docs/yarns/`, `docs/crafts/`, `docs/activities/` | Growing libraries extracted from programmes, with source references where available. |
@@ -116,9 +119,13 @@ Follow the sign-in prompts.
 
 ### 3. Tell the assistant which Pack you are planning for
 
+After cloning, the existing Markdown resources are ready to read and use for planning; no conversion scripts or Scouts Digital login are needed. Start with the [resource guide](docs/RESOURCE-GUIDE.md), linking the shared libraries, full POP programmes, Scouts Digital imports and advancement material. Some entries flag missing instructions or visuals that must be resolved before running them.
+
 In the assistant's project session, try:
 
 > Please read `AGENTS.md` and the profile at `packs/my-pack/PACK-PROFILE.md`. Help me plan a Cub meeting using the shared SSA resources in `docs/`. Show which source supports each badge requirement, and label any new ideas as suggestions.
+
+For year, term and meeting plans, ask the assistant to search all supplied programme sources and source-neutral catalogues, reuse or adapt suitable substantive elements with attribution, and apply your Pack's routines and rewards. New connective story text may join the activities; it stays in the meeting plan, not the yarn library. Games, crafts, skills and other substantive elements should come from sources, with gaps flagged rather than invented.
 
 Replace `packs/my-pack/PACK-PROFILE.md` with your Pack's profile path. For a year or term plan, say which year/term and any dates, ages, meeting constraints or badge priorities you already know.
 
@@ -153,7 +160,7 @@ To add or improve resources:
 
 Each game, yarn, craft and instruction/activity library entry has an **Advancement / badge link** field. It may say that a programme-level note is context only or that a connection is unverified. This prevents a broad POP note from being mistaken for proof that every activity meets a badge requirement.
 
-Every extracted entry also carries the full advancement/badge information stated by its POP programme. This is copied as programme-level context for later review; edit each activity's copy to retain only the links that activity supports.
+Some older POP extractions retain programme-wide advancement information for review. This is context, not evidence that an individual element meets every listed task. Retain only supported links when reviewing an element; new extractions record element-specific connections and their limits.
 
 ### Export a meeting plan to PDF
 

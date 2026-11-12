@@ -4,11 +4,26 @@
 
 Work session
 
+## Equipment
+
+See source-specific variant below.
+
 ## Instructions
 
 Gold Wolves: Use the Pack leader’s real street map of the local area, with its own readable key. Before the meeting, choose two suitable routes between familiar places and identify six to ten symbols that actually occur on the map. Give pairs copies or provide sufficient access to a shared map. Find the meeting place if shown, or another familiar starting point. Locate a destination and trace a route along named streets, then try a second route. Practise recognising and explaining the selected symbols using this map’s key. Each Cub demonstrates how to use the street map and individually recognises and explains six to ten map symbols to a Scouter. Use spare practice time for Cubs to set one another routes. Symbols must come from the actual map; do not invent local landmarks or assume universal symbols. This is an indoor map activity; no road crossing is involved.
 
 **Optional extension if time remains:** If time remains after the required street-map work: each Gold Wolf draws the road outside their house, including a nearby intersection. Add road signs they know are actually present, showing their real appearance and placing them on the correct side of the road, facing the traffic they apply to. Draw only signs they can recall confidently; leave uncertain signs out rather than inventing them. Cubs explain their drawing to a Scouter. This is an optional practice extension, not an additional advancement requirement; no further badge credit is claimed. Use paper, pencils and colouring pencils. No home address needs to be written on the drawing.
+
+### Scouts Digital variant: Trace a Local Route and Discuss Symbols
+
+**Reuse status:** Existing canonical entry reused; this separately attributed variant comes from **Compass and Mapping (23 October 2026)**, Gold Wolf first split row.
+
+The source asks Cubs to trace a street-map route from its hall to Sunridge Primary School and discuss six symbols. Replace those local destinations with real ones on the supported Pack’s supplied map, retaining the route-and-symbol mechanic. Use the full official wording for assessment, including its six-to-ten range.
+
+Source-specific reward counters and leader assignments remain local context; use the selected Pack profile in an adaptation. This variant does not establish automatic advancement completion.
+
+- [Original source](<../scouts-digital/src/Program_Doc_ID_1_329_2026-10-23.docx>)
+- [Archival conversion](<../scouts-digital/source-conversions/Program_Doc_ID_1_329_2026-10-23.docx.md>)
 
 ## Advancement / badge link
 
@@ -26,4 +41,4 @@ AI-created for the 6 November 2026 mapping programme after reviewing Mapping and
 
 ## Tags
 
-#activity #maps-and-compass
+#activity #maps-and-compass #mapping #street-map #symbols #source-scouts-digital

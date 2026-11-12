@@ -1,21 +1,74 @@
 # Games Index
 
-207 games from POP, Pack resources and other sources.
+490 games from POP, Pack resources and other sources.
 Use tags to find games that fit a programme; check each entry's source and safety notes before use.
 
 - [(Circle): Pass the Slap](circle-pass-the-slap.md) — #game #history
+- [12/24-hour Matching Relay](twelve-twenty-four-hour-matching-relay.md) — #game #time #matching #relay #24-hour-clock #needs-cards #source-scouts-digital
+- [A Day at the Beach — Bag Memory Circle](beach-bag-memory-circle.md) — #beach #circle #game #knots #memory #packing #source-extracted #source-scouts-digital #water-safety
+- [ACTION GAME: Helicopter (played anticlockwise)](sd-action-game-helicopter-played-anticlockwise-c1f2232d.md) — #game #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTION/TEAM GAME: Shipwreck](sd-action-team-game-shipwreck-85745232.md) — #game #movement #sense-training #source-extracted #source-scouts-digital #teamwork
+- [Active Activity: Memory Game](sd-active-activity-memory-game-c86d9b88.md) — #game #memory #sense-training #source-extracted #source-scouts-digital #teamwork
+- [Active Game - Ticket Grab –](sd-active-game-ticket-grab-a340bb15.md) — #check-visuals #game #source-extracted #source-scouts-digital
+- [Active game – Don’t drop the Asteroid](sd-active-game-don-t-drop-the-asteroid-944e4752.md) — #game #source-extracted #source-scouts-digital #space
+- [Active game – House Builders](sd-active-game-house-builders-26120f06.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [ACTIVE GAME:](sd-active-game-471d6e84.md) — #game #movement #source-extracted #source-scouts-digital #teamwork #water-safety
+- [ACTIVE GAME:](sd-active-game-753a800a.md) — #game #knots #movement #source-extracted #source-scouts-digital #teamwork
+- [ACTIVE GAME:](sd-active-game-dc6b2c0c.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Active Game: "Buddy Splash & Tag"](sd-active-game-buddy-splash-tag-bd7ef0f0.md) — #game #movement #source-extracted #source-scouts-digital
+- [ACTIVE GAME: Astor Work Out](sd-active-game-astor-work-out-8c67274e.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVE GAME: dribble](sd-active-game-dribble-00e3a951.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [ACTIVE GAME: Eco-Ranger Challenge: The Ultimate Wildlife Relay](sd-active-game-eco-ranger-challenge-the-ultimate-wildlife-relay-b2dcf9f9.md) — #animals #check-visuals #game #knots #movement #source-extracted #source-scouts-digital #teamwork
+- [ACTIVE GAME: Float or sink](sd-active-game-float-or-sink-ad423730.md) — #game #movement #sense-training #source-extracted #source-scouts-digital #water-safety
+- [Active Game: How fast can we clean up as we dodge some balls](sd-active-game-how-fast-can-we-clean-up-as-we-dodge-some-balls-53071417.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVE GAME: Reach and rescue](sd-active-game-reach-and-rescue-d72c072f.md) — #game #movement #source-extracted #source-scouts-digital #teamwork #water-safety
+- [ACTIVE GAME: Recycling Bin Race](sd-active-game-recycling-bin-race-f98d21da.md) — #environment #game #movement #source-extracted #source-scouts-digital
+- [Active Game: Relay](sd-active-game-relay-14e11ef9.md) — #fire #game #maps-and-compass #movement #source-extracted #source-scouts-digital #teamwork
+- [ACTIVE GAME: Relay/Memory game](sd-active-game-relay-memory-game-2676ddcc.md) — #check-visuals #fire #game #jungle-book #memory #source-extracted #source-scouts-digital #teamwork
+- [Active Game: Resource Dash: The Natural Element Challenge](sd-active-game-resource-dash-the-natural-element-challenge-eea0f97d.md) — #game #maps-and-compass #source-extracted #source-scouts-digital
+- [Active Game: Shoe Game](sd-active-game-shoe-game-e254df2e.md) — #game #movement #source-extracted #source-scouts-digital
+- [ACTIVE GAME: Stand up or sit down](sd-active-game-stand-up-or-sit-down-754cdcad.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Active Game: Traffic Sign Dash (10 Road Safety Signs)](sd-active-game-traffic-sign-dash-10-road-safety-signs-0c67fa60.md) — #check-visuals #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [ACTIVE GAME:(Relay style)](sd-active-game-relay-style-2293f342.md) — #environment #game #nature #source-extracted #source-scouts-digital #teamwork
+- [Activity 1: Steam release Game – Poachers and Rhino’s](sd-activity-1-steam-release-game-poachers-and-rhino-s-7d732237.md) — #game #movement #source-extracted #source-scouts-digital
+- [Activity 1: Steam release Game – Runaway train](sd-activity-1-steam-release-game-runaway-train-4a69ea84.md) — #game #movement #source-extracted #source-scouts-digital
+- [Activity 1: Steam release Game – The Rattler](sd-activity-1-steam-release-game-the-rattler-0d9f0ac7.md) — #game #sense-training #source-extracted #source-scouts-digital
+- [Activity 1: Steam Release – Fire and Firefighters](sd-activity-1-steam-release-fire-and-firefighters-50eae034.md) — #fire #game #source-extracted #source-scouts-digital #teamwork
+- [Activity 1: Steam Release – Mr. Wolf](sd-activity-1-steam-release-mr-wolf-b94a039b.md) — #game #movement #source-extracted #source-scouts-digital #time
+- [Activity 1: Steam Release – Statues](sd-activity-1-steam-release-statues-9a187766.md) — #game #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 3: Turtle Soccer](sd-activity-3-turtle-soccer-11a1c6ee.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Activity 3: Word game](sd-activity-3-word-game-0eb5b4b7.md) — #food #game #source-extracted #source-scouts-digital
+- [Activity 4: Fruit salad game](sd-activity-4-fruit-salad-game-85055ef8.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Activity 5- OCTOPUS RACE](sd-activity-5-octopus-race-0615221c.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Activity 5: Catch TEAM GAME: Bottle bowling](sd-activity-5-catch-team-game-bottle-bowling-15e8448d.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Activity 5: Relay Skipping](sd-activity-5-relay-skipping-eab61a67.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Activity 5: T-Shirt Relay](sd-activity-5-t-shirt-relay-d5c9d493.md) — #game #needs-safety-review #source-extracted #source-scouts-digital #teamwork
+- [Activity 6: Kims Game - Touch](sd-activity-6-kims-game-touch-723c3eb0.md) — #game #memory #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Activity 6: Kims game touch](sd-activity-6-kims-game-touch-9d7cd50c.md) — #game #memory #movement #source-extracted #source-scouts-digital
+- [Activity 6: Memory game - Listening](sd-activity-6-memory-game-listening-e371f37d.md) — #game #memory #needs-source-detail #reference-only #sense-training #source-extracted #source-scouts-digital
+- [Activity 7: Charades](sd-activity-7-charades-7b916218.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Activity 7: Memory game - Listening](sd-activity-7-memory-game-listening-35eb5d7f.md) — #game #memory #needs-source-detail #reference-only #sense-training #source-extracted #source-scouts-digital
+- [Activity 7: Tower of Buttons – Relay Game](sd-activity-7-tower-of-buttons-relay-game-8cf2be9c.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Activity 8: Multiples (Game)](sd-activity-8-multiples-game-ce3c2ae9.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Activity: Board Game](sd-activity-board-game-9b7d11b1.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Animal Sounds](animal-sounds.md) — #game #sense-training #hearing #listening #animals #grouping #teamwork #indoor #source-scouts-digital
 - [Apes and Leopards](apes-and-leopards.md) — #game #jungle
 - [Ball Pass](ball-pass.md) — #game
+- [Ball Rescue — Stuck-in-the-mud Variation](sd-ball-rescue-stuck-in-the-mud-variation-7d8258a3.md) — #game #programme-resource #source-extracted #source-scouts-digital
 - [Balloon Race The](balloon-race-the.md) — #game
-- [Bean Planting](bean-planting.md) — #game #nature
+- [Band Aid Tag](sd-band-aid-tag-c68c853c.md) — #game #movement #source-extracted #source-scouts-digital
+- [BASE 1: REVISION GAME: Call for help](sd-base-1-revision-game-call-for-help-81aa4ddd.md) — #first-aid #game #movement #source-extracted #source-scouts-digital #time #water-safety
+- [Bean Planting](bean-planting.md) — #game #movement #nature #source-extracted #source-pop #source-scouts-digital #space #teamwork
 - [Bean Relay](bean-relay.md) — #game
-- [Beans](beans.md) — #game
+- [Beans](beans.md) — #game #movement #source-extracted #source-pop #source-scouts-digital
 - [Bear Attack](bear-attack.md) — #game
 - [Beetle Drive](beetle-drive.md) — #game #jungle #nature #health
+- [Beware the Sabertooth](beware-the-sabertooth.md) — #animals #birds #croods #food #game #grouping #listening #movement #sense-training #source-extracted #source-scouts-digital #steam-release
 - [Big Shoes](big-shoes.md) — #game
 - [Blanket Ball](blanket-ball.md) — #game #water
 - [Blindfold Obstacle Course](blindfold-obstacle-course.md) — #game
 - [Blunderfoot](blunderfoot.md) — #game #jungle
+- [Bottle Rescue-throw Relay](bottle-rescue-throw-relay.md) — #game #rope #rescue-theme #aiming #relay #water-safety #source-scouts-digital
 - [Bright Colours](Bright-Colours.md) — colours, Sixes, running
 - [Brothers](brothers.md) — #game
 - [Brothers The](brothers-the.md) — #game
@@ -24,28 +77,38 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Bus Ride](bus-ride.md) — #game
 - [Bush Ball](bush-ball.md) — #game
 - [Buzz](buzz.md) — #game
+- [Call for Help — Numbered Circle Game](sd-call-for-help-numbered-circle-game-6aaa0db0.md) — #game #movement #source-extracted #source-scouts-digital #time
+- [Camping Kim’s Game](sd-camping-kim-s-game-7dbb4563.md) — #camp #game #memory #source-extracted #source-scouts-digital
+- [Can Toss Practice Relay](sd-can-toss-practice-relay-05d92f00.md) — #game #source-extracted #source-scouts-digital #teamwork
 - [Candle & Straw Relay](candle-straw-relay.md) — #game
 - [Candle Lighting In relay formation](candle-lighting-in-relay-formation.md) — #game #south-africa
 - [Candle Lighting relay In relay formation, the](candle-lighting-relay-in-relay-formation-the.md) — #game
 - [Cannon Balls](cannon-balls.md) — #game #water #transport
-- [Captain on Deck](captain-on-deck.md) — #game #water #transport
+- [Captain on Deck](captain-on-deck.md) — #game #water #transport #water-safety #croods #reference-only #needs-instructions #source-scouts-digital #source-pop
+- [Cardboard Ball Run](cardboard-ball-run.md) — #game #ball #teamwork #cooperation #construction #source-scouts-digital
 - [Catch the Gift](catch-the-gift.md) — #game
-- [Chain Tag](chain-tag.md) — #game
+- [Chain Tag](chain-tag.md) — #game #movement #source-extracted #source-pop #source-scouts-digital
 - [Chair pass ball The](chair-pass-ball-the.md) — #game #jungle
 - [Changing the Winds](changing-the-winds.md) — #game #maps-and-compass
 - [Chase the frogs!](chase-the-frogs.md) — #game #history
 - [Check your Cards](check-your-cards.md) — #game
 - [Chinese Crab](chinese-crab.md) — #game
 - [Chinese Ladders](chinese-ladders.md) — #game
+- [Circle / Testing Game: True or False](sd-circle-testing-game-true-or-false-591dc870.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Circle Game](sd-circle-game-4d085508.md) — #game #maps-and-compass #movement #source-extracted #source-scouts-digital
+- [Circle game – packed my bag](sd-circle-game-packed-my-bag-d6b79493.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Circle game – Safe…Safe…Fire](sd-circle-game-safe-safe-fire-742a66bf.md) — #fire #game #movement #source-extracted #source-scouts-digital #space
 - [Circular Tug of War](circular-tug-of-war.md) — #game
 - [Compass Capers Give](compass-capers-give.md) — #game #maps-and-compass
 - [Compass Change](compass-change.md) — #game #maps-and-compass
+- [Compass Corner Dash](compass-corner-dash.md) — #game #compass #directions #movement #non-elimination #source-scouts-digital
 - [Compass Everyone stands spread out around](compass-everyone-stands-spread-out-around.md) — #game #maps-and-compass
 - [Compass Points](compass-points.md) — #game #maps-and-compass
 - [Crash The](crash-the.md) — #game
 - [Cross the Ocean](cross-the-ocean.md) — #game #water
 - [Crossed Wires](crossed-wires.md) — #game
 - [Cub’s Shoes](cub-s-shoes.md) — #game
+- [Darkness into the Sunlight — Voice Recognition](darkness-into-sunlight.md) — #circle #croods #game #hearing #listening #sense-training #source-extracted #source-scouts-digital #voice-recognition
 - [Dodge mosquitoes](dodge-mosquitoes.md) — #game
 - [Dog Sled](dog-sled.md) — #game
 - [Draw two chalk lines](draw-two-chalk-lines.md) — #game #water
@@ -57,42 +120,94 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Exercises and Partner Challenges](exercises-and-partner-challenges.md) — #game #health
 - [Eye Ball](Eye-Ball.md) — #game #ball #circle-game #coordination
 - [Farmers and Carrots](farmers-and-carrots.md)
+- [Figure of 8 Knot – Relay:](sd-figure-of-8-knot-relay-c4d04e3e.md) — #game #knots #movement #source-extracted #source-scouts-digital #teamwork
 - [Figure Skating](figure-skating.md) — #game
+- [Figure-of-eight Hopping and Frog-jump Return](sd-figure-of-eight-hopping-and-frog-jump-return-444f4e09.md) — #game #knots #movement #source-extracted #source-scouts-digital
+- [Figure-of-eight Knot Relay](figure-of-eight-knot-relay.md) — #game #knots #figure-of-eight #relay #source-scouts-digital
 - [Fill the Cup](fill-the-cup.md) — #game #water
 - [Find a Friend](find-a-friend.md) — #game
 - [Find the Footprint](find-the-footprint.md) — #game #south-africa
 - [Find the Map](find-the-map.md) — #game #south-africa #maps-and-compass
-- [Finding Kevin’s Chicks The](finding-kevin-s-chicks-the.md) — #game #maps-and-compass
+- [Finding Kevin’s Chicks The](finding-kevin-s-chicks-the.md) — #game #maps-and-compass #sense-training #source-extracted #source-pop #source-scouts-digital
 - [Finding our Way](finding-our-way.md) — #game #nature #maps-and-compass
+- [Finger-paint the South African Flag Relay](finger-paint-sa-flag-relay.md) — #game #flag #south-africa #relay #painting #hygiene #source-scouts-digital
 - [Fire Lighting](fire-lighting.md) — #game #nature #health
 - [Fire Making](fire-making.md) — #game #nature #history
 - [Firemen-in-a-hurry](firemen-in-a-hurry.md) — #game
+- [First-aid Kit Memory Circle](first-aid-kit-memory-circle.md) — #game #memory #first-aid-theme #circle #equipment #source-scouts-digital
 - [Fitness Training](fitness-training.md) — #game
 - [Flipping the Fish](flipping-the-fish.md) — #game #jungle
-- [Floating Feather (Kite) The object of](floating-feather-kite-the-object-of.md) — #game #birds
+- [Float or Sink — Direction Game](sd-float-or-sink-direction-game-d8936bbb.md) — #game #source-extracted #source-scouts-digital #space
+- [Floating Bomb (Game can be played in the Hall)](sd-floating-bomb-game-can-be-played-in-the-hall-2dd4c773.md) — #game #jungle-book #source-extracted #source-scouts-digital #teamwork
+- [Floating Feather (Kite) The object of](floating-feather-kite-the-object-of.md) — #birds #game #source-extracted #source-pop #source-scouts-digital #teamwork
 - [Follow the Compass Trail](follow-the-compass-trail.md) — #game #jungle #transport #maps-and-compass
 - [Footprint Obstacle In Sixes](footprint-obstacle-in-sixes.md) — #game #south-africa
 - [Friendly Fiasco](friendly-fiasco.md) — #game
 - [Friends](friends.md) — #game
 - [Friendship Puzzle](friendship-puzzle.md) — #game
 - [Fruit and Vegetables](Fruit-and-Vegetables.md) — #game #fruit #vegetables #chasing #teamwork #food
+- [Game - Fireman, PLEASE save Bambi!](sd-game-fireman-please-save-bambi-6cd97a8a.md) — #check-visuals #fire #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Game : Drop the Hankerchief](sd-game-drop-the-hankerchief-a8cb42e7.md) — #culture #game #knots #movement #source-extracted #source-scouts-digital #teamwork
+- [Game : Human Machines](sd-game-human-machines-77c565a9.md) — #flag #game #knots #maps-and-compass #needs-safety-review #source-extracted #source-scouts-digital
+- [Game : Leap Frog](sd-game-leap-frog-f7e73ef5.md) — #game #movement #source-extracted #source-scouts-digital #space
+- [Game : Mummy Wrap](sd-game-mummy-wrap-87f3682a.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Game instructions:](sd-game-instructions-56394d93.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Game – Broken Telephone](sd-game-broken-telephone-bc79b04a.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Game – Matching game](sd-game-matching-game-e273480b.md) — #check-visuals #fire #game #jungle-book #movement #source-extracted #source-scouts-digital
+- [Game – Rescue Relay](sd-game-rescue-relay-7f3b6285.md) — #check-visuals #game #knots #needs-safety-review #source-extracted #source-scouts-digital #teamwork #water-safety
+- [Game – trusted Adult](sd-game-trusted-adult-67b0f5a9.md) — #game #movement #source-extracted #source-scouts-digital
+- [Game –Musical chairs](sd-game-musical-chairs-16219e20.md) — #game #movement #source-extracted #source-scouts-digital
+- [Game — Chair Lift relay race:](sd-game-chair-lift-relay-race-73cf7113.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Game/ Activity: Discussion](sd-game-activity-discussion-c38adbe3.md) — #environment #fire #food #game #needs-safety-review #source-extracted #source-scouts-digital
+- [Game/ Activity: STEAM](sd-game-activity-steam-realease-id-recycled-objects-80a85682.md) — #check-visuals #environment #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Game/ Activity: STEAM](sd-game-activity-steam-realease-weeds-and-wegetables-8645130f.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Game: Birds Fly](sd-game-birds-fly-14ea9682.md) — #animals #birds #game #memory #movement #source-extracted #source-scouts-digital
+- [Game: Broken telephone](sd-game-broken-telephone-049fbe5a.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Game: Crab soccer](sd-game-crab-soccer-4edb1d57.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Game: Dancing Dolphin Relay Chaos](sd-game-dancing-dolphin-relay-chaos-25be0559.md) — #codes #game #source-extracted #source-scouts-digital #teamwork
+- [Game: Fire emergencies](sd-game-fire-emergencies-f4064b56.md) — #fire #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Game: Fire in the hole – Do as I say](sd-game-fire-in-the-hole-do-as-i-say-4315f220.md) — #fire #game #needs-safety-review #source-extracted #source-scouts-digital
+- [Game: Knot Knot who wins?](sd-game-knot-knot-who-wins-abe51871.md) — #game #knots #source-extracted #source-scouts-digital
+- [Game: musical chairs](sd-game-musical-chairs-739205cf.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Game: Musical statues](sd-game-musical-statues-40629860.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Game: Nut & Bolt Matchup Relay](sd-game-nut-bolt-matchup-relay-f1b4d977.md) — #fire #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Game: Observation game](sd-game-observation-game-ad3a87ad.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Game: Pass the Carrot](sd-game-pass-the-carrot-4f685b41.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Game: Pole game – don’t drop the stave](sd-game-pole-game-don-t-drop-the-stave-fbe2be5c.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Game: Rangers and Raiders](sd-game-rangers-and-raiders-3747ee08.md) — #game #movement #needs-safety-review #source-extracted #source-scouts-digital #teamwork
+- [Game: RELAY - Dress up summer relay fun](sd-game-relay-dress-up-summer-relay-fun-357baf7b.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Game: Sharks and lifeguards](sd-game-sharks-and-lifeguards-d37ad0be.md) — #game #movement #source-extracted #source-scouts-digital #water-safety
+- [Game: Stuck in the mud](sd-game-stuck-in-the-mud-0cdc24b1.md) — #game #movement #source-extracted #source-scouts-digital #water-safety
+- [Game: Table relay Race](sd-game-table-relay-race-e5812c55.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Game: The Mad Hatter’s Crazy Directions (similar to Simon says - but not)](sd-game-the-mad-hatter-s-crazy-directions-similar-to-simon-says-but-not-f15b9001.md) — #game #maps-and-compass #movement #source-extracted #source-scouts-digital
+- [Game: The One-Legged](sd-game-the-one-legged-19e06cc3.md) — #game #knots #source-extracted #source-scouts-digital
+- [Game: Train Relay Race](sd-game-train-relay-race-35d40a4b.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [GAME: — Fish for the win](sd-game-fish-for-the-win-4653e40d.md) — #food #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [GAME: — In the river on the bank:](sd-game-in-the-river-on-the-bank-e18bdd31.md) — #game #sense-training #source-extracted #source-scouts-digital
 - [Good Morning](good-morning.md) — #game #maps-and-compass
+- [Grab or touch game – The same 3 sixes sit opposite each other with a “worm” in the middle. Numbers given to](sd-grab-or-touch-game-the-same-3-sixes-sit-opposite-each-other-with-a-worm-in--45581148.md) — #game #movement #source-extracted #source-scouts-digital
+- [Green Light, Red Light — Water-safety Revision](sd-green-light-red-light-water-safety-revision-44227f55.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [GROUP GAME: Ships and Sailors](sd-group-game-ships-and-sailors-b16bb15d.md) — #game #movement #source-extracted #source-scouts-digital
 - [Guarding the Chocolates (alternate circle game)](guarding-the-chocolates.md) — #game
 - [Hammer Throw](hammer-throw.md) — #game #history
+- [Happy Bots — Unspecified Games (reference only)](happy-bots-games-reference.md) — #game #camp #reference-only #needs-instructions #birds #compass #source-scouts-digital
 - [Happy Hopping](happy-hopping.md) — #game
 - [Harbour Master](harbour-master.md) — #game #water #transport
 - [Hat Exchange](hat-exchange.md) — #game #history
 - [Here comes the Audience! Sixes](here-comes-the-audience-sixes.md) — #game
+- [Hidden Hazards — Toe-feel Challenge](sd-hidden-hazards-toe-feel-challenge-c88cea23.md) — #game #source-extracted #source-scouts-digital #teamwork
 - [Hopscotch What you need](hopscotch-what-you-need.md) — #game
 - [Horse drawn cart](horse-drawn-cart.md) — #game #water #food
 - [How Do You Like Your Neighbours?](how-do-you-like-your-neighbours.md) — #game #jungle
 - [How to strike a Match](how-to-strike-a-match.md) — #game
 - [How’s your handshake?](how-s-your-handshake.md) — #game #maps-and-compass
-- [Hula Hoop Obstacle](hula-hoop-obstacle.md) — #game
+- [Hula Hoop Obstacle](hula-hoop-obstacle.md) — #game #hula-hoops #cooperation #teamwork #source-scouts-digital #source-pop
 - [Human String Relay](human-string-relay.md) — #game
 - [Hungry Birds](Hungry-Birds.md) — #game #birds #Australia #teamwork
 - [Husky Race One rope per Cub](husky-race-one-rope-per-cub.md) — #game
 - [I wrote a letter …](i-wrote-a-letter.md) — #game
+- [Ice breaker GAME:](sd-ice-breaker-game-1a2bd4fc.md) — #game #knots #maps-and-compass #source-extracted #source-scouts-digital
+- [Ice breaker GAME: Crab soccer / Pool Noodle soccer / Nose Soccer](sd-ice-breaker-game-crab-soccer-pool-noodle-soccer-nose-soccer-4912f7f3.md) — #game #movement #source-extracted #source-scouts-digital
 - [ID an Object Domino Relay](id-an-object-domino-relay.md) — #game #relay #observation
 - [In the …, Out of the …](in-and-out-game.md) — #game #maps-and-compass #water #traffic-safety #water-safety #fun #maps #woodcraft
 - [Jacks](jacks.md) — #game
@@ -102,20 +217,27 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Kangaroo Hunt](Kangaroo-Hunt.md) — kangaroos, wild-animals, Australia
 - [Kangaroos in Pouches](Kangaroos-in-Pouches.md) — kangaroos, wild-animals, Australia
 - [Kangaroos in Pouches Get half the](kangaroos-in-pouches-get-half-the.md) — #game #maps-and-compass
+- [Kim’s Game - Spot the change](sd-kim-s-game-spot-the-change-26eb0a62.md) — #game #memory #source-extracted #source-scouts-digital
+- [Kim’s Game: Memory and Observation](sd-kim-s-game-memory-and-observation-5e620316.md) — #game #memory #needs-safety-review #source-extracted #source-scouts-digital
 - [Klompies](klompies.md) — #game #grouping #whistle
+- [Knot Name, Use and Demonstration Relay](knot-name-use-demo-relay.md) — #game #knots #matching #relay #revision #source-scouts-digital
 - [Knotting](knotting-game.md) — #game #knots #teamwork
 - [Knotting Market On ‘go’ the](knotting-market-on-go-the.md) — #game
 - [Knotting Revision of the knots the](knotting-revision-of-the-knots-the.md) — #game #nature #history
 - [Leapfrog Divide](leapfrog-divide.md) — #game
+- [Lets play Mancala!](sd-lets-play-mancala-cc0a61f7.md) — #game #programme-resource #source-extracted #source-scouts-digital
 - [Life Boat](life-boat.md) — #game #water #transport
 - [Life Boat (ladders)](life-boat-ladders.md) — #game #water #transport
 - [Life Raft Tell the](life-raft-tell-the.md) — #game #water #food #transport
+- [Lifeboat relay](sd-lifeboat-relay-2442c7c8.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Lifeboat relay using the direction](sd-lifeboat-relay-using-the-direction-31edfbad.md) — #game #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
 - [Lifeboats](lifeboats.md) — #game #water #transport
 - [Light up your life](light-up-your-life.md) — #game
 - [Longest Line](longest-line.md) — #game
 - [Lost in the Jungle](lost-in-the-jungle.md) — #game #wildlife #jungle
 - [Man Overboard](man-overboard.md) — #game #water #transport
 - [Match the Pattern](match-the-pattern.md) — #game
+- [Memory and sense game rotations](sd-memory-and-sense-game-rotations-70c14cb5.md) — #check-visuals #culture #fire #game #knots #memory #source-extracted #source-scouts-digital #time
 - [Men in the Sea](men-in-the-sea.md) — #game #water
 - [Mend the Calculator](mend-the-calculator.md) — #game
 - [Missing Chocolate](missing-chocolate.md) — #game
@@ -123,12 +245,18 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Moon Walk](moon-walk.md) — #game #space
 - [Move like a crab The](move-like-a-crab-the.md) — #game
 - [Mummies](mummies.md) — #game
-- [Musical Islands Place sheets of newspaper around](musical-islands-place-sheets-of-newspaper-around.md) — #game
+- [Musical Islands Place sheets of newspaper around](musical-islands-place-sheets-of-newspaper-around.md) — #game #hula-hoops #croods #movement #source-scouts-digital #source-pop
 - [Musical Monkeys](musical-monkeys.md) — #game #jungle #nature
 - [Musical Shoes](musical-shoes.md) — #game #health
-- [Musical Statues Gather the](musical-statues-gather-the.md) — #game #history
+- [Musical Statues Gather the](musical-statues-gather-the.md) — #game #history #nature #hearing #memory #source-scouts-digital #source-pop
+- [My First-aid Kit — Alphabet Memory Circle](sd-my-first-aid-kit-alphabet-memory-circle-d81cdec9.md) — #first-aid #game #memory #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Natural resources – explain what Natural Resources are and then play the game.](sd-natural-resources-explain-what-natural-resources-are-and-then-play-the-game-fcc8a4d6.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Nature guessing relay:](sd-nature-guessing-relay-c56dd790.md) — #game #memory #movement #nature #source-extracted #source-scouts-digital #teamwork
 - [Nets Choose two](nets-choose-two.md) — #game
+- [Nine-match Triangle Challenge](nine-match-triangle.md) — #game #touch #shape #problem-solving #inclusion #source-scouts-digital
 - [Obey Orders](obey-orders.md) — #game
+- [Observation Game – “What Lives Below?”](sd-observation-game-what-lives-below-e5983283.md) — #animals #check-visuals #codes #game #movement #nature #source-extracted #source-scouts-digital
+- [Obstacle Race Puzzle](sd-obstacle-race-puzzle-6007a268.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
 - [Opposites Arrange the](opposites-arrange-the.md) — #game
 - [Outdoor Code](outdoor-code.md) — #game #nature
 - [Over, under](over-under.md) — #game
@@ -139,16 +267,49 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Pharoah and Servant](pharoah-and-servant.md) — #game
 - [Pick up Coins](pick-up-coins.md) — #game #history
 - [Picking up Sea Shells The](picking-up-sea-shells-the.md) — #game #water
+- [Piggy in the Middle (source reference)](piggy-in-the-middle-reference.md) — #game #ball #throwing #catching #reference-only #needs-instructions #source-scouts-digital
+- [PLAN Mime Command Game](plan-mime-command-game.md) — #commands #game #mime #movement #source-extracted #source-scouts-digital #water-safety
 - [Plant the Seeds In Sixes, the](plant-the-seeds-in-sixes-the.md) — #game #nature #history
+- [Poison bottles game:](sd-poison-bottles-game-216d30cd.md) — #game #needs-qualified-instruction #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Porters](porters.md) — #game
 - [Promise and Law Hunt](promise-and-law-hunt.md) — #game
 - [Puddle Jump](puddle-jump.md) — #game
 - [Put a Healthy Meal Together](put-a-healthy-meal-together.md) — #game #food
 - [Put the Fire Out](put-the-fire-out.md) — #game #water #nature
+- [Quiet Game - Boom, Clap, Snap](sd-quiet-game-boom-clap-snap-17bf5c76.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Quiet Game: Conservation Champion Board](sd-quiet-game-conservation-champion-board-b4cacc7e.md) — #environment #game #source-extracted #source-scouts-digital
+- [QUIET GAME: Peaceful Demonstration](sd-quiet-game-peaceful-demonstration-37846c46.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #water-safety
+- [Quiet game: Steal the pirate’s hat](sd-quiet-game-steal-the-pirate-s-hat-1cba2e7c.md) — #game #sense-training #source-extracted #source-scouts-digital
+- [Quiet game: Steal the pirate’s hat](sd-quiet-game-steal-the-pirate-s-hat-deaf5377.md) — #game #sense-training #source-extracted #source-scouts-digital
 - [Rattlesnake tag Object of](rattlesnake-tag-object-of.md) — #game
+- [Reach and Rescue — Back-to-back Chase](sd-reach-and-rescue-back-to-back-chase-f19d1e8b.md) — #game #movement #source-extracted #source-scouts-digital #teamwork #water-safety
 - [Recreate a Rainstorm](recreate-a-rainstorm.md) — #game #history
+- [Relay game – Skittles](sd-relay-game-skittles-f08a3d5b.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay game – Swim in the Sea](sd-relay-game-swim-in-the-sea-59977faf.md) — #game #needs-safety-review #source-extracted #source-scouts-digital #teamwork #water-safety
+- [RELAY GAME: Balloon Race](sd-relay-game-balloon-race-3520b338.md) — #check-visuals #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay game: Decipher a code](sd-relay-game-decipher-a-code-ec5365fd.md) — #codes #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay Game: Fetch your friend](sd-relay-game-fetch-your-friend-f52243d6.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [RELAY GAME: Knotting Relay](sd-relay-game-knotting-relay-b174d554.md) — #game #knots #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay Game: Outdoor Code](sd-relay-game-outdoor-code-ef4dfef3.md) — #codes #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Relay Game: Promise and Law Pick](sd-relay-game-promise-and-law-pick-97977207.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [RELAY GAME: Rescue](sd-relay-game-rescue-103f9e1e.md) — #check-visuals #game #knots #movement #needs-safety-review #source-extracted #source-scouts-digital #teamwork #water-safety
+- [Relay Game: Steal the Veggies](sd-relay-game-steal-the-veggies-ef89c4d2.md) — #check-visuals #game #source-extracted #source-scouts-digital #teamwork
+- [RELAY GAME: Tins game: Drie Blikkies, Dithini, Amathini, or Tin Bati](sd-relay-game-tins-game-drie-blikkies-dithini-amathini-or-tin-bati-b6149548.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay Race](sd-relay-race-07695407.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay Race](sd-relay-race-d0dd057a.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Relay race –](sd-relay-race-2a442721.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay Race: Drag your shell](sd-relay-race-drag-your-shell-3ead7fe9.md) — #check-visuals #game #knots #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay:](sd-relay-bdffc25b.md) — #codes #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Relay: Clean Hands](sd-relay-clean-hands-e0b535a5.md) — #game #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Relay: island explorers](sd-relay-island-explorers-0dde42cf.md) — #camp #fire #food #game #knots #source-extracted #source-scouts-digital #teamwork
+- [Relay: Split](sd-relay-split-8a1fb9d0.md) — #game #knots #movement #source-extracted #source-scouts-digital #teamwork
 - [Repeat the Message](repeat-the-message.md) — #game
 - [Rescue](rescue.md) — #game #south-africa #health
+- [Revision Game -What Time is it?](sd-revision-game-what-time-is-it-3f74c2b2.md) — #game #movement #source-extracted #source-scouts-digital #teamwork #time
+- [Revision Game – Outdoor Code](sd-revision-game-outdoor-code-f6344153.md) — #codes #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [REVISION GAME: Safety Noughts & Crosses](sd-revision-game-safety-noughts-crosses-1db42af2.md) — #environment #game #knots #source-extracted #source-scouts-digital #teamwork
+- [Revision: relay a message](sd-revision-relay-a-message-2128259f.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Revision: Yes/No game](sd-revision-yes-no-game-91224be5.md) — #game #programme-resource #source-extracted #source-scouts-digital
 - [Ride into battle](ride-into-battle.md) — #game #history #health
 - [Ridiculous Rounders](ridiculous-rounders.md) — #game
 - [Rikki-Tikki and Nagaina’s Egg](rikki-tikki-and-nagaina-s-egg.md) — #game #jungle
@@ -158,11 +319,14 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Save Water](save-water.md) — #game #water
 - [Scavenger Hunt](scavenger-hunt.md) — #game #birds #wildlife #nature #history
 - [Secret Message The leader whispers a message to](secret-message-the-leader-whispers-a-message-to.md) — #game
+- [Sense Game (Sound) – Rub A Dub – Dub](sd-sense-game-sound-rub-a-dub-dub-289af7d8.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Senses - Smell test game:](sd-senses-smell-test-game-7e693123.md) — #game #sense-training #source-extracted #source-scouts-digital
 - [Sentries (alternate game)](sentries.md) — #game #water #maps-and-compass
 - [Shelter Building](shelter-building.md) — #game
 - [Ship's Captain](ship-s-captain.md) — #game #water #ships #commands #history #transport
 - [Ship’s Messengers Spread the](ship-s-messengers-spread-the.md) — #game #water #transport
 - [Shoe Throw](shoe-throw.md) — #game #history
+- [Short-rope Hanking Hunt](short-rope-hanking-hunt.md) — #game #knots #rope #hanking #search #outdoor #steam-release #teamwork #silver-wolf-practice #source-scouts-digital
 - [Sight](sight.md) — #game
 - [Slalom (means to zigzag)](slalom-means-to-zigzag.md) — #game
 - [Sled Race](sled-race.md) — #game
@@ -171,6 +335,7 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Slings](slings.md) — #game
 - [Smell Trail](smell-trail.md) — #game #maps-and-compass
 - [Smelly Memory](smelly-memory.md) — #game
+- [Smuggling game – The aim is to place the mulberry leaves on a silk shape at the end of the field, without being touched. 2 beans awarded for](sd-smuggling-game-the-aim-is-to-place-the-mulberry-leaves-on-a-silk-shape-at-t-20175d6b.md) — #game #movement #nature #source-extracted #source-scouts-digital
 - [Snake Sting The Pack](snake-sting-the-pack.md) — #game
 - [Snatch the Toothpicks](snatch-the-toothpicks.md) — #game
 - [Something Good to Eat](something-good-to-eat.md) — #game
@@ -180,27 +345,137 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Spinning Blades](spinning-blades.md) — #game
 - [Stalking](stalking.md) — #game #jungle
 - [Standing Together](standing-together.md) — #game
+- [Station 1: Chocolate Race](sd-station-1-chocolate-race-6ebaeb34.md) — #game #needs-safety-review #source-extracted #source-scouts-digital
+- [Station 2: Sack and balloon Race](sd-station-2-sack-and-balloon-race-6e3ecc9c.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
 - [Steal the keys All the](steal-the-keys-all-the.md) — #game
+- [Steal the Prehistoric Egg](steal-the-prehistoric-egg.md) — #game #chase #ball #teamwork #croods #steam-release #source-scouts-digital
+- [Steam Release - Foxes and Hounds](sd-steam-release-foxes-and-hounds-13aacbee.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Steam release - Islands](sd-steam-release-islands-7b5b492b.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam release - NSEW](sd-steam-release-nsew-e7ec373f.md) — #game #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam release - Rescue Klompies – Define boundaries. Demonstrate a fireman’s grip.](sd-steam-release-rescue-klompies-define-boundaries-demonstrate-a-fireman-s-gri-1e94a466.md) — #fire #game #movement #source-extracted #source-scouts-digital #teamwork #water-safety
+- [Steam release Akela says.](sd-steam-release-akela-says-4f188b54.md) — #game #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam release game : Don’t drop the Fire (relay game)](sd-steam-release-game-don-t-drop-the-fire-relay-game-1427b5b0.md) — #fire #game #source-extracted #source-scouts-digital #teamwork
+- [Steam release game : North South east west](sd-steam-release-game-north-south-east-west-69108400.md) — #game #maps-and-compass #source-extracted #source-scouts-digital
+- [Steam release game : North South East West](sd-steam-release-game-north-south-east-west-8e7ede5e.md) — #game #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam release game : “Wave Tag”](sd-steam-release-game-wave-tag-3523ac9a.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release Game:](sd-steam-release-game-013e6f5b.md) — #camp #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Steam release game: Capture the flag.](sd-steam-release-game-capture-the-flag-29b25e0e.md) — #flag #game #source-extracted #source-scouts-digital
+- [Steam release game: Capture the Popcorn](sd-steam-release-game-capture-the-popcorn-14dbeb9e.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Steam release game: Dodgeball](sd-steam-release-game-dodgeball-0037216f.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release Game: Duster hockey - cave men club hockey](sd-steam-release-game-duster-hockey-cave-men-club-hockey-f4509d93.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Steam Release Game: Germ phobia game](sd-steam-release-game-germ-phobia-game-5fdcba05.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release Game: Hawks and Sparrows](sd-steam-release-game-hawks-and-sparrows-b7ffafc0.md) — #birds #game #maps-and-compass #movement #source-extracted #source-scouts-digital #water-safety
+- [Steam release game: Mange says North South](sd-steam-release-game-mange-says-north-south-3708d590.md) — #game #maps-and-compass #source-extracted #source-scouts-digital
+- [Steam Release Game: Musical statues](sd-steam-release-game-musical-statues-4ec0afe4.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam Release Game: Ranger, Ranger, What’s the](sd-steam-release-game-ranger-ranger-what-s-the-3ba8437e.md) — #game #movement #source-extracted #source-scouts-digital
+- [STEAM RELEASE GAME: Stranger Danger Tag](sd-steam-release-game-stranger-danger-tag-e2b22a82.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release Game: Stuck in the Mud (outside)](sd-steam-release-game-stuck-in-the-mud-outside-2f06d789.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [STEAM RELEASE GAME: Tug Rope](sd-steam-release-game-tug-rope-4bab83f5.md) — #game #knots #source-extracted #source-scouts-digital
+- [Steam Release planned & run by Hathi (PLAN A)](sd-steam-release-planned-run-by-hathi-plan-a-76d54eae.md) — #game #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam release relay:](sd-steam-release-relay-7df664d0.md) — #fire #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork #water-safety
+- [Steam Release – Akela Says.](sd-steam-release-akela-says-ac5b9281.md) — #game #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam release – Beat the Clock!](sd-steam-release-beat-the-clock-7b9a72d9.md) — #check-visuals #game #movement #source-extracted #source-scouts-digital #time
+- [Steam release – Mars Tag](sd-steam-release-mars-tag-dc4d1848.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release – Scouts Pace.](sd-steam-release-scouts-pace-29cddfa6.md) — #game #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam Release – Skittle game outdoor code.](sd-steam-release-skittle-game-outdoor-code-39b89623.md) — #check-visuals #codes #game #source-extracted #source-scouts-digital #teamwork
+- [Steam Release — Captain's Orders](sd-steam-release-captain-s-orders-fa30b9df.md) — #game #knots #movement #source-extracted #source-scouts-digital
+- [Steam release — CI tells](sd-steam-release-ci-tells-5d896370.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release — Compass points on the field](sd-steam-release-compass-points-on-the-field-feba04ae.md) — #game #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam Release — First Aid Freeze](sd-steam-release-first-aid-freeze-b9cf139a.md) — #first-aid #game #movement #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Steam release- Buddies](sd-steam-release-buddies-b07c5a6a.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam release- Chuck the Chicken](sd-steam-release-chuck-the-chicken-54ac7ffe.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Steam release- Clap and catch](sd-steam-release-clap-and-catch-c76ee2dc.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Steam release- Match the knot](sd-steam-release-match-the-knot-c3cb89e0.md) — #check-visuals #fire #game #knots #movement #source-extracted #source-scouts-digital
+- [Steam release- STEAM RELEASE: Super Heroes](sd-steam-release-steam-release-super-heroes-52328502.md) — #check-visuals #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: a game with a difefrence (long game): The World Scouting Mission](sd-steam-release-a-game-with-a-difefrence-long-game-the-world-scouting-mission-e9592bdf.md) — #camp #check-visuals #codes #fire #game #knots #maps-and-compass #movement #source-extracted #source-scouts-digital #teamwork
+- [Steam Release: Around the World](sd-steam-release-around-the-world-07aa680a.md) — #flag #game #source-extracted #source-scouts-digital #space
+- [Steam Release: Be-beans](sd-steam-release-be-beans-4278623b.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: birds fly.](sd-steam-release-birds-fly-c55d49e1.md) — #birds #game #movement #source-extracted #source-scouts-digital
+- [STEAM RELEASE: Buddies](sd-steam-release-buddies-33bfb824.md) — #game #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam Release: Bunny Hop Tag](sd-steam-release-bunny-hop-tag-50c9ef80.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: Dive for Ingredients](sd-steam-release-dive-for-ingredients-0d1e75b9.md) — #game #movement #needs-safety-review #source-extracted #source-scouts-digital
+- [STEAM RELEASE: Dodge the Retrievers](sd-steam-release-dodge-the-retrievers-66d6bb14.md) — #birds #game #movement #source-extracted #source-scouts-digital
+- [Steam release: Don’t Drop The Whos](sd-steam-release-don-t-drop-the-whos-67e6de4d.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: Down the Rabbit Hole Relay](sd-steam-release-down-the-rabbit-hole-relay-8eddadc6.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Steam Release: Evacuate](sd-steam-release-evacuate-dc0ffc01.md) — #first-aid #game #maps-and-compass #movement #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital #time
+- [Steam Release: Floating Balloon](sd-steam-release-floating-balloon-77764b91.md) — #game #maps-and-compass #source-extracted #source-scouts-digital #teamwork
+- [Steam release: Guardians of the Big Blue](sd-steam-release-guardians-of-the-big-blue-400633a4.md) — #game #movement #needs-safety-review #source-extracted #source-scouts-digital #water-safety
+- [Steam Release: Helicopter](sd-steam-release-helicopter-41caad2d.md) — #game #knots #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam Release: Identify the Recycled objects Relay](sd-steam-release-identify-the-recycled-objects-relay-a17535eb.md) — #environment #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #teamwork
+- [Steam Release: Jungle Escape](sd-steam-release-jungle-escape-e2239f4c.md) — #animals #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: Like NSEW](sd-steam-release-like-nsew-c8e1c1e9.md) — #game #maps-and-compass #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam release: Mixed Salad](sd-steam-release-mixed-salad-361023f4.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Steam Release: North East South West, NE. SE, NW, SW,](sd-steam-release-north-east-south-west-ne-se-nw-sw-3071a5dc.md) — #game #maps-and-compass #source-extracted #source-scouts-digital
+- [Steam Release: Peg-Tag Game](sd-steam-release-peg-tag-game-735c752e.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: Pollution Patrol](sd-steam-release-pollution-patrol-6a59634e.md) — #environment #game #movement #nature #source-extracted #source-scouts-digital
+- [Steam Release: Red light, Blue water](sd-steam-release-red-light-blue-water-20fbd0df.md) — #game #needs-safety-review #source-extracted #source-scouts-digital #water-safety
+- [Steam Release: Roz Needs Water](sd-steam-release-roz-needs-water-ce93d183.md) — #game #movement #nature #source-extracted #source-scouts-digital #teamwork
+- [Steam Release: Safety in](sd-steam-release-safety-in-afd9bc96.md) — #game #movement #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [STEAM RELEASE: Sea Battle](sd-steam-release-sea-battle-d250e7b4.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Steam Release: Shere Khan’s hunt.](sd-steam-release-shere-khan-s-hunt-6cb015d7.md) — #game #jungle-book #movement #source-extracted #source-scouts-digital
+- [Steam Release: Shipwrecked](sd-steam-release-shipwrecked-d7fcd7ae.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: Skiing](sd-steam-release-skiing-83b312b1.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [STEAM RELEASE: Snails and Slugs](sd-steam-release-snails-and-slugs-efa03429.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [Steam Release: SW39](sd-steam-release-sw39-3c33d094.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam release: Table relay Race](sd-steam-release-table-relay-race-20c479a3.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Steam Release: The Great Nest Rescue](sd-steam-release-the-great-nest-rescue-bebd479e.md) — #birds #game #movement #source-extracted #source-scouts-digital #water-safety
+- [Steam Release: THE RIVER IS RISING!](sd-steam-release-the-river-is-rising-322fe4ae.md) — #game #knots #movement #source-extracted #source-scouts-digital
+- [Steam Release: The Shrinking Forest](sd-steam-release-the-shrinking-forest-f0f8f173.md) — #check-visuals #environment #game #knots #nature #source-extracted #source-scouts-digital #space
+- [Steam Release: Time Runners](sd-steam-release-time-runners-d01024a1.md) — #game #movement #source-extracted #source-scouts-digital #time
+- [Steam Release: Touch the Language](sd-steam-release-touch-the-language-269d4887.md) — #check-visuals #culture #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: Touching Nature.](sd-steam-release-touching-nature-5c26abf2.md) — #game #movement #nature #source-extracted #source-scouts-digital
+- [Steam release: Tree Switch](sd-steam-release-tree-switch-d1a8d2ea.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Steam Release: Water Hero Rescue Academy](sd-steam-release-water-hero-rescue-academy-bbc86572.md) — #game #movement #source-extracted #source-scouts-digital #water-safety
+- [Steam release: Water Hero Rescue Academy](sd-steam-release-water-hero-rescue-academy-dfa0721d.md) — #game #movement #source-extracted #source-scouts-digital #water-safety
+- [Steam Release: White Rabbit’s Rush! Don't Be Late! (PLAN B)](sd-steam-release-white-rabbit-s-rush-don-t-be-late-plan-b-0b774534.md) — #check-visuals #game #movement #source-extracted #source-scouts-digital #space
+- [Steam release: — Balloon game.](sd-steam-release-balloon-game-fac4c2d4.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [STEAM RELEASE: — Debugging: Define boundaries and give](sd-steam-release-debugging-define-boundaries-and-give-eb335f69.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: — Find the banana and bring back to a leader](sd-steam-release-find-the-banana-and-bring-back-to-a-leader-fdca891c.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [STEAM RELEASE: — Fish tag:](sd-steam-release-fish-tag-9a7d7d1e.md) — #game #movement #source-extracted #source-scouts-digital
+- [Steam Release: — Obstacle course](sd-steam-release-obstacle-course-ad496350.md) — #game #nature #source-extracted #source-scouts-digital
+- [Steam release: — Pack the first Aid kit](sd-steam-release-pack-the-first-aid-kit-197a644b.md) — #check-visuals #first-aid #game #movement #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital #teamwork
+- [STEAM RELEASE: — Rabbit, Rabbit what’s the time?](sd-steam-release-rabbit-rabbit-what-s-the-time-1a6b5da8.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Steam Release: — Set up - draw a circle on the ground for grand howl and keep skin and totem up](sd-steam-release-set-up-draw-a-circle-on-the-ground-for-grand-howl-and-keep-sk-1238a0ad.md) — #animals #game #jungle-book #maps-and-compass #movement #source-extracted #source-scouts-digital #time
+- [Steam release: — Spelling Bee](sd-steam-release-spelling-bee-9fa69588.md) — #game #movement #source-extracted #source-scouts-digital
 - [Sticks](sticks.md) — #game #birds
 - [Stir the soup](stir-the-soup.md) — #game
 - [Stone the castle](stone-the-castle.md) — #game
-- [Stop, drop and roll](stop-drop-and-roll.md) — #game
+- [Stop That Blood — First-aid Kit Selection Relay](sd-stop-that-blood-first-aid-kit-selection-relay-8f956c06.md) — #first-aid #game #needs-qualified-instruction #reference-only #source-extracted #source-scouts-digital
+- [Stop, drop and roll](stop-drop-and-roll.md) — #game #movement #source-extracted #source-pop #source-scouts-digital
 - [Submarines](submarines.md) — #game #water
 - [Surf Rescue](surf-rescue.md) — #game #water #health
+- [SW: The Silver Wolfs will be playing a game of Domino, the wood sign cards will be hidden in the yard and the SW](sd-sw-the-silver-wolfs-will-be-playing-a-game-of-domino-the-wood-sign-cards-wi-70149e91.md) — #check-visuals #game #source-extracted #source-scouts-digital #teamwork
+- [Sweet-cable Knotting Relay](sweet-cable-knotting-relay.md) — #game #relay #knots #reef-knot #hanking #rope #food #teamwork #indoor #silver-wolf-practice #source-scouts-digital
 - [Tackie Test](tackie-test.md) — #game
-- [Tails](tails.md) — #game
+- [Tails](tails.md) — #game #knots #source-extracted #source-pop #source-scouts-digital #teamwork
+- [Team Game - Water carrying](sd-team-game-water-carrying-16f413f2.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Team Game – Basket Ball](sd-team-game-basket-ball-fccc315e.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [Team Game – Get the little pig to his home](sd-team-game-get-the-little-pig-to-his-home-9a732861.md) — #check-visuals #game #knots #movement #source-extracted #source-scouts-digital #teamwork
+- [Team Game – Peek-a-who](sd-team-game-peek-a-who-6f9b83db.md) — #game #source-extracted #source-scouts-digital #teamwork
+- [TEAM GAME: All Tangled!](sd-team-game-all-tangled-e146ed54.md) — #check-visuals #game #knots #source-extracted #source-scouts-digital #teamwork
+- [Team Game: Ladders](sd-team-game-ladders-f24ee632.md) — #game #movement #source-extracted #source-scouts-digital #teamwork
+- [TEAM GAME: Rescue](sd-team-game-rescue-851595de.md) — #game #movement #source-extracted #source-scouts-digital #teamwork #water-safety
+- [TEAM GAME: Super Hero to the rescue](sd-team-game-super-hero-to-the-rescue-affd3dbc.md) — #game #needs-safety-review #source-extracted #source-scouts-digital #teamwork #water-safety
+- [Team Game: Unscramble the Outdoor Code](sd-team-game-unscramble-the-outdoor-code-445ef659.md) — #check-visuals #codes #environment #game #nature #source-extracted #source-scouts-digital #teamwork
 - [The](the.md) — #game
+- [THE GREAT FIRE OF LONDON - Steam Release](sd-the-great-fire-of-london-steam-release-d5c259f2.md) — #check-visuals #fire #first-aid #game #movement #source-extracted #source-scouts-digital
 - [The Mummy Wrap](the-mummy-wrap.md) — #game #health
 - [The Mystery Number](the-mystery-number.md) — #game
 - [The Postman and the Robbers](the-postman-and-the-robbers.md) — #game
+- [The Queen Is Coming — Command Game](queens-coming-commands.md) — #alice-in-wonderland #commands #game #movement #source-extracted #source-scouts-digital #teamwork
+- [The Queen's Croquet — Team Planks Caterpillar Relay (reference only)](queens-croquet-team-planks-reference.md) — #game #reference-only #needs-instructions #equipment-unclear #relay #steam-release #teamwork #alice-in-wonderland #source-scouts-digital
 - [Thunderbolt and Lightning](thunderbolt-and-lightning.md) — #game #water
 - [Tic Tac Toe](tic-tac-toe.md) — #game #water #health
 - [Tissue sprint. On a signal](tissue-sprint-on-a-signal.md) — #game #history #health
+- [Tools Kim’s Game](sd-tools-kim-s-game-5f21898c.md) — #check-visuals #game #knots #memory #needs-source-detail #reference-only #source-extracted #source-scouts-digital
 - [Touch in Sand](touch-in-sand.md) — #game #history
+- [Traditional Dance off Game: The Great South African Groove-Off](sd-traditional-dance-off-game-the-great-south-african-groove-off-c4d79b58.md) — #culture #game #source-extracted #source-scouts-digital #teamwork
+- [Tug-of-war](sd-tug-of-war-6bb5b36c.md) — #check-visuals #game #knots #maps-and-compass #source-extracted #source-scouts-digital #teamwork
 - [Underwater Puzzle The](underwater-puzzle-the.md) — #game
 - [Up River The](up-river-the.md) — #game #jungle #water #maps-and-compass
 - [Water Flowing](water-flowing.md) — #game #water
-- [Water Relay](Water-Relay.md) — #game #water #relay #teamwork
+- [Water Relay](Water-Relay.md) — #game #water #relay #teamwork #water #teamwork #sponge #relay #source-scouts-digital #source-pop
+- [Water safety game pre-prepared](sd-water-safety-game-pre-prepared-f82c2e3b.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital #water-safety
 - [Water the Horses](water-the-horses.md) — #game #water
 - [Whackem](whackem.md) — #game
 - [What Am I Doing?](what-am-i-doing.md) — #game
@@ -209,4 +484,12 @@ Use tags to find games that fit a programme; check each entry's source and safet
 - [Wheelbarrow Race](wheelbarrow-race.md) — #game #history
 - [Whizz, Bang, Flash!](whizz-bang-flash.md) — #game
 - [Who Is Missing?](who-is-missing-the.md) — #game #jungle #observation #quiet
+- [Wide Game:](sd-wide-game-e4d470cc.md) — #check-visuals #fire #game #source-extracted #source-scouts-digital
+- [WIDE GAME: Cub Red Light, Green Light](sd-wide-game-cub-red-light-green-light-5b8fea0d.md) — #flag #game #source-extracted #source-scouts-digital
+- [WIDE GAME: Flamingo Croquet](sd-wide-game-flamingo-croquet-7ed43295.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [WIDE GAME: Rock Paper Scissors Train](sd-wide-game-rock-paper-scissors-train-8590d505.md) — #game #programme-resource #source-extracted #source-scouts-digital
+- [Wide Game: Say What? Scavenger Hunt](sd-wide-game-say-what-scavenger-hunt-28ac14df.md) — #game #needs-source-detail #reference-only #source-extracted #source-scouts-digital
+- [Wide Game: Squirrels Nest Scramble.](sd-wide-game-squirrels-nest-scramble-126067dc.md) — #food #game #source-extracted #source-scouts-digital #teamwork
+- [WIDE GAME: Treasure Hunt](sd-wide-game-treasure-hunt-5e9b14c9.md) — #food #game #source-extracted #source-scouts-digital
 - [Wrote a Letter First](wrote-a-letter-first.md) — #game #maps-and-compass
+- [“Mum’s Shopping Relay”](sd-mum-s-shopping-relay-2af5391f.md) — #check-visuals #game #movement #source-extracted #source-scouts-digital #teamwork
